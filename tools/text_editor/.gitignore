@@ -1,0 +1,3 @@
+# Sauvegardes automatiques de l'editeur de textes (ne pas versionner)
+backups/
+__pycache__/
