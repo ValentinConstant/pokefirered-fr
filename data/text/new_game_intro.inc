@@ -128,35 +128,61 @@ gControlsGuide_Text_Intro::
     .string "The various buttons will be explained in\n"
     .string "the order of their importance.$"
 
+Les divers boutons sont expliqués dans\n
+l'ordre d'importance.
+
 gControlsGuide_Text_DPad::
     .string "Moves the main character.\n"
     .string "Also used to choose various data\n"
     .string "headings.$"
 
+Déplace le personnage.\n
+Sert aussi à choisir des\n
+options.
+
 gControlsGuide_Text_AButton::
     .string "Used to confirm a choice, check\n"
     .string "things, chat, and scroll text.$"
+
+Sert à valider, examiner\n
+parler, et lire le texte.
 
 gControlsGuide_Text_BButton::
     .string "Used to exit, cancel a choice,\n"
     .string "and cancel a mode.$"
 
+Sert à sortir, annuler choix,\n
+et annuler mode.
+
 gControlsGuide_Text_StartButton::
     .string "Press this button to open the\n"
     .string "MENU.$"
 
+Appuyez pour ouvrir MENU\n
+.
+
 gControlsGuide_Text_SelectButton::
     .string "Used to shift items and to use\n"
     .string "a registered item.$"
+
+Sert à bouger et utiliser\n
+un objet enreg.
 
 gControlsGuide_Text_LRButtons::
     .string "If you need help playing the\n"
     .string "game, or on how to do things,\n"
     .string "press the L or R Button.$"
 
+Si vous avez besoin d'aide\n
+en jeu, ou pour avancer,\n
+Appuyez sur L ou R.
+
 gOakSpeech_Text_AskPlayerGender::
     .string "Now tell me. Are you a boy?\n"
     .string "Or are you a girl?$"
+
+Et dis-moi. Es-tu un garçon?\n
+Ou une fille?
 
 gPikachuIntro_Text_Page1::
     .string "In the world which you are about to\n"
@@ -168,6 +194,15 @@ gPikachuIntro_Text_Page1::
     .string "or caves. Gather information and\n"
     .string "hints from every source.$"
 
+Dans le monde où tu vas\n
+entrer, tu vivras une grande\n
+aventure en héros.\n
+\n
+Parle aux gens et examine\n
+partout: villes, routes,\n
+grottes. Cherche des infos\n
+partout.
+
 gPikachuIntro_Text_Page2::
     .string "New paths will open to you by helping\n"
     .string "people in need, overcoming challenges,\n"
@@ -175,7 +210,15 @@ gPikachuIntro_Text_Page2::
     .string "\n"
     .string "At times, you will be challenged by\n"
     .string "others and attacked by wild creatures.\n"
-    .string "Be brave and keep pushing on.$"
+.string "Be brave and keep pushing on.$"
+
+Aide les gens, et de nouveaux\n
+chemins s'ouvriront, en\n
+résolvant des mystères.\n
+\n
+Parfois, tu seras défié par\n
+d'autres ou des créatures.\n
+Sois brave et persévère.
 
 gPikachuIntro_Text_Page3::
     .string "Through your adventure, we hope\n"
@@ -186,6 +229,14 @@ gPikachuIntro_Text_Page3::
     .string "Press the A Button, and let your\n"
     .string "adventure begin!$"
 
+Pendant ton aventure, on\n
+espère que tu vas rencontrer\n
+plein de gens et grandir.\n
+C'est notre but principal.\n
+\n
+Appuie sur A, et\n
+que ça commence!
+
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "Hello, there!\n"
     .string "Glad to meet you!\p"
@@ -194,12 +245,24 @@ gOakSpeech_Text_WelcomeToTheWorld::
     .string "People affectionately refer to me\n"
     .string "as the POKéMON PROFESSOR.\p$"
 
+Bonjour!\n
+Ravi de te voir!\pn
+Bienvenue dans le monde POKéMON!\pn
+Je suis CHEN.\pn
+Les gens m'appellent\n
+le PROF POKéMON.\pn
+
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "This world\.$"
+
+Ce monde\.
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…is inhabited far and wide by\n"
     .string "creatures called POKéMON.\p$"
+
+\.est peuplé de\n
+créatures: POKéMON.\pn
 
 gOakSpeech_Text_IStudyPokemon::
     .string "For some people, POKéMON are pets.\n"
@@ -207,17 +270,31 @@ gOakSpeech_Text_IStudyPokemon::
     .string "As for myself…\p"
     .string "I study POKéMON as a profession.\p$"
 
+Certains en font des animaux\n
+d'autres les font combattre.\pn
+Moi\.\pn
+J'étudie les POKéMON.\pn
+
 gOakSpeech_Text_TellMeALittleAboutYourself::
     .string "But first, tell me a little about\n"
     .string "yourself.\p$"
+
+Mais d'abord, parle-moi un peu\n
+de toi.\pn
 
 gOakSpeech_Text_YourNameWhatIsIt::
     .string "Let's begin with your name.\n"
     .string "What is it?\p$"
 
+Commençons par ton nom.\n
+C'est quoi?\pn
+
 gOakSpeech_Text_SoYourNameIsPlayer::
     .string "Right…\n"
     .string "So your name is {PLAYER}.$"
+
+Ok\.\n
+Donc, tu es [player].
 
 gOakSpeech_Text_WhatWasHisName::
     .string "This is my grandson.\p"
@@ -225,15 +302,27 @@ gOakSpeech_Text_WhatWasHisName::
     .string "were babies.\p"
     .string "…Erm, what was his name now?$"
 
+Mon petit-fils.\pn
+C'est ton rival depuis\n
+l'enfance.\pn
+…Euh, c'est quoi son nom?
+
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
     .string "Your rival's name, what was it now?$"
+
+Le nom de ton rival, c'est quoi?
 
 gOakSpeech_Text_ConfirmRivalName::
     .string "…Er, was it {RIVAL}?$"
 
+…[rival], c'est ça?
+
 gOakSpeech_Text_RememberRivalsName::
     .string "That's right! I remember now!\n"
     .string "His name is {RIVAL}!\p$"
+
+C'est vrai! J'm'en souviens!\n
+Son nom est [rival]!\pn
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
@@ -241,3 +330,9 @@ gOakSpeech_Text_LetsGo::
     .string "about to unfold!\p"
     .string "A world of dreams and adventures\n"
     .string "with POKéMON awaits! Let's go!$"
+
+[player]\pn
+Ta propre légende POKéMON\n
+va commencer!\pn
+Un monde de rêves, d'aventures\n
+POKéMON t'attend! C'est parti!
