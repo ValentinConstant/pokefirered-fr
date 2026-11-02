@@ -45,16 +45,16 @@ EventScript_DontCutTree::
 	end
 
 Text_CutTreeDown::
-	.string "This tree looks like it can be CUT\n"
-	.string "down!\p"
-	.string "Would you like to CUT it?$"
+    .string "Cet arbre semble pouvoir être\n"
+    .string "coupé!\p"
+    .string "Veux-tu utiliser COUPE?$"
 
 Text_MonUsedMove::
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+    .string "{STR_VAR_1} utilise {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
-	.string "This tree looks like it can be CUT\n"
-	.string "down!$"
+    .string "Cet arbre semble pouvoir être\n"
+    .string "coupé!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -109,12 +109,12 @@ EventScript_DontSmashRock::
 	end
 
 Text_UseRockSmash::
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+    .string "Ce rocher semble fragile.\n"
+    .string "Veux-tu utiliser ÉCLATE-ROC?$"
 
 Text_MonMaySmashRock::
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+    .string "C'est un rocher solide, mais un\n"
+    .string "POKéMON pourrait le briser.$"
 
 EventScript_StrengthBoulder::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -158,22 +158,22 @@ EventScript_DontUseStrength::
 	end
 
 Text_UseStrength::
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+    .string "C'est un gros rocher, mais un\n"
+    .string "POKéMON pourrait le pousser.\p"
+    .string "Veux-tu utiliser FORCE?$"
 
 Text_MonUsedStrengthCanMoveBoulders::
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
+    .string "{STR_VAR_1} utilise FORCE!\p"
+    .string "La FORCE de {STR_VAR_1} permet\n"
+    .string "de déplacer les rochers!$"
 
 Text_MonMayPushBoulder::
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
+    .string "C'est un gros rocher, mais un\n"
+    .string "POKéMON pourrait le pousser.$"
 
 Text_StrengthMadeMovingBouldersPossible::
-	.string "STRENGTH made it possible to move\n"
-	.string "boulders around.$"
+    .string "FORCE permet de déplacer\n"
+    .string "les rochers.$"
 
 EventScript_Waterfall::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -197,15 +197,15 @@ EventScript_EndWaterfall:
 	end
 
 Text_WallOfWaterCrashingDown::
-	.string "A wall of water is crashing down\n"
-	.string "with a mighty roar.$"
+    .string "Un mur d'eau s'abat dans un\n"
+    .string "grondement terrible.$"
 
 Text_UseWaterfall::
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+    .string "C'est une grande cascade.\n"
+    .string "Veux-tu utiliser CASCADE?$"
 
 Text_MonUsedWaterfall::
-	.string "{STR_VAR_1} used WATERFALL.$"
+    .string "{STR_VAR_1} utilise CASCADE.$"
 
 @ Unused leftover from R/S
 EventScript_DeepWater::
@@ -255,31 +255,31 @@ EventScript_EndSurface:
 	end
 
 Text_MonMayGoUnderwater::
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+    .string "La mer est profonde. Un POKéMON\n"
+    .string "pourrait plonger.$"
 
 Text_SeaIsDeepUseDive::
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+    .string "La mer est profonde ici.\n"
+    .string "Veux-tu utiliser PLONGÉE?$"
 
 Text_MonUsedDive::
-	.string "{STR_VAR_1} used DIVE.$"
+    .string "{STR_VAR_1} utilise PLONGÉE.$"
 
 Text_MonMaySurface::
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+    .string "La lumière filtre d'en haut.\n"
+    .string "Un POKéMON pourrait remonter.$"
 
 Text_LightFilteringUseDive::
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+    .string "La lumière filtre d'en haut.\n"
+    .string "Veux-tu utiliser PLONGÉE?$"
 
 Text_DiveCantBeUsedHere::
-	.string "There is an obstacle above.\n"
-	.string "DIVE can't be used here.$"
+    .string "Il y a un obstacle au-dessus.\n"
+    .string "PLONGÉE est inutilisable ici.$"
 
 EventScript_FailSweetScent::
 	msgbox Text_LooksLikeNothingHere, MSGBOX_SIGN
 	end
 
 Text_LooksLikeNothingHere::
-	.string "Looks like there's nothing here…$"
+    .string "Il n'y a rien ici, on dirait…$"

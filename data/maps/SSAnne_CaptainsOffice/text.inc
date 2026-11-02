@@ -1,53 +1,53 @@
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-    .string "CAPTAIN: Ooargh…\n"
-    .string "I feel hideous…\l"
-    .string "Urrp! Seasick…$"
+    .string "CAPITAINE: Ooargh…\n"
+    .string "Je me sens affreux…\l"
+    .string "Beurp! Le mal de mer…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-    .string "{PLAYER} rubbed the CAPTAIN's\n"
-    .string "back!\p"
-    .string "Rub-rub…\n"
-    .string "Rub-rub…$"
+    .string "{PLAYER} frotte le dos du\n"
+    .string "CAPITAINE!\p"
+    .string "Frotte-frotte…\n"
+    .string "Frotte-frotte…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-    .string "CAPTAIN: Whew! Thank you!\n"
-    .string "I'm feeling much better now.\p"
-    .string "You want to see my hidden CUT\n"
-    .string "technique?\p"
-    .string "I could show you my prized CUT\n"
-    .string "technique if I weren't so ill…\p"
-    .string "I know! You can have this!\n"
-    .string "This HIDDEN MACHINE!\p"
-    .string "Teach CUT to your POKéMON, and\n"
-    .string "you can see it CUT anytime!$"
+    .string "CAPITAINE: Ouf! Merci!\n"
+    .string "Je me sens bien mieux.\p"
+    .string "Tu veux voir ma technique secrète\n"
+    .string "de COUPE?\p"
+    .string "Je te montrerais ma précieuse\n"
+    .string "COUPE si je n'étais pas si malade…\p"
+    .string "Je sais! Prends ceci!\n"
+    .string "Cette CAPSULE SECRÈTE!\p"
+    .string "Apprends COUPE à ton POKéMON, et\n"
+    .string "tu pourras le voir COUPER à loisir!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-    .string "{PLAYER} obtained HM01\n"
-    .string "from the CAPTAIN!$"
+    .string "{PLAYER} obtient la CS01\n"
+    .string "du CAPITAINE!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
-    .string "Using CUT, you can chop down\n"
-    .string "small trees.\p"
-    .string "Why not try it with the trees\n"
-    .string "around VERMILION CITY?$"
+    .string "Avec COUPE, tu peux abattre les\n"
+    .string "petits arbres.\p"
+    .string "Pourquoi ne pas essayer sur ceux\n"
+    .string "autour de CARMIN-SUR-MER?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-    .string "CAPTAIN: …Whew!\p"
-    .string "Now that I'm not sick anymore,\n"
-    .string "I guess it's time.\p"
-    .string "The S.S. ANNE will set sail soon!\p"
-    .string "Farewell, until our return to\n"
-    .string "VERMILION CITY!$"
+    .string "CAPITAINE: …Ouf!\p"
+    .string "Maintenant que je ne suis plus\n"
+    .string "malade, il est temps.\p"
+    .string "L'OCÉANE va bientôt lever l'ancre!\p"
+    .string "Adieu, jusqu'à notre retour à\n"
+    .string "CARMIN-SUR-MER!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-    .string "Oh, no!\n"
-    .string "You have no room for this!$"
+    .string "Oh, non!\n"
+    .string "Tu n'as pas de place pour ça!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
-    .string "Yuck!\n"
-    .string "Shouldn't have looked!$"
+    .string "Beurk!\n"
+    .string "J'aurais pas dû regarder!$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-    .string "How to Conquer Seasickness…\n"
-    .string "The CAPTAIN's reading this!$"
+    .string "Vaincre le mal de mer…\n"
+    .string "Le CAPITAINE lit ça!$"
 

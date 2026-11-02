@@ -1,156 +1,156 @@
 SixIsland_PatternBush_Text_BethanyIntro::
-    .string "I'm curious, how do you raise your\n"
+    .string "Dis-moi, comment élèves-tu tes\n"
     .string "POKéMON?$"
 
 SixIsland_PatternBush_Text_BethanyDefeat::
-    .string "You raise your POKéMON with a\n"
-    .string "whole lot of love!$"
+    .string "Tu élèves tes POKéMON avec\n"
+    .string "beaucoup d'amour!$"
 
 SixIsland_PatternBush_Text_BethanyPostBattle::
-    .string "In the same way your mother raised\n"
-    .string "you full of love, you should raise\l"
-    .string "your POKéMON.$"
+    .string "Comme ta mère t'a élevé avec\n"
+    .string "amour, tu dois élever tes\l"
+    .string "POKéMON.$"
 
 SixIsland_PatternBush_Text_AllisonIntro::
-    .string "I'm working to preserve the natural\n"
-    .string "ecology of POKéMON here.$"
+    .string "Je travaille à préserver\n"
+    .string "l'écosystème des POKéMON d'ici.$"
 
 SixIsland_PatternBush_Text_AllisonDefeat::
-    .string "Oh, for someone so young, you are\n"
-    .string "tremendous!$"
+    .string "Oh, si jeune et déjà si fort!$"
 
 SixIsland_PatternBush_Text_AllisonPostBattle::
-    .string "I'm not saying that you shouldn't\n"
-    .string "catch POKéMON.\p"
-    .string "I just want people to raise their\n"
-    .string "POKéMON responsibly.$"
+    .string "Je ne dis pas qu'il ne faut pas\n"
+    .string "attraper de POKéMON.\p"
+    .string "Je veux juste qu'on élève les\n"
+    .string "POKéMON de façon responsable.$"
 
 SixIsland_PatternBush_Text_GarretIntro::
-    .string "I caught a BUG POKéMON that lives\n"
-    .string "only around here!$"
+    .string "J'ai attrapé un POKéMON INSECTE qui\n"
+    .string "ne vit qu'ici!$"
 
 SixIsland_PatternBush_Text_GarretDefeat::
-    .string "Heheh…\n"
-    .string "Isn't my POKéMON awesome?$"
+    .string "Héhé…\n"
+    .string "Mon POKéMON est génial, non?$"
 
 SixIsland_PatternBush_Text_GarretPostBattle::
-    .string "There's a girl near the BUSH who\n"
-    .string "measures HERACROSS for TRAINERS.$"
+    .string "Une fille près des FORBUISSONS\n"
+    .string "mesure les SCARHINO des DRESSEURS.$"
 
 SixIsland_PatternBush_Text_JonahIntro::
-    .string "You know, it just doesn't feel right\n"
-    .string "if I don't use BUG POKéMON.$"
+    .string "Tu sais, ça ne me semble pas juste\n"
+    .string "si je n'utilise pas de POKéMON\l"
+    .string "INSECTE.$"
 
 SixIsland_PatternBush_Text_JonahDefeat::
-    .string "It's okay, losing is a fun part of\n"
-    .string "POKéMON's appeal, too.$"
+    .string "Ça va, perdre fait aussi partie du\n"
+    .string "charme des POKéMON.$"
 
 SixIsland_PatternBush_Text_JonahPostBattle::
-    .string "By the way, “appeal” is a weird\n"
-    .string "word, if you think about it.\p"
-    .string "Like, is it like an orange peel?\n"
-    .string "Or like a ringing bell?$"
+    .string "Au fait, “charme”, c'est un mot\n"
+    .string "bizarre, si on y pense.\p"
+    .string "Comme l'arbre? Ou comme un sort\n"
+    .string "jeté sur quelqu'un?$"
 
 SixIsland_PatternBush_Text_VanceIntro::
-    .string "Yeah, yeah, yeah!\n"
-    .string "Look at all the BUG POKéMON!$"
+    .string "Ouais, ouais, ouais!\n"
+    .string "Regarde tous ces POKéMON INSECTE!$"
 
 SixIsland_PatternBush_Text_VanceDefeat::
-    .string "I got beat while I was still busy\n"
-    .string "celebrating!$"
+    .string "J'ai été battu alors que je faisais\n"
+    .string "encore la fête!$"
 
 SixIsland_PatternBush_Text_VancePostBattle::
-    .string "I'm going to bring my little brother\n"
-    .string "here next time.$"
+    .string "La prochaine fois, j'amène mon\n"
+    .string "petit frère.$"
 
 SixIsland_PatternBush_Text_NashIntro::
-    .string "Look, look! There are funny\n"
-    .string "patterns on the ground.$"
+    .string "Regarde, regarde! Il y a de drôles\n"
+    .string "de motifs au sol.$"
 
 SixIsland_PatternBush_Text_NashDefeat::
-    .string "Super awesome!$"
+    .string "Super génial!$"
 
 SixIsland_PatternBush_Text_NashPostBattle::
-    .string "The funny patterns on the ground…\p"
-    .string "They look like the patterns on my\n"
-    .string "grandpa's clothes.$"
+    .string "Les drôles de motifs au sol…\p"
+    .string "On dirait les motifs des vêtements\n"
+    .string "de mon grand-père.$"
 
 SixIsland_PatternBush_Text_CordellIntro::
-    .string "I bet you think I'm just some guy,\n"
-    .string "don't you, eh?$"
+    .string "Tu crois que je suis un gars\n"
+    .string "quelconque, hein?$"
 
 SixIsland_PatternBush_Text_CordellDefeat::
-    .string "I bet you think I'm weak,\n"
-    .string "don't you, eh?$"
+    .string "Tu crois que je suis faible,\n"
+    .string "hein?$"
 
 SixIsland_PatternBush_Text_CordellPostBattle::
-    .string "Ayup, you townies come around all\n"
-    .string "so dandy with a hat that flashy…\p"
-    .string "How about giving me that?$"
+    .string "Ouais, vous les citadins, vous\n"
+    .string "venez frimer avec vos chapeaux\l"
+    .string "voyants…\p"
+    .string "Tu me le donnes?$"
 
 SixIsland_PatternBush_Text_DaliaIntro::
-    .string "Take a deep breath.\n"
-    .string "Isn't the air delicious?$"
+    .string "Respire profondément.\n"
+    .string "L'air n'est-il pas délicieux?$"
 
 SixIsland_PatternBush_Text_DaliaDefeat::
-    .string "If you'd like, I can teach you how\n"
-    .string "to breathe properly.$"
+    .string "Si tu veux, je peux t'apprendre à\n"
+    .string "bien respirer.$"
 
 SixIsland_PatternBush_Text_DaliaPostBattle::
-    .string "First, exhale.\n"
-    .string "Blow everything out.\p"
-    .string "When you can't exhale anymore,\n"
-    .string "inhale the clean air!\p"
-    .string "Isn't it refreshing?$"
+    .string "D'abord, expire.\n"
+    .string "Vide tout.\p"
+    .string "Quand tu ne peux plus expirer,\n"
+    .string "inspire l'air pur!\p"
+    .string "C'est revigorant, non?$"
 
 SixIsland_PatternBush_Text_JoanaIntro::
-    .string "I love BUG POKéMON.\n"
-    .string "That's why I'm here all the time.\p"
-    .string "Am I the only girl like that?$"
+    .string "J'adore les POKéMON INSECTE. C'est\n"
+    .string "pour ça que je suis toujours ici.\p"
+    .string "Je suis la seule fille comme ça?$"
 
 SixIsland_PatternBush_Text_JoanaDefeat::
-    .string "I lost, but I'm still laughing.\n"
-    .string "Am I the only girl like that?$"
+    .string "J'ai perdu, mais je ris encore.\n"
+    .string "Je suis la seule fille comme ça?$"
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
-    .string "I'm going to keep on collecting\n"
-    .string "BUG POKéMON.\p"
-    .string "Am I the only girl like that?$"
+    .string "Je vais continuer à collectionner\n"
+    .string "les POKéMON INSECTE.\p"
+    .string "Je suis la seule fille comme ça?$"
 
 SixIsland_PatternBush_Text_RileyIntro::
-    .string "This is a good spot.\n"
-    .string "I'll pitch my tent here.$"
+    .string "C'est un bon endroit.\n"
+    .string "Je vais planter ma tente ici.$"
 
 SixIsland_PatternBush_Text_RileyDefeat::
-    .string "Wimped out…$"
+    .string "Dégonflé…$"
 
 SixIsland_PatternBush_Text_RileyPostBattle::
-    .string "I'm going to observe the night sky\n"
-    .string "here.$"
+    .string "Je vais observer le ciel nocturne\n"
+    .string "d'ici.$"
 
 SixIsland_PatternBush_Text_MarcyIntro::
-    .string "Oh, yuck!\n"
-    .string "I think a bug stung me!$"
+    .string "Oh, beurk!\n"
+    .string "Je crois qu'un insecte m'a piquée!$"
 
 SixIsland_PatternBush_Text_MarcyDefeat::
-    .string "It wasn't a bug.\n"
-    .string "I cut my shin on some grass.$"
+    .string "Ce n'était pas un insecte. Je me\n"
+    .string "suis coupé le tibia sur l'herbe.$"
 
 SixIsland_PatternBush_Text_MarcyPostBattle::
-    .string "A little cut like that…\n"
-    .string "A little spit's enough to cure it!$"
+    .string "Une petite coupure comme ça… Un peu\n"
+    .string "de salive suffit à la guérir!$"
 
 SixIsland_PatternBush_Text_LaytonIntro::
-    .string "Have you noticed something odd\n"
-    .string "about these parts?$"
+    .string "Tu as remarqué quelque chose\n"
+    .string "d'étrange par ici?$"
 
 SixIsland_PatternBush_Text_LaytonDefeat::
-    .string "Have you taken a good look around\n"
-    .string "your feet?$"
+    .string "As-tu bien regardé à tes pieds?$"
 
 SixIsland_PatternBush_Text_LaytonPostBattle::
-    .string "There are places here in PATTERN\n"
-    .string "BUSH where grass won't grow.\p"
-    .string "What could be the cause of such\n"
-    .string "a phenomenon?$"
+    .string "À certains endroits des\n"
+    .string "FORBUISSONS, l'herbe ne pousse pas.\p"
+    .string "Qu'est-ce qui peut causer un tel\n"
+    .string "phénomène?$"
 

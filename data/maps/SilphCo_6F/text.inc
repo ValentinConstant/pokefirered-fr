@@ -1,76 +1,76 @@
 SilphCo_6F_Text_RocketsTookOverBuilding::
-    .string "The ROCKETS came and took over\n"
-    .string "the building!$"
+    .string "Les ROCKETS sont venus et ont pris\n"
+    .string "l'immeuble!$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
-    .string "Well, better get back to work.$"
+    .string "Bon, je retourne au travail.$"
 
 SilphCo_6F_Text_HelpMePlease::
-    .string "Oh dear, oh dear.\n"
-    .string "Help me, please!$"
+    .string "Oh là là, oh là là.\n"
+    .string "Aidez-moi, s'il vous plaît!$"
 
 SilphCo_6F_Text_WeGotEngaged::
-    .string "We got engaged.\n"
-    .string "Heheh!$"
+    .string "On s'est fiancés.\n"
+    .string "Héhé!$"
 
 SilphCo_6F_Text_ThatManIsSuchACoward::
-    .string "That man next to me…\n"
-    .string "He's such a coward!$"
+    .string "L'homme à côté de moi…\n"
+    .string "Quel lâche!$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
-    .string "He's so helpless, he needed\n"
-    .string "someone like me to look after him.$"
+    .string "Il est si démuni qu'il lui fallait\n"
+    .string "quelqu'un comme moi pour veiller.$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-    .string "TEAM ROCKET is trying to conquer\n"
-    .string "the world with POKéMON.$"
+    .string "La TEAM ROCKET veut conquérir le\n"
+    .string "monde avec les POKéMON.$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
-    .string "TEAM ROCKET ran away, and it's all\n"
-    .string "because of you!$"
+    .string "La TEAM ROCKET s'est enfuie, et\n"
+    .string "c'est grâce à toi!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
-    .string "They must have targeted SILPH for\n"
-    .string "our POKéMON products.$"
+    .string "Ils ont dû viser SYLPHE pour nos\n"
+    .string "produits POKéMON.$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
-    .string "Come work for SILPH when you\n"
-    .string "get older.$"
+    .string "Viens travailler chez SYLPHE quand\n"
+    .string "tu seras grand.$"
 
 SilphCo_6F_Text_Grunt1Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "Je suis l'un des quatre FRÈRES\n"
+    .string "ROCKET!$"
 
 SilphCo_6F_Text_Grunt1Defeat::
-    .string "Flame out!$"
+    .string "Flamme éteinte!$"
 
 SilphCo_6F_Text_Grunt1PostBattle::
-    .string "No matter!\n"
-    .string "My brothers will avenge me!$"
+    .string "Peu importe!\n"
+    .string "Mes frères me vengeront!$"
 
 SilphCo_6F_Text_TaylorIntro::
-    .string "That rotten PRESIDENT!\p"
-    .string "Serves him right for shipping me\n"
-    .string "off to the TIKSI BRANCH!\p"
-    .string "That's why TEAM ROCKET came after\n"
-    .string "us, I'm sure of it!$"
+    .string "Ce PRÉSIDENT pourri!\p"
+    .string "Il l'a bien mérité, lui qui m'a\n"
+    .string "muté à l'AGENCE de TIKSI!\p"
+    .string "C'est pour ça que la TEAM ROCKET\n"
+    .string "s'en prend à nous, j'en suis sûr!$"
 
 SilphCo_6F_Text_TaylorDefeat::
-    .string "Shoot!$"
+    .string "Zut!$"
 
 SilphCo_6F_Text_TaylorPostBattle::
-    .string "TIKSI BRANCH?\n"
-    .string "It's in Russian no-man's-land!$"
+    .string "L'AGENCE de TIKSI?\n"
+    .string "C'est au fin fond de la Russie!$"
 
 SilphCo_6F_Text_Grunt2Intro::
-    .string "You dare betray TEAM ROCKET?$"
+    .string "Tu oses trahir la TEAM ROCKET?$"
 
 SilphCo_6F_Text_Grunt2Defeat::
-    .string "You traitor!$"
+    .string "Traître!$"
 
 SilphCo_6F_Text_Grunt2PostBattle::
-    .string "If you stand for justice, you\n"
-    .string "betray us bad guys!$"
+    .string "Si tu défends la justice, tu trahis\n"
+    .string "les méchants comme nous!$"
 
 SilphCo_6F_Text_FloorSign::
     .string "SILPH CO. HEAD OFFICE\n"

@@ -1,22 +1,22 @@
 SSAnne_2F_Room4_Text_LamarIntro::
-    .string "Which do you find more worthy,\n"
-    .string "a strong or a rare POKéMON?$"
+    .string "Qu'est-ce qui a le plus de valeur,\n"
+    .string "un POKéMON fort ou rare?$"
 
 SSAnne_2F_Room4_Text_LamarDefeat::
-    .string "I must salute you!$"
+    .string "Je te salue bien bas!$"
 
 SSAnne_2F_Room4_Text_LamarPostBattle::
-    .string "Personally, I prefer strong and\n"
-    .string "rare POKéMON.$"
+    .string "Personnellement, je préfère les\n"
+    .string "POKéMON forts et rares.$"
 
 SSAnne_2F_Room4_Text_DawnIntro::
-    .string "I don't believe I saw you at the\n"
-    .string "party?$"
+    .string "Je ne crois pas t'avoir vu à la\n"
+    .string "fête?$"
 
 SSAnne_2F_Room4_Text_DawnDefeat::
-    .string "Take it easy!$"
+    .string "Doucement!$"
 
 SSAnne_2F_Room4_Text_DawnPostBattle::
-    .string "Oh, I adore your strong POKéMON!\n"
-    .string "Oh, how I envy you for them!$"
+    .string "Oh, j'adore tes POKéMON si forts!\n"
+    .string "Oh, comme je t'envie!$"
 

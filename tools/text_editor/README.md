@@ -16,14 +16,21 @@ et `items.h` (généré au build).
 
 ## Lancement
 
-Double-cliquez **`Lancer_editeur.bat`** (Windows), ou en ligne de commande :
+Trois façons de lancer l'éditeur (Windows) :
 
-```sh
-python edit_text.py
-```
+- Double-cliquez **`Editeur_textes.exe`** (aucun Python requis, mais doit être
+  regénéré après une modif de `edit_text.py` — voir plus bas).
+- Double-cliquez **`Lancer_editeur.bat`** (nécessite Python).
+- En ligne de commande : `python edit_text.py`
 
 Le navigateur s'ouvre automatiquement sur <http://localhost:8765>.
-Fermez avec `Ctrl+C` dans la console.
+Fermez avec `Ctrl+C` dans la console (ou fermez la fenêtre pour l'exe).
+
+### Regénérer l'exe
+
+`Editeur_textes.exe` n'est pas versionné (binaire, dépend de la machine).
+Après toute modif de `edit_text.py`, double-cliquez **`build_exe.bat`** pour le
+recompiler (installe PyInstaller si besoin, puis régénère l'exe dans ce dossier).
 
 ## Utilisation
 

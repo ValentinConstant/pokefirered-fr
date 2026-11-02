@@ -1,14 +1,17 @@
 VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
-    .string "There are wicked people who will\n"
-    .string "use POKéMON for criminal acts.\p"
-    .string "TEAM ROCKET traffics in rare\n"
-    .string "POKéMON, for example.\p"
-    .string "They also abandon POKéMON that\n"
-    .string "they consider unpopular or useless.\p"
-    .string "That's the sort of horrid people\n"
-    .string "they are, TEAM ROCKET.$"
+    .string "Il y a des gens mauvais qui\n"
+    .string "utilisent les POKéMON pour des\l"
+    .string "crimes.\p"
+    .string "La TEAM ROCKET fait par exemple du\n"
+    .string "trafic de POKéMON rares.\p"
+    .string "Ils abandonnent aussi les POKéMON\n"
+    .string "qu'ils jugent impopulaires ou\l"
+    .string "inutiles.\p"
+    .string "Voilà le genre de gens horribles\n"
+    .string "qu'ils sont, la TEAM ROCKET.$"
 
 VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
-    .string "I think POKéMON can be good or\n"
-    .string "bad. It depends on the TRAINER.$"
+    .string "Je crois que les POKéMON peuvent\n"
+    .string "être bons ou mauvais selon le\l"
+    .string "DRESSEUR.$"
 

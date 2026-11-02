@@ -2,17 +2,17 @@ SafariZone_West_Text_RestHouse::
     .string "REST HOUSE$"
 
 SafariZone_West_Text_PleaseFindWardensLostTeeth::
-    .string "REQUEST NOTICE\p"
-    .string "Please find the SAFARI WARDEN's\n"
-    .string "lost GOLD TEETH.\l"
-    .string "They're around here somewhere.\p"
-    .string "Reward offered!\n"
-    .string "Contact: WARDEN$"
+    .string "AVIS DE RECHERCHE\p"
+    .string "Merci de retrouver le DENTIER OR\n"
+    .string "perdu du GARDIEN du SAFARI.\l"
+    .string "Il est quelque part par ici.\p"
+    .string "Récompense promise!\n"
+    .string "Contact: GARDIEN$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-    .string "TRAINER TIPS\p"
-    .string "Zone Exploration Campaign!\n"
-    .string "The Search for the SECRET HOUSE!$"
+    .string "CONSEILS AUX DRESSEURS\p"
+    .string "Promotion exploration! À la\n"
+    .string "recherche de la MAISON SECRÈTE!$"
 
 SafariZone_West_Text_AreaSign::
     .string "AREA 3\n"

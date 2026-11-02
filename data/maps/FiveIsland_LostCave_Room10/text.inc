@@ -1,16 +1,15 @@
 FiveIsland_LostCave_Room10_Text_SelphyIntro::
-    .string "W-what do you intend to do with\n"
-    .string "me?$"
+    .string "Q-que comptes-tu faire de moi?$"
 
 FiveIsland_LostCave_Room10_Text_SelphyDefeat::
-    .string "Oh… I was afraid that you meant to\n"
-    .string "harm me.$"
+    .string "Oh… J'avais peur que tu veuilles\n"
+    .string "me faire du mal.$"
 
 FiveIsland_LostCave_Room10_Text_MayIAskYouToTakeMeHome::
-    .string "I am so glad that you happened\n"
-    .string "here.\p"
-    .string "I grew rather bored of walking,\n"
-    .string "and I am feeling fatigued.\p"
-    .string "May I ask you to take me home\n"
-    .string "from here?$"
+    .string "Je suis si contente que tu sois\n"
+    .string "passé par ici.\p"
+    .string "Je suis lasse de marcher, et je\n"
+    .string "me sens fatiguée.\p"
+    .string "Puis-je te demander de me\n"
+    .string "raccompagner chez moi?$"
 

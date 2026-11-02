@@ -4,18 +4,18 @@ Route11_EastEntrance_1F_Text_BagIsFull::
     .string "いっぱい　みたい　だね$"
 
 Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
-    .string "Don't you think it's hard to think\n"
-    .string "up good names for POKéMON?\p"
-    .string "Especially if you've caught a\n"
-    .string "whole bunch?\p"
-    .string "In LAVENDER TOWN, there's a man\n"
-    .string "who rates POKéMON nicknames.\p"
-    .string "He can even help you rename your\n"
-    .string "POKéMON, too.$"
+    .string "C'est dur de trouver de bons noms\n"
+    .string "pour les POKéMON, non?\p"
+    .string "Surtout si tu en as attrapé\n"
+    .string "tout un tas?\p"
+    .string "À LAVANVILLE, un homme juge les\n"
+    .string "surnoms des POKéMON.\p"
+    .string "Il peut même t'aider à renommer\n"
+    .string "tes POKéMON.$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
-    .string "If you're aiming to reach LAVENDER\n"
-    .string "TOWN, take ROCK TUNNEL.\p"
-    .string "You can get to ROCK TUNNEL from\n"
-    .string "CERULEAN CITY.$"
+    .string "Si tu veux aller à LAVANVILLE,\n"
+    .string "prends la GROTTE.\p"
+    .string "Tu peux atteindre la GROTTE depuis\n"
+    .string "AZURIA.$"
 

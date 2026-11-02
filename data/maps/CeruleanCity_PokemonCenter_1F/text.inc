@@ -1,27 +1,28 @@
 CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
-    .string "That BILL!\p"
-    .string "I heard that he'll do whatever it\n"
-    .string "takes to get rare POKéMON.\p"
-    .string "He's not above doing all sorts\n"
-    .string "of things, I've heard.$"
+    .string "Ce LÉO!\p"
+    .string "Il paraît qu'il ferait n'importe\n"
+    .string "quoi pour avoir des POKéMON rares.\p"
+    .string "On dit qu'il n'hésite pas à faire\n"
+    .string "toutes sortes de choses.$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
-    .string "Have you heard about BILL?\p"
-    .string "Everyone calls him a POKéMANIAC!\p"
-    .string "I think people are just jealous of\n"
-    .string "BILL, though.\p"
-    .string "Who wouldn't want to boast about\n"
-    .string "their POKéMON?$"
+    .string "Tu as entendu parler de LÉO?\p"
+    .string "Tout le monde l'appelle le\n"
+    .string "POKéMANIAC!\p"
+    .string "Mais je crois que les gens sont\n"
+    .string "juste jaloux de LÉO.\p"
+    .string "Qui ne voudrait pas se vanter de\n"
+    .string "ses POKéMON?$"
 
 CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
-    .string "BILL has lots of POKéMON!\n"
-    .string "He collects rare ones, too!$"
+    .string "LÉO a plein de POKéMON!\n"
+    .string "Il collectionne aussi les rares!$"
 
 CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
-    .string "Why don't you go upstairs and try\n"
-    .string "trading POKéMON with your friends?\p"
-    .string "You could get a lot more variety\n"
-    .string "by trading.\p"
-    .string "The POKéMON you get in trades grow\n"
-    .string "quickly, too.$"
+    .string "Pourquoi ne pas monter à l'étage\n"
+    .string "pour échanger avec tes amis?\p"
+    .string "En échangeant, tu auras bien plus\n"
+    .string "de variété.\p"
+    .string "Et les POKéMON obtenus en échange\n"
+    .string "grandissent vite, en plus.$"
 

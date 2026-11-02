@@ -38,6 +38,9 @@ from pathlib import Path
 
 PORT = 8765
 
+# Dossier de l'application : celui de l'exe compile (PyInstaller), sinon celui du script.
+APP_DIR = Path(sys.executable).resolve().parent if getattr(sys, "frozen", False) else Path(__file__).resolve().parent
+
 # --- Regex de parsing ------------------------------------------------------
 # Forme tableau :   [SPECIES_BULBASAUR] = _("BULBASAUR"),
 ARRAY_RE = re.compile(r'^\s*(\[[A-Za-z0-9_]+\])\s*=\s*_\("((?:\\.|[^"\\])*)"\)')
@@ -99,8 +102,8 @@ GROUPED_KINDS = ("groups", "struct", "evos", "learnset", "trainers_party")
 
 def find_repo_root():
     """Retrouve la racine du depot en cherchant un fichier repere."""
-    here = Path(__file__).resolve()
-    candidates = [here.parent] + list(here.parents) + [Path.cwd()] + list(Path.cwd().parents)
+    here = APP_DIR
+    candidates = [here] + list(here.parents) + [Path.cwd()] + list(Path.cwd().parents)
     seen = set()
     for d in candidates:
         if d in seen:
@@ -126,6 +129,38 @@ def read_text(path):
 def write_text(path, text):
     with open(path, "w", encoding="utf-8", newline="\n") as f:
         f.write(text)
+
+
+# --- Avancement de traduction (heuristique) --------------------------------
+# Detection APPROXIMATIVE : accent francais ou mot-outil francais frequent.
+# Faux negatifs possibles (ex. noms identiques FR/EN sans accent, type PIKACHU).
+FR_ACCENT_RE = re.compile(r'[éèêëàâäôöùûüçœÉÈÊËÀÂÄÔÖÙÛÜÇŒ]')
+FR_WORD_RE = re.compile(
+    r'\b(?:le|la|les|un|une|des|du|de|et|est|pour|dans|que|qui|tu|je|vous|nous|'
+    r'ce|cette|ces|ça|pas|ne|avec|sur|au|aux|ton|ta|tes|mon|ma|mes|son|sa|ses|'
+    r'leur|leurs|etre|avoir|tres|plus|comme|alors|donc|mais|ou|quoi|rien|'
+    r'tout|tous|toutes|bien|peu|beaucoup|fois|vers|chez|sans|entre|depuis|'
+    r'parce|si|quand|comment|pourquoi|votre|notre|nos|vos)\b',
+    re.IGNORECASE,
+)
+
+
+def looks_translated(text):
+    if not text:
+        return False
+    return bool(FR_ACCENT_RE.search(text)) or bool(FR_WORD_RE.search(text))
+
+
+def compute_progress(texts):
+    total = 0
+    translated = 0
+    for t in texts:
+        if not t:
+            continue
+        total += 1
+        if looks_translated(t):
+            translated += 1
+    return {"translated": translated, "total": total}
 
 
 # --- Lecture des donnees ---------------------------------------------------
@@ -986,6 +1021,19 @@ def parse_group(cat, group):
 
 
 _groups_cache = {}
+_progress_cache = {}
+
+
+def compute_group_progress(cat):
+    if cat["id"] in _progress_cache:
+        return _progress_cache[cat["id"]]
+    texts = []
+    for g in list_groups(cat):
+        for e in parse_group_path(cat, group_path(cat, g)):
+            texts.append(e.get("value", ""))
+    result = compute_progress(texts)
+    _progress_cache[cat["id"]] = result
+    return result
 
 
 def list_groups(cat):
@@ -1627,6 +1675,7 @@ def build_payload():
                 "keycol": cat.get("keycol", "Texte"),
                 "count": len(groups),
                 "entries": [],
+                "progress_lazy": cat["kind"] == "groups",
             })
             continue
         if cat["kind"] == "json":
@@ -1649,6 +1698,12 @@ def build_payload():
             entries = parse_source_category(cat)
             twofields = False
             keycol = "Cle"
+        texts = []
+        for e in entries:
+            if twofields:
+                texts.append(" ".join(str(e.get(f, "") or "") for f in ("name", "desc")))
+            else:
+                texts.append(str(e.get("value", "") or ""))
         cats.append({
             "id": cat["id"],
             "label": cat["label"],
@@ -1658,6 +1713,7 @@ def build_payload():
             "keycol": keycol,
             "count": len(entries),
             "entries": entries,
+            "progress": compute_progress(texts),
         })
     return {"root": str(ROOT), "categories": cats}
 
@@ -1667,7 +1723,7 @@ def backup_files(files):
     if not files:
         return None
     stamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    dest = Path(__file__).resolve().parent / "backups" / stamp
+    dest = APP_DIR / "backups" / stamp
     dest.mkdir(parents=True, exist_ok=True)
     for rel in files:
         src = ROOT / rel
@@ -1900,6 +1956,7 @@ def save_changes(changes):
             a, w = save_strinc_file(cat, grp, edits)
         applied += a
         warnings.extend(w)
+        _progress_cache.pop(cat_id, None)
 
     return {"applied": applied, "warnings": warnings, "backup": backup_dir}
 
@@ -1934,6 +1991,17 @@ class Handler(http.server.BaseHTTPRequestHandler):
             try:
                 entries = parse_group(cat, group)
                 self._send(200, json.dumps({"entries": entries, "keycol": cat.get("keycol", "Texte")}, ensure_ascii=False))
+            except Exception as e:
+                self._send(500, json.dumps({"error": str(e)}))
+        elif self.path.startswith("/api/progress"):
+            params = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
+            cat_id = params.get("cat", [""])[0]
+            cat = next((c for c in CATEGORIES if c["id"] == cat_id), None)
+            if cat is None or cat["kind"] != "groups":
+                self._send(404, json.dumps({"error": "categorie inconnue"}))
+                return
+            try:
+                self._send(200, json.dumps(compute_group_progress(cat), ensure_ascii=False))
             except Exception as e:
                 self._send(500, json.dumps({"error": str(e)}))
         elif self.path == "/api/lists":
@@ -2025,6 +2093,10 @@ HTML = r"""<!DOCTYPE html>
   body { margin:0; font-family: "Segoe UI", system-ui, sans-serif; background:var(--bg); color:var(--txt); }
   header { background:var(--panel); padding:10px 16px; display:flex; align-items:center; gap:14px; position:sticky; top:0; z-index:10; box-shadow:0 2px 6px rgba(0,0,0,.4); flex-wrap:wrap; }
   header h1 { font-size:16px; margin:0; color:var(--accent); }
+  #progresswrap { display:flex; align-items:center; gap:8px; }
+  #progressbar { width:140px; height:10px; border-radius:5px; background:#1b1c22; border:1px solid #3a3d4a; overflow:hidden; }
+  #progressfill { height:100%; background:var(--ok); width:0%; transition:width .2s; }
+  #progresstext { font-size:12px; color:var(--muted); white-space:nowrap; }
   select, input[type=text] { background:#1b1c22; color:var(--txt); border:1px solid #3a3d4a; border-radius:6px; padding:6px 9px; font-size:14px; }
   #search { width:240px; }
   button { background:var(--accent); color:#fff; border:0; border-radius:6px; padding:8px 14px; font-size:14px; cursor:pointer; }
@@ -2107,6 +2179,10 @@ HTML = r"""<!DOCTYPE html>
   <select id="group" style="display:none; max-width:240px"></select>
   <input type="text" id="search" placeholder="Rechercher (cle ou texte)...">
   <span id="count"></span>
+  <div id="progresswrap" style="display:none" title="Estimation approximative (accents/mots francais)">
+    <div id="progressbar"><div id="progressfill"></div></div>
+    <span id="progresstext"></span>
+  </div>
   <button id="save" disabled>Enregistrer (<span id="nchanged">0</span>)</button>
   <button id="reload" class="secondary">Recharger</button>
   <span id="status"></span>
@@ -2143,6 +2219,7 @@ let DATA = null;
 let current = null;          // id de categorie
 let currentGroup = null;     // groupe (carte) pour les categories groupees
 const groupCache = {};       // "cat|group" -> entries
+const progressCache = {};    // cat id -> {translated, total} (categories groupees)
 const changes = new Map();   // ckey -> {category, group, i, field, value}
 let trainerData = null;      // cache de la vue empilee des dresseurs
 
@@ -2167,8 +2244,36 @@ async function load() {
 
 function getCat(id) { return DATA.categories.find(c => c.id === id); }
 
+async function renderProgress() {
+  const c = getCat(current);
+  const wrap = document.getElementById("progresswrap");
+  if (!c || (!c.progress && !c.progress_lazy)) { wrap.style.display = "none"; return; }
+  wrap.style.display = "";
+  let p = c.progress;
+  if (c.progress_lazy) {
+    p = progressCache[c.id];
+    if (!p) {
+      document.getElementById("progressfill").style.width = "0%";
+      document.getElementById("progresstext").textContent = "Calcul en cours...";
+      try {
+        const r = await fetch("/api/progress?cat=" + encodeURIComponent(c.id));
+        p = await r.json();
+        progressCache[c.id] = p;
+      } catch (e) {
+        document.getElementById("progresstext").textContent = "Erreur de calcul";
+        return;
+      }
+      if (current !== c.id) return;  // categorie changee entre-temps
+    }
+  }
+  const pct = p.total ? Math.round(100 * p.translated / p.total) : 0;
+  document.getElementById("progressfill").style.width = pct + "%";
+  document.getElementById("progresstext").textContent = p.translated + " / " + p.total + " (" + pct + "%)";
+}
+
 async function selectCategory() {
   const c = getCat(current);
+  renderProgress();
   const gsel = document.getElementById("group");
   if (c.kind === "trainers_party") {
     gsel.style.display = "none";
@@ -2319,6 +2424,7 @@ async function save() {
   setStatus(msg);
   changes.clear();
   for (const key in groupCache) delete groupCache[key];  // valeurs sur disque modifiees
+  for (const key in progressCache) delete progressCache[key];
   refreshSave();
   await load();
 }

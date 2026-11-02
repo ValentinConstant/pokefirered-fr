@@ -1,8 +1,8 @@
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
-    .string "Hello!\n"
-    .string "Welcome to CELADON DEPT. STORE.\p"
-    .string "The board on the right describes\n"
-    .string "the store layout.$"
+    .string "Bonjour! Bienvenue au CENTRE\n"
+    .string "COMMERCIAL de CÉLADOPOLE.\p"
+    .string "Le panneau à droite indique le\n"
+    .string "plan du magasin.$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
     .string "1F: SERVICE COUNTER\p"

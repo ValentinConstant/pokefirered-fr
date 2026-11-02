@@ -1,6 +1,6 @@
 SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis::
-    .string "I've journeyed far and wide, but in\n"
-    .string "all my travels I've never seen\l"
-    .string "any POKéMON sleep like this one!\p"
-    .string "It was something like this!$"
+    .string "J'ai voyagé partout, mais jamais\n"
+    .string "je n'ai vu un POKéMON dormir\l"
+    .string "comme celui-là!\p"
+    .string "Il ressemblait à ça!$"
 

@@ -1,81 +1,82 @@
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-    .string "TEAM ROCKET is in an uproar over\n"
-    .string "some intruder.\p"
-    .string "That's you, right?$"
+    .string "La TEAM ROCKET est en émoi à cause\n"
+    .string "d'un intrus.\p"
+    .string "C'est toi, non?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-    .string "TEAM ROCKET took off!\n"
-    .string "You're our hero! Thank you!$"
+    .string "La TEAM ROCKET s'est enfuie!\n"
+    .string "Tu es notre héros! Merci!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-    .string "I heard a kid was wandering\n"
-    .string "around.$"
+    .string "Il paraît qu'un gamin traîne dans\n"
+    .string "le coin.$"
 
 SilphCo_5F_Text_Grunt1Defeat::
-    .string "Boom!$"
+    .string "Boum!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-    .string "It's not smart to pick a fight with\n"
-    .string "TEAM ROCKET!$"
+    .string "Ce n'est pas malin de chercher la\n"
+    .string "bagarre avec la TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-    .string "We study POKé BALL technology on\n"
-    .string "this floor.$"
+    .string "À cet étage, on étudie la\n"
+    .string "technologie des POKé BALLS.$"
 
 SilphCo_5F_Text_BeauDefeat::
-    .string "Dang!\n"
-    .string "Blast it!$"
+    .string "Zut!\n"
+    .string "Bon sang!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-    .string "We worked on the ultimate POKé\n"
-    .string "BALL which would catch anything.$"
+    .string "On travaillait sur la POKé BALL\n"
+    .string "ultime, capable de tout attraper.$"
 
 SilphCo_5F_Text_DaltonIntro::
-    .string "Whaaat?\p"
-    .string "There shouldn't be any children\n"
-    .string "here!$"
+    .string "Quoiii?\p"
+    .string "Il ne devrait pas y avoir\n"
+    .string "d'enfants ici!$"
 
 SilphCo_5F_Text_DaltonDefeat::
-    .string "Oh, goodness!$"
+    .string "Oh, mon dieu!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-    .string "You're only on 5F.\n"
-    .string "It's a long way to my BOSS!$"
+    .string "Tu n'es qu'au 5e.\n"
+    .string "Le chemin est long jusqu'au BOSS!$"
 
 SilphCo_5F_Text_Grunt2Intro::
-    .string "Show TEAM ROCKET a little respect!$"
+    .string "Un peu de respect pour la TEAM\n"
+    .string "ROCKET!$"
 
 SilphCo_5F_Text_Grunt2Defeat::
-    .string "Cough…\n"
-    .string "Cough…$"
+    .string "Kof…\n"
+    .string "Kof…$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-    .string "Which reminds me.\p"
-    .string "KOFFING evolves into WEEZING!$"
+    .string "Ça me rappelle un truc.\p"
+    .string "SMOGO évolue en SMOGOGO!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-    .string "It's a POKéMON REPORT!\p"
-    .string "POKéMON LAB created PORYGON,\n"
-    .string "the first virtual-reality POKéMON.$"
+    .string "C'est un RAPPORT POKéMON!\p"
+    .string "Le LABO POKéMON a créé PORYGON,\n"
+    .string "le premier POKéMON virtuel.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Over 350 POKéMON techniques have\n"
-    .string "been confirmed.$"
+    .string "C'est un RAPPORT POKéMON!\p"
+    .string "Plus de 350 capacités POKéMON ont\n"
+    .string "été confirmées.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Some POKéMON have been confirmed\n"
-    .string "to evolve when they are traded.$"
+    .string "C'est un RAPPORT POKéMON!\p"
+    .string "Il est confirmé que certains\n"
+    .string "POKéMON évoluent lors d'un échange.$"
 
 SilphCo_5F_Text_FloorSign::
     .string "SILPH CO. HEAD OFFICE\n"
     .string "5F$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-    .string "Those thugs that took over our\n"
-    .string "building…\p"
-    .string "Their BOSS said he was looking for\n"
-    .string "strong POKéMON.\p"
-    .string "I hope our PRESIDENT managed to\n"
-    .string "avoid trouble…$"
+    .string "Ces voyous qui ont pris notre\n"
+    .string "immeuble…\p"
+    .string "Leur BOSS a dit qu'il cherchait des\n"
+    .string "POKéMON forts.\p"
+    .string "J'espère que notre PRÉSIDENT a pu\n"
+    .string "éviter les ennuis…$"

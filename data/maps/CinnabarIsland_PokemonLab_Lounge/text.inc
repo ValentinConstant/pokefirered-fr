@@ -1,6 +1,6 @@
 CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon::
-    .string "I found this most remarkable fossil\n"
-    .string "inside MT. MOON.\p"
-    .string "I think it's of a rare, prehistoric\n"
-    .string "POKéMON.$"
+    .string "J'ai trouvé ce fossile étonnant\n"
+    .string "au MONT SÉLÉNITE.\p"
+    .string "Je crois que c'est celui d'un\n"
+    .string "POKéMON rare et préhistorique.$"
 

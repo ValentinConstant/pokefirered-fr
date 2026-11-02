@@ -2,14 +2,14 @@ PewterCity_House1_Text_Nidoran::
     .string "NIDORAN♂: Bowbow!$"
 
 PewterCity_House1_Text_NidoranSit::
-    .string "NIDORAN, sit!$"
+    .string "NIDORAN, assis!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
-    .string "Our POKéMON's an outsider, so it's\n"
-    .string "finicky and hard to handle.\p"
-    .string "An outsider is a POKéMON that you\n"
-    .string "get in a trade.\p"
-    .string "It grows fast, but it may ignore an\n"
-    .string "unskilled TRAINER in battle.\p"
-    .string "If only we had some BADGES…$"
+    .string "Notre POKéMON vient d'ailleurs,\n"
+    .string "il est capricieux et difficile.\p"
+    .string "Un POKéMON d'ailleurs, c'est un\n"
+    .string "POKéMON obtenu par échange.\p"
+    .string "Il grandit vite, mais il peut\n"
+    .string "ignorer un DRESSEUR inexpérimenté.\p"
+    .string "Si seulement on avait des BADGES…$"
 

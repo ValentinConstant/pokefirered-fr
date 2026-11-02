@@ -1,130 +1,129 @@
 @ Same as Hoenn's day-care text, used by the Four Island Day-Care. Unused text translated in Emerald
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your\n"
-	.string "POKéMON, have a word with my wife.$"
+    .string "Je suis le MONSIEUR de la PENSION.\p"
+    .string "Je m'occupe des précieux POKéMON\n"
+    .string "des DRESSEURS.\p"
+    .string "Si tu veux que j'élève tes POKéMON,\n"
+    .string "parle à ma femme.$"
 
 DayCare_Text_DoYouWantEgg::
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON, and\n"
-	.string "my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+    .string "Ah, c'est toi!\p"
+    .string "On élevait tes POKéMON et, ma\n"
+    .string "parole, quelle surprise!\p"
+    .string "Ton POKéMON avait un OEUF!\p"
+    .string "On ne sait pas d'où il vient, mais\n"
+    .string "ton POKéMON l'avait.\p"
+    .string "Tu le veux, n'est-ce pas?$"
 
 DayCare_Text_YourMonIsDoingFine::
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+    .string "Ah, c'est toi! Content de te voir.\n"
+    .string "Ton {STR_VAR_1} va bien.$"
 
 DayCare_Text_IllKeepIt::
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+    .string "Bon, alors je le garde.\n"
+    .string "Merci!$"
 
 DayCare_Text_YouHaveNoRoomForIt::
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+    .string "Tu n'as pas de place…\n"
+    .string "Reviens quand tu en auras fait.$"
 
 DayCare_Text_ReceivedEgg::
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+    .string "{PLAYER} reçoit l'OEUF du\n"
+    .string "MONSIEUR de la PENSION.$"
 
 DayCare_Text_TakeGoodCareOfIt::
-	.string "Take good care of it.$"
+    .string "Prends-en bien soin.$"
 
 DayCare_Text_SeeWifeIfYouWantToPickUpMon::
 	.string "ポケモンを　ひきとりたい　ときは\n"
 	.string "ばさんに　いって　おくれ$"
 
 DayCare_Text_YourMonsAreDoingFine::
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+    .string "Ah, c'est toi! Ton {STR_VAR_1} et\n"
+    .string "{STR_VAR_2} vont bien.$"
 
 DayCare_Text_IWillKeepDoYouWantIt::
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+    .string "Je vais vraiment le garder.\n"
+    .string "Tu le veux, n'est-ce pas?$"
 
 DayCare_Text_WouldYouLikeUsToRaiseMon::
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+    .string "Je suis la DAME de la PENSION.\p"
+    .string "Nous pouvons élever des POKéMON\n"
+    .string "pour toi.\p"
+    .string "Veux-tu qu'on en élève un?$"
 
 DayCare_Text_WhichMonShouldWeRaise::
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+    .string "Quel POKéMON veux-tu nous confier?$"
 
 DayCare_Text_WellRaiseYourMon::
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+    .string "Bien, nous allons élever ton\n"
+    .string "{STR_VAR_1} un moment.\p"
+    .string "Reviens le chercher plus tard.$"
 
 DayCare_Text_WeCanRaiseOneMore::
-	.string "We can raise two of your POKéMON.\p"
-	.string "Would you like us to raise one\n"
-	.string "more POKéMON for you?$"
+    .string "Nous pouvons élever deux de tes\n"
+    .string "POKéMON.\p"
+    .string "Veux-tu qu'on en élève un autre?$"
 
 DayCare_Text_HusbandWasLookingForYou::
-	.string "My husband was looking for you.$"
+    .string "Mon mari te cherchait.$"
 
 DayCare_Text_FineThenComeAgain::
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+    .string "Oh, bon, d'accord.\n"
+    .string "Reviens nous voir.$"
 
 DayCare_Text_NotEnoughMoney::
-	.string "You don't have enough money…$"
+    .string "Tu n'as pas assez d'argent…$"
 
 DayCare_Text_TakeOtherOneBackToo::
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+    .string "Reprends-tu aussi l'autre?$"
 
 DayCare_Text_ComeAgain::
-	.string "Fine.\n"
-	.string "Come again.$"
+    .string "Très bien.\n"
+    .string "Reviens nous voir.$"
 
 DayCare_Text_GoodToSeeYou::
-	.string "Ah, it's you!\n"
-	.string "Good to see you.\p"
-	.string "Your POKéMON can only be doing\n"
-	.string "good!$"
+    .string "Ah, c'est toi!\n"
+    .string "Contente de te voir.\p"
+    .string "Tes POKéMON ne peuvent que bien\n"
+    .string "se porter!$"
 
 DayCare_Text_YourMonHasGrownXLevels::
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+    .string "Ton {STR_VAR_1} a gagné\n"
+    .string "{STR_VAR_2} niveaux.$"
 
 DayCare_Text_YourPartyIsFull::
-	.string "Your POKéMON party is full.\n"
-	.string "Make room, then come see me.$"
+    .string "Ton équipe de POKéMON est pleine.\n"
+    .string "Fais de la place, puis reviens.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
 
 DayCare_Text_ItWillCostX::
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+    .string "Pour récupérer ton {STR_VAR_1},\n"
+    .string "ça te coûtera ¥{STR_VAR_2}.$"
 
 DayCare_Text_HeresYourMon::
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+    .string "Parfait!\n"
+    .string "Voici ton POKéMON.$"
 
 DayCare_Text_TookBackMon::
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+    .string "{PLAYER} récupère {STR_VAR_1}\n"
+    .string "auprès de la DAME de la PENSION.$"
 
 DayCare_Text_YouHaveJustOneMon::
-	.string "Oh? But you have just one\n"
-	.string "POKéMON.\p"
-	.string "Come back another time.$"
+    .string "Oh? Mais tu n'as qu'un seul\n"
+    .string "POKéMON.\p"
+    .string "Reviens une autre fois.$"
 
 DayCare_Text_TakeYourMonBack::
-	.string "Will you take your POKéMON back?$"
+    .string "Veux-tu reprendre ton POKéMON?$"
 
 DayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+    .string "Si tu me laisses ce POKéMON, avec\n"
+    .string "quoi vas-tu combattre?\p"
+    .string "Reviens une autre fois.$"
 
 DayCare_Text_Huh::
-	.string "Huh?$"
+    .string "Hein?$"

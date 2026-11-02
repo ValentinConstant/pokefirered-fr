@@ -1,25 +1,26 @@
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-    .string "We nicknamed the WARDEN\n"
-    .string "“SLOWPOKE.”\p"
-    .string "You know, he has that vacant look\n"
-    .string "like a SLOWPOKE.$"
+    .string "On a surnommé le GARDIEN\n"
+    .string "“RAMOLOSS”.\p"
+    .string "Tu sais, il a le même regard vide\n"
+    .string "qu'un RAMOLOSS.$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-    .string "WARDEN SLOWPOKE is very\n"
-    .string "knowledgeable about POKéMON.\p"
-    .string "He even has some fossils of rare,\n"
-    .string "extinct POKéMON.$"
+    .string "Le GARDIEN RAMOLOSS en sait long\n"
+    .string "sur les POKéMON.\p"
+    .string "Il a même des fossiles de POKéMON\n"
+    .string "rares et disparus.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-    .string "WARDEN SLOWPOKE came in, but\n"
-    .string "I couldn't understand him.\p"
-    .string "I think he's got a speech problem!$"
+    .string "Le GARDIEN RAMOLOSS est passé, mais\n"
+    .string "je n'ai rien compris.\p"
+    .string "Je crois qu'il a un problème\n"
+    .string "d'élocution!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-    .string "WARDEN SLOWPOKE is running a\n"
-    .string "promotion campaign right now.\p"
-    .string "Try to get to the farthest corner\n"
-    .string "of the SAFARI ZONE.\p"
-    .string "If you can make it, you'll win a\n"
-    .string "very convenient prize.$"
+    .string "Le GARDIEN RAMOLOSS organise une\n"
+    .string "promotion en ce moment.\p"
+    .string "Essaie d'atteindre le coin le plus\n"
+    .string "éloigné du PARC SAFARI.\p"
+    .string "Si tu y arrives, tu gagneras un\n"
+    .string "lot très pratique.$"
 

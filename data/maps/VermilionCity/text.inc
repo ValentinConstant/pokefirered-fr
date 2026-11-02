@@ -1,131 +1,136 @@
 VermilionCity_Text_GrimerMultipliesInSludge::
-    .string "We're careful about pollution here.\p"
-    .string "We've heard GRIMER multiplies in\n"
-    .string "toxic sludge.$"
+    .string "Ici, on fait attention à la\n"
+    .string "pollution.\p"
+    .string "Il paraît que les TADMORV se\n"
+    .string "multiplient dans les boues\l"
+    .string "toxiques.$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-    .string "Did you see the S.S. ANNE moored\n"
-    .string "in the harbor?$"
+    .string "As-tu vu l'OCÉANE amarré au\n"
+    .string "port?$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-    .string "So, the S.S. ANNE has departed?\p"
-    .string "She'll be back in VERMILION about\n"
-    .string "this time next year.$"
+    .string "Alors, l'OCÉANE est parti?\p"
+    .string "Il reviendra à CARMIN-SUR-MER à la\n"
+    .string "même époque l'an prochain.$"
 
 VermilionCity_Text_BuildingOnThisLand::
-    .string "I'm putting up a building on this\n"
-    .string "plot of land. I own it all.\p"
-    .string "My POKéMON is tamping the land\n"
-    .string "to lay the foundation.$"
+    .string "Je construis un bâtiment sur ce\n"
+    .string "terrain. Il est tout à moi.\p"
+    .string "Mon POKéMON tasse la terre pour\n"
+    .string "poser les fondations.$"
 
 VermilionCity_Text_Machop::
-    .string "MACHOP: Guoh! Gogogoh!$"
+    .string "MACHOC: Guoh! Gogogoh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-    .string "A MACHOP is stomping the land flat.$"
+    .string "Un MACHOC aplatit le terrain.$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
-    .string "The S.S. ANNE is a famous luxury\n"
-    .string "cruise ship.\p"
-    .string "It visits VERMILION once a year.$"
+    .string "L'OCÉANE est un célèbre paquebot\n"
+    .string "de croisière de luxe.\p"
+    .string "Il vient à CARMIN-SUR-MER une fois\n"
+    .string "par an.$"
 
 VermilionCity_Text_CitySign::
-    .string "VERMILION CITY\n"
-    .string "The Port of Exquisite Sunsets$"
+    .string "CARMIN-SUR-MER\n"
+    .string "Le port des couchers de soleil$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
-    .string "NOTICE!\p"
-    .string "ROUTE 12 may be blocked off by a\n"
-    .string "sleeping POKéMON.\p"
-    .string "Detour through ROCK TUNNEL to\n"
-    .string "LAVENDER TOWN.\p"
-    .string "VERMILION POLICE$"
+    .string "AVIS!\p"
+    .string "La ROUTE 12 peut être bloquée par\n"
+    .string "un POKéMON endormi.\p"
+    .string "Faites un détour par la GROTTE\n"
+    .string "pour aller à LAVANVILLE.\p"
+    .string "POLICE de CARMIN-SUR-MER$"
 
 VermilionCity_Text_PokemonFanClubSign::
-    .string "POKéMON FAN CLUB\n"
-    .string "All POKéMON fans welcome!$"
+    .string "FAN CLUB POKéMON\n"
+    .string "Tous les fans de POKéMON bienvenus!$"
 
 VermilionCity_Text_GymSign::
-    .string "VERMILION CITY POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\l"
-    .string "The Lightning American!$"
+    .string "ARÈNE POKéMON de CARMIN-SUR-MER\n"
+    .string "CHAMPION: MAJOR BOB\l"
+    .string "L'Américain électrique!$"
 
 VermilionCity_Text_VermilionHarbor::
     .string "VERMILION HARBOR$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-    .string "Welcome to the S.S. ANNE!$"
+    .string "Bienvenue à bord de l'OCÉANE!$"
 
 VermilionCity_Text_DoYouHaveATicket::
-    .string "Welcome to the S.S. ANNE!\p"
-    .string "Excuse me, do you have a ticket?$"
+    .string "Bienvenue à bord de l'OCÉANE!\p"
+    .string "Excusez-moi, avez-vous un billet?$"
 
 VermilionCity_Text_FlashedSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} flashed the S.S. TICKET!\p"
-    .string "{FONT_MALE}Great!\n"
-    .string "Welcome to the S.S. ANNE!$"
+    .string "{FONT_NORMAL}{PLAYER} montre le TICKET BATEAU!\p"
+    .string "{FONT_MALE}Parfait!\n"
+    .string "Bienvenue à bord de l'OCÉANE!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} doesn't have the needed\n"
-    .string "S.S. TICKET.\p"
-    .string "{FONT_MALE}Sorry!\p"
-    .string "You need a ticket to get aboard.$"
+    .string "{FONT_NORMAL}{PLAYER} n'a pas le TICKET\n"
+    .string "BATEAU nécessaire.\p"
+    .string "{FONT_MALE}Désolé!\p"
+    .string "Il faut un billet pour monter à\n"
+    .string "bord.$"
 
 VermilionCity_Text_TheShipSetSail::
-    .string "The ship set sail.$"
+    .string "Le bateau a levé l'ancre.$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
-    .string "Ah, you have a TRI-PASS.\p"
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Ah, tu as un TRI-PASS.\p"
+    .string "Veux-tu monter à bord d'un\n"
+    .string "ferry OCÉAGALOP?$"
 
 VermilionCity_Text_Seagallop7Departing::
-    .string "Okay, everything's in order.\p"
-    .string "SEAGALLOP HI-SPEED 7 will be\n"
-    .string "departing immediately.$"
+    .string "Bien, tout est en ordre.\p"
+    .string "L'OCÉAGALOP RAPIDE 7 va\n"
+    .string "partir immédiatement.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-    .string "Ah, you have a RAINBOW PASS.\p"
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Ah, tu as un PASS ARC-CIEL.\p"
+    .string "Veux-tu monter à bord d'un\n"
+    .string "ferry OCÉAGALOP?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
-    .string "Oh! That's a MYSTICTICKET!\n"
-    .string "Now that is rare.\p"
-    .string "We'll be happy to take you to\n"
-    .string "NAVEL ROCK anytime.$"
+    .string "Oh! C'est un MYSTITICKET!\n"
+    .string "Voilà qui est rare.\p"
+    .string "Nous t'emmènerons volontiers au\n"
+    .string "ROC NOMBRI quand tu veux.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
-    .string "Oh! That's an AURORATICKET!\n"
-    .string "Now that is rare.\p"
-    .string "We'll be happy to take you to\n"
-    .string "BIRTH ISLAND anytime.$"
+    .string "Oh! C'est un AURORATICKET!\n"
+    .string "Voilà qui est rare.\p"
+    .string "Nous t'emmènerons volontiers à\n"
+    .string "l'ÎLE AURORE quand tu veux.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Veux-tu monter à bord d'un\n"
+    .string "ferry OCÉAGALOP?$"
 
 VermilionCity_Text_Seagallop10Departing::
-    .string "Okay, everything's in order for you\n"
-    .string "to board a special ferry.\p"
-    .string "SEAGALLOP HI-SPEED 10 will be\n"
-    .string "departing immediately.$"
+    .string "Bien, tout est en ordre pour que tu\n"
+    .string "montes à bord d'un ferry spécial.\p"
+    .string "L'OCÉAGALOP RAPIDE 10 va\n"
+    .string "partir immédiatement.$"
 
 VermilionCity_Text_Seagallop12Departing::
-    .string "Okay, everything's in order for you\n"
-    .string "to board a special ferry.\p"
-    .string "SEAGALLOP HI-SPEED 12 will be\n"
-    .string "departing immediately.$"
+    .string "Bien, tout est en ordre pour que tu\n"
+    .string "montes à bord d'un ferry spécial.\p"
+    .string "L'OCÉAGALOP RAPIDE 12 va\n"
+    .string "partir immédiatement.$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
-    .string "Oh, hello, {PLAYER}!\n"
-    .string "How are you doing?\p"
-    .string "It's me, one of PROF. OAK's AIDES.\p"
-    .string "Did you meet the other AIDE?\p"
-    .string "He had a package from PROF. OAK\n"
-    .string "for you, {PLAYER}.\p"
-    .string "He said he'd look for you around\n"
-    .string "ROUTE 2, {PLAYER}.\p"
-    .string "If you're in the ROUTE 2 area,\n"
-    .string "please look for him.$"
+    .string "Oh, bonjour, {PLAYER}!\n"
+    .string "Comment vas-tu?\p"
+    .string "C'est moi, un des ASSISTANTS du\n"
+    .string "PR CHEN.\p"
+    .string "As-tu croisé l'autre ASSISTANT?\p"
+    .string "Il avait un colis du PR CHEN pour\n"
+    .string "toi, {PLAYER}.\p"
+    .string "Il a dit qu'il te chercherait vers\n"
+    .string "la ROUTE 2, {PLAYER}.\p"
+    .string "Si tu passes par la ROUTE 2,\n"
+    .string "cherche-le.$"
 

@@ -1,31 +1,31 @@
 FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
-    .string "You travel all over the place,\n"
-    .string "don't you?\p"
-    .string "You're not driving your POKéMON\n"
-    .string "too harshly, are you?\p"
-    .string "Let me take a look.\n"
+    .string "Tu voyages beaucoup, n'est-ce\n"
+    .string "pas?\p"
+    .string "Tu ne malmènes pas trop tes\n"
+    .string "POKéMON, j'espère?\p"
+    .string "Laisse-moi jeter un oeil.\n"
     .string "… … …   … … …$"
 
 FiveIsland_WaterLabyrinth_Text_HmmISeeIsee::
     .string "Ah, hmm…\n"
-    .string "I see, I see…$"
+    .string "Je vois, je vois…$"
 
 FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
-    .string "Oh, impressive.\n"
-    .string "You treat your POKéMON right.\p"
-    .string "I think you can be entrusted with\n"
-    .string "this.\p"
-    .string "Please, I'd like you to have this.$"
+    .string "Oh, impressionnant.\n"
+    .string "Tu traites bien tes POKéMON.\p"
+    .string "Je pense pouvoir te confier\n"
+    .string "ceci.\p"
+    .string "S'il te plaît, accepte-le.$"
 
 FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
-    .string "{PLAYER} received an EGG\n"
-    .string "from the man!$"
+    .string "{PLAYER} reçoit un OEUF\n"
+    .string "de l'homme!$"
 
 FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
-    .string "…Unfortunately, you don't have\n"
-    .string "space for this in your party.\p"
-    .string "You'd better come back for it\n"
-    .string "another time.$"
+    .string "…Hélas, tu n'as pas de place\n"
+    .string "dans ton équipe pour ça.\p"
+    .string "Reviens le chercher une autre\n"
+    .string "fois.$"
 
 @ Unused
 FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
@@ -34,28 +34,29 @@ FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
     .string "きて　くれたんだね$"
 
 FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
-    .string "I received that EGG while I was\n"
-    .string "traveling.\p"
-    .string "I'm glad I met someone like you.$"
+    .string "J'ai reçu cet OEUF pendant un\n"
+    .string "voyage.\p"
+    .string "Je suis content d'avoir rencontré\n"
+    .string "quelqu'un comme toi.$"
 
 FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
-    .string "Oh, hello.\n"
-    .string "That's a cute {STR_VAR_2}.\p"
-    .string "Seeing it reminds me of a sweet \n"
-    .string "little girl I met while traveling.\p"
-    .string "She was gently grooming POKéMON…\n"
-    .string "She was a little angel.\p"
-    .string "That little girl's name…\n"
-    .string "I think it was DAISY.$"
+    .string "Oh, bonjour.\n"
+    .string "Quel joli {STR_VAR_2}.\p"
+    .string "Il me rappelle une adorable \n"
+    .string "petite fille croisée en voyage.\p"
+    .string "Elle toilettait doucement des\n"
+    .string "POKéMON… Un vrai petit ange.\p"
+    .string "Le nom de cette petite fille…\n"
+    .string "Je crois que c'était NINA.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeIntro::
-    .string "This is an excellent environment\n"
-    .string "for raising POKéMON.$"
+    .string "C'est un endroit idéal pour élever\n"
+    .string "des POKéMON.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeDefeat::
-    .string "Your POKéMON are growing up\n"
-    .string "admirably well!$"
+    .string "Tes POKéMON grandissent\n"
+    .string "admirablement bien!$"
 
 FiveIsland_WaterLabyrinth_Text_AlizePostBattle::
-    .string "You know, I think you have the\n"
-    .string "talent to be a good BREEDER.$"
+    .string "Tu sais, je pense que tu as le\n"
+    .string "talent d'un bon ÉLEVEUR.$"

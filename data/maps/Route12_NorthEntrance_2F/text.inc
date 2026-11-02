@@ -1,36 +1,36 @@
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "Les cendres de mon POKéMON sont\n"
+    .string "à la TOUR POKéMON.\p"
+    .string "Tu peux prendre cette CT.\n"
+    .string "Je n'en ai plus besoin…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "Les cendres de mon POKéMON sont\n"
+    .string "à la TOUR POKéMON.\p"
+    .string "Tu peux prendre cette CT.\n"
+    .string "Je n'en ai plus besoin…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-    .string "{PLAYER} received TM27\n"
-    .string "from the little girl.$"
+    .string "{PLAYER} reçoit la CT27\n"
+    .string "de la fillette.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 is a move called RETURN…\p"
-    .string "If you treat your POKéMON good,\n"
-    .string "it will return your love by working\l"
-    .string "its hardest in battle.$"
+    .string "La CT27 contient RETOUR…\p"
+    .string "Si tu traites bien ton POKéMON,\n"
+    .string "il te rendra ton amour en donnant\l"
+    .string "tout en combat.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-    .string "You don't have room for this.$"
+    .string "Tu n'as pas de place pour ça.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a man fishing!$"
+    .string "Voyons ce que montrent les\n"
+    .string "jumelles…\p"
+    .string "Il y a un homme qui pêche!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's POKéMON TOWER!$"
+    .string "Voyons ce que montrent les\n"
+    .string "jumelles…\p"
+    .string "C'est la TOUR POKéMON!$"
 

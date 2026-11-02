@@ -1,100 +1,106 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+    .string "Félicitations! Tu as battu nos\n"
+    .string "cinq DRESSEURS du concours!\p"
+    .string "Tu viens de gagner un super lot!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "{PLAYER} reçoit une PÉPITE\n"
+    .string "du DRESSEUR mystère!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-    .string "You don't have any room!$"
+    .string "Tu n'as pas de place!$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+    .string "Au fait, ça te dirait de rejoindre\n"
+    .string "la TEAM ROCKET?\p"
+    .string "Nous sommes des criminels pros\n"
+    .string "spécialisés dans les POKéMON!\p"
+    .string "Tu veux nous rejoindre?\p"
+    .string "Tu es sûr?\p"
+    .string "Allez, rejoins-nous!\p"
+    .string "Je te dis de nous rejoindre!\p"
+    .string "…D'accord, il faut te convaincre!\p"
+    .string "Je vais te faire une offre que tu\n"
+    .string "ne pourras pas refuser!$"
 
 Route24_Text_RocketDefeat::
     .string "Arrgh!\n"
-    .string "You are good!$"
+    .string "Tu es fort!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+    .string "Avec ton talent, tu deviendrais\n"
+    .string "un grand chef de la TEAM ROCKET.\p"
+    .string "Allez, pense à l'opportunité!\n"
+    .string "Ne gâche pas cette chance.$"
 
 Route24_Text_ShaneIntro::
-    .string "I saw your feat from the grass!$"
+    .string "J'ai vu ton exploit depuis les\n"
+    .string "herbes!$"
 
 Route24_Text_ShaneDefeat::
-    .string "I thought not!$"
+    .string "Je m'en doutais!$"
 
 Route24_Text_ShanePostBattle::
-    .string "I hid because the people on the\n"
-    .string "bridge frightened me.$"
+    .string "Je me suis caché, les gens sur le\n"
+    .string "pont me faisaient peur.$"
 
 Route24_Text_EthanIntro::
-    .string "Okay! I'm No. 5!\n"
-    .string "I'll stomp you!$"
+    .string "Bon! Je suis le Nº5!\n"
+    .string "Je vais t'écraser!$"
 
 Route24_Text_EthanDefeat::
-    .string "Whoa!\n"
-    .string "Too much!$"
+    .string "Ouah!\n"
+    .string "Trop fort!$"
 
 Route24_Text_EthanPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "J'ai fait de mon mieux. Aucun\n"
+    .string "regret!$"
 
 Route24_Text_ReliIntro::
-    .string "I'm No. 4!\n"
-    .string "Getting tired?$"
+    .string "Je suis le Nº4!\n"
+    .string "Tu fatigues?$"
 
 Route24_Text_ReliDefeat::
-    .string "I lost, too!$"
+    .string "J'ai perdu, moi aussi!$"
 
 Route24_Text_ReliPostBattle::
-    .string "I did my best, so I've no regrets!$"
+    .string "J'ai fait de mon mieux, aucun\n"
+    .string "regret!$"
 
 Route24_Text_TimmyIntro::
-    .string "Here's No. 3!\n"
-    .string "I won't be easy!$"
+    .string "Voici le Nº3!\n"
+    .string "Je ne serai pas facile!$"
 
 Route24_Text_TimmyDefeat::
-    .string "Ow!\n"
-    .string "Stomped flat!$"
+    .string "Aïe!\n"
+    .string "Écrasé!$"
 
 Route24_Text_TimmyPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "J'ai fait de mon mieux. Aucun\n"
+    .string "regret!$"
 
 Route24_Text_AliIntro::
-    .string "I'm second!\n"
-    .string "Now it's serious!$"
+    .string "Je suis le deuxième!\n"
+    .string "Ça devient sérieux!$"
 
 Route24_Text_AliDefeat::
-    .string "How could I lose?$"
+    .string "Comment ai-je pu perdre?$"
 
 Route24_Text_AliPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "J'ai fait de mon mieux. Aucun\n"
+    .string "regret!$"
 
 Route24_Text_CaleIntro::
-    .string "People call this the NUGGET\n"
-    .string "BRIDGE!\p"
-    .string "Beat us five TRAINERS and win\n"
-    .string "a fabulous prize!\p"
-    .string "Think you got what it takes?$"
+    .string "On appelle ce pont le PONT\n"
+    .string "PÉPITE!\p"
+    .string "Bats nos cinq DRESSEURS et gagne\n"
+    .string "un super lot!\p"
+    .string "Tu crois avoir ce qu'il faut?$"
 
 Route24_Text_CaleDefeat::
-    .string "Whoo!\n"
-    .string "Good stuff!$"
+    .string "Ouh!\n"
+    .string "Beau travail!$"
 
 Route24_Text_CalePostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "J'ai fait de mon mieux. Aucun\n"
+    .string "regret!$"

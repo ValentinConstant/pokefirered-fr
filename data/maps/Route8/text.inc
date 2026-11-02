@@ -1,162 +1,167 @@
 Route8_Text_AidanIntro::
-    .string "You look good at POKéMON, but how\n"
-    .string "is your chemistry grade?$"
+    .string "Tu as l'air doué aux POKéMON, mais\n"
+    .string "qu'en est-il de tes notes en\l"
+    .string "chimie?$"
 
 Route8_Text_AidanDefeat::
-    .string "Ow!\n"
-    .string "Meltdown!$"
+    .string "Aïe!\n"
+    .string "Fusion du réacteur!$"
 
 Route8_Text_AidanPostBattle::
-    .string "I am better at school than this!$"
+    .string "Je suis meilleur à l'école qu'à ça!$"
 
 Route8_Text_StanIntro::
-    .string "All right!\n"
-    .string "Let's play a game!$"
+    .string "Bon!\n"
+    .string "Jouons à un jeu!$"
 
 Route8_Text_StanDefeat::
-    .string "Drat!\n"
-    .string "Came up short!$"
+    .string "Zut!\n"
+    .string "Pas assez!$"
 
 Route8_Text_StanPostBattle::
-    .string "Things didn't work today.$"
+    .string "Rien n'a marché aujourd'hui.$"
 
 Route8_Text_GlennIntro::
-    .string "You should be informed.\n"
-    .string "You need strategy to win at this!$"
+    .string "Sache-le. Il faut de la stratégie\n"
+    .string "pour gagner!$"
 
 Route8_Text_GlennDefeat::
-    .string "It's not logical!$"
+    .string "Ce n'est pas logique!$"
 
 Route8_Text_GlennPostBattle::
-    .string "Go with GRIMER first…and…\n"
-    .string "…and…then…$"
+    .string "D'abord TADMORV…et…\n"
+    .string "…et…ensuite…$"
 
 Route8_Text_PaigeIntro::
-    .string "I like NIDORAN, so I collect them!$"
+    .string "J'aime les NIDORAN, alors je les\n"
+    .string "collectionne!$"
 
 Route8_Text_PaigeDefeat::
-    .string "Why?\n"
-    .string "Why??$"
+    .string "Pourquoi?\n"
+    .string "Pourquoi??$"
 
 Route8_Text_PaigePostBattle::
-    .string "When POKéMON grow up, they get\n"
-    .string "ugly! They shouldn't evolve.$"
+    .string "En grandissant, les POKéMON\n"
+    .string "deviennent moches! Ils ne devraient\l"
+    .string "pas évoluer.$"
 
 Route8_Text_LeslieIntro::
-    .string "School is fun, but so are POKéMON.$"
+    .string "L'école, c'est bien, les POKéMON\n"
+    .string "aussi.$"
 
 Route8_Text_LeslieDefeat::
-    .string "You made it clear to me that\n"
-    .string "I should stick with school.$"
+    .string "Tu m'as fait comprendre que je\n"
+    .string "devrais m'en tenir à l'école.$"
 
 Route8_Text_LesliePostBattle::
-    .string "I was planning on getting some\n"
-    .string "fresh air for a change, but…\p"
-    .string "We're stuck here because of the\n"
-    .string "gates at SAFFRON.$"
+    .string "Je voulais prendre l'air pour\n"
+    .string "changer, mais…\p"
+    .string "On est coincés ici à cause des\n"
+    .string "portes de SAFRANIA.$"
 
 Route8_Text_AndreaIntro::
-    .string "MEOWTH is so cute, meow, meow,\n"
-    .string "meow!$"
+    .string "MIAOUSS est trop mignon, miaou,\n"
+    .string "miaou, miaou!$"
 
 Route8_Text_AndreaDefeat::
-    .string "Meeeeyow!$"
+    .string "Miaaaaou!$"
 
 Route8_Text_AndreaPostBattle::
-    .string "I think PIDGEY and RATTATA are\n"
-    .string "cute, too!$"
+    .string "Je trouve ROUCOOL et RATTATA\n"
+    .string "mignons, aussi!$"
 
 Route8_Text_MeganIntro::
-    .string "We must look silly standing here\n"
-    .string "like this.$"
+    .string "On doit avoir l'air bête, plantées\n"
+    .string "là comme ça.$"
 
 Route8_Text_MeganDefeat::
-    .string "Look what you did to my poor, cute\n"
-    .string "POKéMON!$"
+    .string "Regarde ce que tu as fait à mes\n"
+    .string "pauvres POKéMON tout mignons!$"
 
 Route8_Text_MeganPostBattle::
-    .string "SAFFRON's gatekeeper won't let us\n"
-    .string "go through.\p"
-    .string "I know he's doing his job, but I\n"
-    .string "think he's mean.$"
+    .string "Le gardien de SAFRANIA ne nous\n"
+    .string "laisse pas passer.\p"
+    .string "Je sais qu'il fait son travail,\n"
+    .string "mais je le trouve méchant.$"
 
 Route8_Text_RichIntro::
-    .string "I'm a rambling, gaming dude!$"
+    .string "Je suis un joueur vagabond!$"
 
 Route8_Text_RichDefeat::
-    .string "Missed the big chance!$"
+    .string "J'ai raté ma chance!$"
 
 Route8_Text_RichPostBattle::
-    .string "Playing games and POKéMON are like\n"
-    .string "eating peanuts! I just can't stop!$"
+    .string "Les jeux et les POKéMON, c'est\n"
+    .string "comme les cacahuètes! Je ne peux\l"
+    .string "pas m'arrêter!$"
 
 Route8_Text_JuliaIntro::
-    .string "What's a cute, round, and fluffy\n"
-    .string "POKéMON?$"
+    .string "Quel POKéMON est mignon, rond\n"
+    .string "et tout doux?$"
 
 Route8_Text_JuliaDefeat::
-    .string "Stop!\p"
-    .string "Don't be so mean to my CLEFAIRY!$"
+    .string "Arrête!\p"
+    .string "Ne sois pas si méchant avec mon\n"
+    .string "MÉLOFÉE!$"
 
 Route8_Text_JuliaPostBattle::
-    .string "I read that CLEFAIRY evolves when\n"
-    .string "it's exposed to a MOON STONE.\p"
-    .string "I read that in a POKéMON JOURNAL.\n"
-    .string "I wonder if it's true?$"
+    .string "J'ai lu que MÉLOFÉE évolue au\n"
+    .string "contact d'une PIERRE LUNE.\p"
+    .string "Je l'ai lu dans le JOURNAL POKéMON.\n"
+    .string "C'est vrai, tu crois?$"
 
 Route8_Text_UndergroundPathSign::
     .string "UNDERGROUND PATH\n"
     .string "CELADON CITY - LAVENDER TOWN$"
 
 Route8_Text_EliIntro::
-    .string "ELI: Twin power is fantastic.\n"
-    .string "Did you know?$"
+    .string "ELI: La puissance des jumelles est\n"
+    .string "fantastique. Tu le savais?$"
 
 Route8_Text_EliDefeat::
-    .string "ELI: But…\n"
-    .string "We used our twin power…$"
+    .string "ELI: Mais… On a utilisé notre force\n"
+    .string "de jumelles…$"
 
 Route8_Text_EliPostBattle::
-    .string "ELI: I caught my POKéMON with\n"
+    .string "ELI: J'ai attrapé mes POKéMON avec\n"
     .string "ANNE!$"
 
 Route8_Text_EliNotEnoughMons::
-    .string "ELI: We can't battle if you don't\n"
-    .string "have two POKéMON.$"
+    .string "ELI: On ne peut pas se battre si tu\n"
+    .string "n'as pas deux POKéMON.$"
 
 Route8_Text_AnneIntro::
-    .string "ANNE: We'll shock you with our twin\n"
-    .string "power!$"
+    .string "ANNE: On va te foudroyer avec notre\n"
+    .string "puissance de jumelles!$"
 
 Route8_Text_AnneDefeat::
-    .string "ANNE: Our twin power…$"
+    .string "ANNE: Notre force de jumelles…$"
 
 Route8_Text_AnnePostBattle::
-    .string "ANNE: I'm raising POKéMON with\n"
+    .string "ANNE: J'élève des POKéMON avec\n"
     .string "ELI.$"
 
 Route8_Text_AnneNotEnoughMons::
-    .string "ANNE: Hi, hi! Let's battle!\n"
-    .string "But bring two POKéMON.$"
+    .string "ANNE: Salut, salut! On se bat!\n"
+    .string "Mais amène deux POKéMON.$"
 
 Route8_Text_RicardoIntro::
-    .string "My bike's acting up, man.$"
+    .string "Mon vélo déconne, mec.$"
 
 Route8_Text_RicardoDefeat::
-    .string "Aww, man.\n"
-    .string "I'm not into this.$"
+    .string "Oh, mec.\n"
+    .string "Ça ne me branche pas.$"
 
 Route8_Text_RicardoPostBattle::
-    .string "I got grass caught up in my\n"
-    .string "spokes, man.$"
+    .string "J'ai de l'herbe coincée dans mes\n"
+    .string "rayons, mec.$"
 
 Route8_Text_JarenIntro::
-    .string "Clear the way, or I'll run you\n"
-    .string "down!$"
+    .string "Pousse-toi, ou je t'écrase!$"
 
 Route8_Text_JarenDefeat::
-    .string "You for real, kid?$"
+    .string "Tu es sérieux, petit?$"
 
 Route8_Text_JarenPostBattle::
-    .string "Don't think you're all special and\n"
-    .string "all just because of this.$"
+    .string "Ne te crois pas spécial juste\n"
+    .string "pour ça.$"

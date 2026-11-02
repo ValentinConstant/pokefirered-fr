@@ -1,17 +1,17 @@
 Text_BootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+    .string "{PLAYER} allume le PC.$"
 
 Text_AccessWhichPC::
-	.string "Which PC should be accessed?$"
+    .string "Quel PC veux-tu utiliser?$"
 
 Text_AccessedSomeonesPC::
-	.string "Accessed Someone's PC.$"
+    .string "Connexion au PC de Quelqu'un.$"
 
 Text_OpenedPkmnStorage::
-	.string "POKéMON Storage System opened.$"
+    .string "Système de Stockage POKéMON ouvert.$"
 
 Text_AccessedPlayersPC::
-	.string "Accessed {PLAYER}'s PC.$"
+    .string "Connexion au PC de {PLAYER}.$"
 
 Text_AccessedBillsPC::
-	.string "Accessed BILL's PC.$"
+    .string "Connexion au PC de LÉO.$"

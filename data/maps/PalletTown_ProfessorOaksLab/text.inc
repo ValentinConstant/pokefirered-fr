@@ -1,652 +1,356 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only {PLAYER}?\n"
-    .string "Gramps isn't around.$"
-
-[rival]: Quoi, c'est [player]?\n
-Papy n'est pas là.
+    .string "{RIVAL}: Quoi, c'est {PLAYER}?\n"
+    .string "Papy n'est pas là.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Gramps!\n"
-    .string "I'm fed up with waiting!$"
-
-[rival]: Papy!\n
-J'en ai marre d'attendre!
+    .string "{RIVAL}: Papy!\n"
+    .string "J'en ai marre d'attendre!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Hey! Gramps! No fair!\n"
-    .string "What about me?$"
-
-[rival]: Hé! Papy! Pas juste!\n
-Et moi alors?
+    .string "{RIVAL}: Hé! Papy! Pas juste!\n"
+    .string "Et moi alors?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
-    .string "{RIVAL}: Heh, I don't need to be\n"
-    .string "greedy like you. I'm mature!\p"
-    .string "Go ahead and choose, {PLAYER}!$"
-
-[rival]: J'ai pas besoin\n
-d'être avide. Je suis mûr!\pn
-Vas-y, choisis, [player]!
+    .string "{RIVAL}: Bah, pas besoin d'être\n"
+    .string "avide comme toi. Je suis mûr!\p"
+    .string "Vas-y, choisis, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
-    .string "{RIVAL}: I'll take this one, then!$"
-
-[rival]: Je prends celui-là!
+    .string "{RIVAL}: Alors je prends celui-là!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-    .string "{RIVAL} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
-
-[rival] reçoit [STR_VAR_1]\n
-du PR. CHEN!
+    .string "{RIVAL} reçoit {STR_VAR_1}\n"
+    .string "de la part du PR CHEN!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-    .string "{RIVAL}: My POKéMON looks a lot\n"
-    .string "tougher than yours.$"
-
-[rival]: Mon PKM a l'air\n
-plus fort que toi.
+    .string "{RIVAL}: Mon POKéMON a l'air bien\n"
+    .string "plus fort que le tien.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-    .string "{RIVAL}: Wait, {PLAYER}!\n"
-    .string "Let's check out our POKéMON!\p"
-    .string "Come on, I'll take you on!$"
-
-[rival]: Stop, [player]!\n
-Vérifions nos PKM!\pn
-Viens, je te défie!
+    .string "{RIVAL}: Attends, {PLAYER}!\n"
+    .string "Comparons nos POKéMON!\p"
+    .string "Allez, je te défie!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-    .string "WHAT?\n"
-    .string "Unbelievable!\l"
-    .string "I picked the wrong POKéMON!$"
-
-Non!\n
-Pas possible!\l
-Je me suis trompé de PKM!
+    .string "QUOI?\n"
+    .string "Pas possible!\l"
+    .string "J'ai pris le mauvais POKéMON!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
-    .string "{RIVAL}: Yeah!\n"
-    .string "Am I great or what?$"
-
-[rival]: YES!\n
-Je suis fort, non?
+    .string "{RIVAL}: Ouais!\n"
+    .string "Je suis fort, non?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
-    .string "{RIVAL}: Okay! I'll make my\n"
-    .string "POKéMON battle to toughen it up!\p"
-    .string "{PLAYER}! Gramps!\n"
-    .string "Smell you later!$"
-
-[rival]: OK! Je vais\n
-faire combattre mon PKM!\pn
-[player]! Papy!\n
-A plus tard!
+    .string "{RIVAL}: Bon! Je vais faire\n"
+    .string "combattre mon POKéMON!\p"
+    .string "{PLAYER}! Papy!\n"
+    .string "À la prochaine!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-    .string "{RIVAL}: Gramps!$"
-
-[rival]: Papy!
+    .string "{RIVAL}: Papy!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
-    .string "{RIVAL}: I almost forgot!\n"
-    .string "What did you call me for?$"
-
-[rival]: J'allais oublier!\n
-Tu m'appelais pourquoi?
+    .string "{RIVAL}: J'allais oublier!\n"
+    .string "Tu m'appelais pourquoi?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
-    .string "{RIVAL}: All right, Gramps!\n"
-    .string "Leave it all to me!$"
-
-[rival]: Très bien, Papy!\n
-Laisse-moi faire!
+    .string "{RIVAL}: Très bien, Papy!\n"
+    .string "Laisse-moi tout gérer!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
-    .string "{PLAYER}, I hate to say it, but you\n"
-    .string "won't be necessary for this.\p"
-    .string "I know! I'll borrow a TOWN MAP\n"
-    .string "from my sis!\p"
-    .string "I'll tell her not to lend you one,\n"
+    .string "{PLAYER}, désolé de le dire, mais\n"
+    .string "tu ne seras pas utile ici.\p"
+    .string "Je sais! Je vais emprunter une\n"
+    .string "CARTE à ma sœur!\p"
+    .string "Je lui dirai de pas t'en prêter,\n"
     .string "{PLAYER}! Hahaha!\p"
-    .string "Don't bother coming around to\n"
-    .string "my place after this!$"
-
-[player], désolé, mais tu\n
-n'es pas utile ici.\pn
-Je sais! Je prends la CARTE\n
-à ma soeur!\pn
-Je lui dirai de pas t'en prêter,\n
-[player]! Ha!Ha!\pn
-Pas la peine de venir\n
-chez moi après ça!
+    .string "Pas la peine de passer chez\n"
+    .string "moi après ça!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
-    .string "OAK: {RIVAL}?\n"
-    .string "Let me think…\p"
-    .string "Oh, that's right, I told you to\n"
-    .string "come! Just wait!\p"
-    .string "Here, {PLAYER}.\p"
-    .string "There are three POKéMON here.\p"
+    .string "CHEN: {RIVAL}?\n"
+    .string "Voyons voir…\p"
+    .string "Ah, c'est vrai, je t'avais dit\n"
+    .string "de venir! Attends!\p"
+    .string "Tiens, {PLAYER}.\p"
+    .string "Il y a trois POKéMON ici.\p"
     .string "Haha!\p"
-    .string "The POKéMON are held inside\n"
-    .string "these POKé BALLS.\p"
-    .string "When I was young, I was a serious\n"
-    .string "POKéMON TRAINER.\p"
-    .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
-    .string "You can have one.\n"
-    .string "Go on, choose!$"
-
-C.: [rival]?\n
-Attends\.\pn
-Ah, oui, je t'avais dit\n
-de venir! Stop!\pn
-Ici, [player].\pn
-Il y a 3 PKM ici.\pn
-Ha!\pn
-Les PKM sont dans\n
-ces POKé BALLS.\pn
-Jeune, j'étais un DRESSEUR\n
-PKM sérieux.\pn
-Mais vieux, il me reste\n
-que ces 3 là.\pn
-Prends-en un.\n
-Vas-y, choisis!
+    .string "Les POKéMON sont enfermés\n"
+    .string "dans ces POKé BALLS.\p"
+    .string "Jeune, j'étais un DRESSEUR\n"
+    .string "POKéMON sérieux.\p"
+    .string "Mais avec l'âge, il ne m'en\n"
+    .string "reste que ces trois-là.\p"
+    .string "Tu peux en avoir un.\n"
+    .string "Allez, choisis!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
-    .string "OAK: Be patient, {RIVAL}.\n"
-    .string "You can have one, too!$"
-
-C.: Patiente, [rival].\n
-Tu en auras un aussi!
+    .string "CHEN: Patiente, {RIVAL}.\n"
+    .string "Tu en auras un aussi!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
-    .string "OAK: Now, {PLAYER}.\p"
-    .string "Inside those three POKé BALLS are\n"
-    .string "POKéMON.\p"
-    .string "Which one will you choose for\n"
-    .string "yourself?$"
-
-C.: Bon, [player].\pn
-Dans ces 3 POKé BALLS se\n
-trouvent\pn
-Lequel vas-tu choisir\n
-pour toi?
+    .string "CHEN: Bon, {PLAYER}.\p"
+    .string "Dans ces trois POKé BALLS se\n"
+    .string "trouvent des POKéMON.\p"
+    .string "Lequel vas-tu choisir pour\n"
+    .string "toi-même?$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
-    .string "OAK: Hey!\n"
-    .string "Don't go away yet!$"
-
-C.: Hé!\n
-Ne pars pas!
+    .string "CHEN: Hé!\n"
+    .string "Ne pars pas encore!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CHARMANDER is your choice.\n"
-    .string "You should raise it patiently.\p"
-    .string "So, {PLAYER}, you're claiming the\n"
-    .string "FIRE POKéMON CHARMANDER?$"
-
-Ah! Tu choisis SALAMECHE.\n
-Tu devrais l'élever sagement.\pn
-Donc, [player], tu prends\n
-le PKM FEU SALAMECHE?
+    .string "Ah! Tu choisis SALAMÈCHE.\n"
+    .string "Élève-le avec patience.\p"
+    .string "Donc, {PLAYER}, tu réclames le\n"
+    .string "POKéMON FEU SALAMÈCHE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-    .string "Hm! SQUIRTLE is your choice.\n"
-    .string "It's one worth raising.\p"
-    .string "So, {PLAYER}, you've decided on the\n"
-    .string "WATER POKéMON SQUIRTLE?$"
-
-Hm! Tu choisis CARAPUCE.\n
-Il vaut le coup.\pn
-Donc, [player], tu choisis\n
-le PKM EAU CARAPUCE?
+    .string "Hm! Tu choisis CARAPUCE.\n"
+    .string "Il vaut la peine d'être élevé.\p"
+    .string "Donc, {PLAYER}, tu te décides\n"
+    .string "pour le POKéMON EAU CARAPUCE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-    .string "I see! BULBASAUR is your choice.\n"
-    .string "It's very easy to raise.\p"
-    .string "So, {PLAYER}, you want to go with\n"
-    .string "the GRASS POKéMON BULBASAUR?$"
-
-Je vois! Tu choisis BULBIZARRE.\n
-Très facile à élever.\pn
-Donc, [player], tu veux\n
-le PKM PLANTE BULBIZARRE?
+    .string "Je vois! Tu choisis BULBIZARRE.\n"
+    .string "Très facile à élever.\p"
+    .string "Donc, {PLAYER}, tu pars avec\n"
+    .string "le POKéMON PLANTE BULBIZARRE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
-    .string "This POKéMON is really quite\n"
-    .string "energetic!$"
-
-Ce PKM est vraiment\n
-énergique!
+    .string "Ce POKéMON est vraiment très\n"
+    .string "énergique!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
-
-[player] reçoit [STR_VAR_1]\n
-du PR. CHEN!
+    .string "{PLAYER} reçoit {STR_VAR_1}\n"
+    .string "de la part du PR CHEN!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
-    .string "OAK: If a wild POKéMON appears,\n"
-    .string "your POKéMON can battle it.\p"
-    .string "With it at your side, you should be\n"
-    .string "able to reach the next town.$"
-
-C.: Si un PKM sauvage\n
-ton PKM peut le battre.\pn
-Avec lui, tu devrais\n
-atteindre la ville proche.
+    .string "CHEN: Si un POKéMON sauvage\n"
+    .string "surgit, le tien peut le combattre.\p"
+    .string "Avec lui à tes côtés, tu devrais\n"
+    .string "atteindre la ville suivante.$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
-    .string "OAK: {PLAYER}, raise your young\n"
-    .string "POKéMON by making it battle.\p"
-    .string "It has to battle for it to grow.$"
-
-C.: [player], élève ton\n
-PKM par le combat.\pn
-Il doit combattre pour grandir.
+    .string "CHEN: {PLAYER}, élève ton jeune\n"
+    .string "POKéMON en le faisant combattre.\p"
+    .string "Il doit combattre pour grandir.$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
-    .string "OAK: Oh, {PLAYER}!\n"
-    .string "How is my old POKéMON?\p"
-    .string "Well, it seems to be growing more\n"
-    .string "attached to you.\p"
-    .string "You must be talented as a POKéMON\n"
-    .string "TRAINER.\p"
-    .string "What's that?\n"
-    .string "You have something for me?$"
-
-C.: Oh, [player]!\n
-Va bien, mon PKM?\pn
-On dirait qu'il s'attache\n
-à toi.\pn
-Tu dois être un DRESSEUR\n
-doué.\pn
-Qu'est-ce?\n
-Tu as un truc pour moi?
+    .string "CHEN: Oh, {PLAYER}!\n"
+    .string "Comment va mon vieux POKéMON?\p"
+    .string "Eh bien, il semble s'attacher\n"
+    .string "de plus en plus à toi.\p"
+    .string "Tu dois être un DRESSEUR de\n"
+    .string "POKéMON talentueux.\p"
+    .string "Qu'y a-t-il?\n"
+    .string "Tu as quelque chose pour moi?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-    .string "{PLAYER} delivered OAK'S PARCEL.$"
-
-[player] a livré COLIS PR CHEN.
+    .string "{PLAYER} a livré le COLIS D'CHEN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
-    .string "Ah! \n"
-    .string "It's the custom POKé BALL!\p"
-    .string "I had it on order.\n"
-    .string "Thank you!$"
-
-Ah!\n
-C'est la POKé BALL!\pn
-Je l'ai commandée.\n
-Merci!
+    .string "Ah!\n"
+    .string "C'est la POKé BALL spéciale!\p"
+    .string "Je l'avais commandée.\n"
+    .string "Merci!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
-    .string "OAK: Oh, right!\n"
-    .string "I have a request for you two.$"
-
-C.: Ah, oui!\n
-J'ai un service à vous 2.
+    .string "CHEN: Ah, oui!\n"
+    .string "J'ai un service à vous demander.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-    .string "On the desk there is my invention,\n"
-    .string "the POKéDEX!\p"
-    .string "It automatically records data on\n"
-    .string "POKéMON you've seen or caught.\p"
-    .string "It's a high-tech encyclopedia!$"
-
-Sur le bureau, mon invention,\n
-le POKéDEX!\pn
-Il enregistre auto. les données\n
-PKM vus ou attrapés.\pn
-Une encyclo. high-tech!
+    .string "Sur le bureau, mon invention,\n"
+    .string "le POKéDEX!\p"
+    .string "Il enregistre automatiquement les\n"
+    .string "POKéMON vus ou capturés.\p"
+    .string "Une encyclopédie high-tech!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
-    .string "OAK: {PLAYER} and {RIVAL}.\n"
-    .string "Take these with you.$"
-
-C.: [player] et [rival].\n
-Prenez ceci.
+    .string "CHEN: {PLAYER} et {RIVAL}.\n"
+    .string "Prenez ceci avec vous.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-    .string "{PLAYER} received the POKéDEX\n"
-    .string "from PROF. OAK.$"
-
-[player] a reçu le POKéDEX\n
-du PR. CHEN.
+    .string "{PLAYER} reçoit le POKéDEX\n"
+    .string "de la part du PR CHEN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "OAK: You can't get detailed data\n"
-    .string "on POKéMON by just seeing them.\p"
-    .string "You must catch them to obtain\n"
-    .string "complete data.\p"
-    .string "So, here are some tools for\n"
-    .string "catching wild POKéMON.$"
-
-C.: Tu n'as pas de données\n
-PKM en les voyant.\pn
-Tu dois les attraper pour\n
-tout savoir.\pn
-Donc, voici des outils pour\n
-capturer PKM.
+    .string "CHEN: Voir un POKéMON ne suffit\n"
+    .string "pas à en connaître les données.\p"
+    .string "Tu dois les capturer pour\n"
+    .string "obtenir des données complètes.\p"
+    .string "Voici donc des outils pour\n"
+    .string "capturer les POKéMON sauvages.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-    .string "{PLAYER} received five POKé BALLS.$"
-
-[player] reçoit 5 POKé BALLS.
+    .string "{PLAYER} reçoit cinq POKé BALLS.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-    .string "When a wild POKéMON appears,\n"
-    .string "it's fair game.\p"
-    .string "Just throw a POKé BALL at it and\n"
-    .string "try to catch it!\p"
-    .string "This won't always work, however.\p"
-    .string "A healthy POKéMON can escape.\n"
-    .string "You have to be lucky!$"
-
-Si un PKM sauvage surgit,\n
-c'est le jeu.\pn
-Lance une POKé BALL dessus et\n
-tente le coup!\pn
-Ca ne marche pas toujours.\pn
-Un PKM sain peut fuir.\n
-Tu dois avoir du bol!
+    .string "Quand un POKéMON sauvage\n"
+    .string "apparaît, il est à prendre.\p"
+    .string "Lance-lui une POKé BALL et\n"
+    .string "tente de le capturer!\p"
+    .string "Mais ça ne marche pas toujours.\p"
+    .string "Un POKéMON en forme peut fuir.\n"
+    .string "Il faut de la chance!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
-    .string "To make a complete guide on all\n"
-    .string "the POKéMON in the world…\p"
-    .string "That was my dream!\p"
-    .string "But, I'm too old.\n"
-    .string "I can't get the job done.\p"
-    .string "So, I want you two to fulfill my\n"
-    .string "dream for me.\p"
-    .string "Get moving, you two.\p"
-    .string "This is a great undertaking in\n"
-    .string "POKéMON history!$"
-
-Faire un guide complet sur\n
-tous les PKM du monde\.\pn
-C'était mon rêve!\pn
-Suis trop vieux.\n
-Je ne peux plus le faire.\pn
-Donc, je veux que vous 2\n
-le fassiez.\pn
-En route, vous deux.\pn
-C'est une grande mission de\n
-l'hist. PKM!
+    .string "Faire un guide complet de tous\n"
+    .string "les POKéMON du monde…\p"
+    .string "C'était mon rêve!\p"
+    .string "Mais je suis trop vieux.\n"
+    .string "Je ne peux pas le mener à bien.\p"
+    .string "Alors je veux que vous deux\n"
+    .string "réalisiez mon rêve.\p"
+    .string "En route, vous deux.\p"
+    .string "C'est une grande mission de\n"
+    .string "l'histoire des POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-    .string "POKéMON around the world wait for\n"
-    .string "you, {PLAYER}!$"
-
-Les PKM du monde attendent\n
-[player]!
+    .string "Les POKéMON du monde entier\n"
+    .string "t'attendent, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
     .string "Ah, {PLAYER}!\n"
-    .string "How is your POKéDEX shaping up?\p"
-    .string "{RIVAL} has already caught some\n"
-    .string "POKéMON and added to the data.\p"
-    .string "So, {PLAYER}, let's have a look at\n"
-    .string "your POKéDEX.\p"
-    .string "…What's the matter?\n"
-    .string "You've added no new data at all.\p"
-    .string "I'll give you these, so do try a\n"
-    .string "little harder.$"
-
-Ah, [player]!\n
-Où en est ton POKéDEX?\pn
-[rival] a déjà attrapé des\n
-PKM et mis à jour.\pn
-Donc, [player], voyons\n
-ton POKéDEX.\pn
-\.Quoi?\n
-Tu n'as rien ajouté.\pn
-Je te donne ça, essaie\n
-un peu plus.
+    .string "Où en est ton POKéDEX?\p"
+    .string "{RIVAL} a déjà capturé des\n"
+    .string "POKéMON et ajouté des données.\p"
+    .string "Alors, {PLAYER}, jetons un œil\n"
+    .string "à ton POKéDEX.\p"
+    .string "…Que se passe-t-il?\n"
+    .string "Tu n'as ajouté aucune donnée.\p"
+    .string "Je te donne ceci, alors fais un\n"
+    .string "peu plus d'efforts.$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
-    .string "OAK: Come see me sometime.\p"
-    .string "After all, I want to know how your\n"
-    .string "POKéDEX is coming along.$"
-
-C.: Viens me voir.\pn
-Je veux savoir où en est\n
-ton POKéDEX.
+    .string "CHEN: Passe me voir un jour.\p"
+    .string "Après tout, je veux savoir où en\n"
+    .string "est ton POKéDEX.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
-    .string "It's like an encyclopedia, but the\n"
-    .string "pages are blank.$"
-
-C'est une encyclo, mais\n
-blanche.
+    .string "C'est comme une encyclopédie,\n"
+    .string "mais les pages sont blanches.$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
-    .string "Those are POKé BALLS.\n"
-    .string "They contain POKéMON!$"
-
-Des POKé BALLS.\n
-Avec des PKM!
+    .string "Ce sont des POKé BALLS.\n"
+    .string "Elles contiennent des POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
-    .string "That's PROF. OAK's last POKéMON.$"
-
-C'est le PKM du PR. CHEN.
+    .string "Le dernier POKéMON du PR CHEN.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-    .string "Press START to open the MENU!$"
-
-Appuie START pour le MENU!
+    .string "Appuie sur START pour le MENU!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-    .string "The SAVE option is on the MENU.\n"
-    .string "Use it regularly.$"
-
-SAUVEG. est sur le MENU.\n
-Fais-le souvent.
+    .string "L'option SAUVER est dans le MENU.\n"
+    .string "Utilise-la régulièrement.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
-    .string "All POKéMON types have strong and\n"
-    .string "weak points against others.$"
-
-Chaque type PKM a forces\n
-et faiblesses.
+    .string "Chaque type de POKéMON a des\n"
+    .string "forces et des faiblesses.$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
-    .string "There's an e-mail message here.\p"
+    .string "Il y a un e-mail ici.\p"
     .string "…\p"
-    .string "Finally!\n"
-    .string "The ultimate TRAINERS of the\l"
-    .string "POKéMON LEAGUE are ready to\l"
-    .string "take on all comers!\p"
-    .string "Bring your best POKéMON and see\n"
-    .string "how you rate as a TRAINER!\p"
-    .string "POKéMON LEAGUE HQ\n"
-    .string "INDIGO PLATEAU\p"
-    .string "PROF. OAK, please visit us!\n"
+    .string "Enfin!\n"
+    .string "Les DRESSEURS ultimes de la\l"
+    .string "LIGUE POKéMON sont prêts à\l"
+    .string "affronter tout le monde!\p"
+    .string "Amène tes meilleurs POKéMON et\n"
+    .string "vois ton niveau de DRESSEUR!\p"
+    .string "QG DE LA LIGUE POKéMON\n"
+    .string "PLATEAU INDIGO\p"
+    .string "PR CHEN, venez nous voir!\n"
     .string "…$"
 
-Il y a un e-mail ici.\pn
-\.\pn
-Enfin!\n
-Les DRESSEURS ultimes de\l
-la LIGUE PKM sont\l
-prêts!\pn
-Amène tes PKM et vois\n
-ton niveau DRESSEUR!\pn
-QG LIGUE POKéMON\n
-PLAT. INDIGO\pn
-PR. CHEN, venez nous voir!\n
-\.
-
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "I study POKéMON as PROF. OAK's\n"
-    .string "AIDE.$"
+    .string "J'étudie les POKéMON comme\n"
+    .string "ASSISTANT du PR CHEN.$"
 
-J'étudie PKM pour PR. CHEN\n
-AIDE.
-
-PalletTown_ProfessorOFaksLab_Text_DaisyWillGroomMons::
-    .string "Hi, {PLAYER}. I bet you've become\n"
-    .string "good friends with your POKéMON.\p"
-    .string "By the way, did you know about\n"
-    .string "DAISY?\p"
-    .string "If you show DAISY your POKéMON,\n"
-    .string "she can tell how much it likes you.\p"
-    .string "Occasionally, she will even groom\n"
-    .string "a POKéMON for you.\p"
-    .string "This is a secret, so please don't\n"
-    .string "tell anyone.$"
-
-Salut [player]. Je parie que\n
-tu es ami avec tes PKM.\pn
-Au fait, tu connais\n
-NINA?\pn
-Si tu montres à NINA tes PKM,\n
-elle voit s'ils t'aiment.\pn
-Parfois, elle va même\n
-toilett. un PKM.\pn
-C'est un secret, donc ne\n
-le dis pas.
+PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
+    .string "Salut, {PLAYER}. Je parie que tu\n"
+    .string "es devenu ami avec tes POKéMON.\p"
+    .string "Au fait, tu connais\n"
+    .string "NINA?\p"
+    .string "Montre tes POKéMON À NINA et\n"
+    .string "elle te dira s'ils t'aiment.\p"
+    .string "Parfois, elle en toilettera même\n"
+    .string "un pour toi.\p"
+    .string "C'est un secret, alors ne le\n"
+    .string "dis à personne.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
-    .string "PROF. OAK is going to have his own\n"
-    .string "radio show soon.\p"
-    .string "The program will be called PROF.\n"
-    .string "OAK's POKéMON SEMINAR.$"
-
-PR. CHEN va avoir sa\n
-propre radio.\pn
-L'émission sera PR.\n
-SEMINAIRE PKM CHEN.
+    .string "Le PR CHEN aura bientôt sa\n"
+    .string "propre émission de radio.\p"
+    .string "Elle s'appellera le SÉMINAIRE\n"
+    .string "POKéMON du PR CHEN.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
-    .string "PROF. OAK may not look like much,\n"
-    .string "but he's the authority on POKéMON.\p"
-    .string "Many POKéMON TRAINERS hold him in\n"
-    .string "high regard.$"
-
-PR. CHEN ne paie pas de mine,\n
-mais c'est l'expert PKM.\pn
-Plein de DRESSEURS PKM\n
-le respecte.
+    .string "Le PR CHEN ne paie pas de mine,\n"
+    .string "mais c'est l'expert des POKéMON.\p"
+    .string "Beaucoup de DRESSEURS le\n"
+    .string "tiennent en haute estime.$"
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
-    .string "Ah, now this is excellent!\p"
-    .string "{PLAYER}, I have another important\n"
-    .string "favor to ask of you.\p"
-    .string "I need you to listen closely.$"
-
-Ah, c'est excellent!\pn
-[player], j'ai un autre\n
-service à te dder.\pn
-Tu dois bien écouter.
+    .string "Ah, voilà qui est excellent!\p"
+    .string "{PLAYER}, j'ai un autre service\n"
+    .string "important à te demander.\p"
+    .string "Écoute-moi bien.$"
 
 PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
-    .string "Recently, there have been sightings\n"
-    .string "of many rare POKéMON species.\p"
-    .string "I'm talking about POKéMON that\n"
-    .string "have never been seen in KANTO.\p"
-    .string "I would love to go see things for\n"
-    .string "myself, but I'm much too old.\p"
-    .string "Since I can't do it, {PLAYER}, I'd\n"
-    .string "like you to go in my place.$"
-
-Récemment, on a vu\n
-des PKM rares.\pn
-Je parle de PKM\n
-jamais vus à KANTO.\pn
-J'aimerais aller voir\n
-moi-même, mais trop vieux.\pn
-Comme je peux pas, [player],\n
-j'aimerais que tu y ailles.
+    .string "Récemment, on a signalé de\n"
+    .string "nombreux POKéMON rares.\p"
+    .string "Je parle de POKéMON qu'on\n"
+    .string "n'a jamais vus à KANTO.\p"
+    .string "J'adorerais aller voir moi-même,\n"
+    .string "mais je suis bien trop vieux.\p"
+    .string "Comme je ne peux pas, {PLAYER},\n"
+    .string "j'aimerais que tu y ailles.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
-    .string "{RIVAL}: Hey, I heard that!\p"
-    .string "Gramps, what's with favoring\n"
-    .string "{PLAYER} over me all the time?\p"
-    .string "I went and collected more POKéMON,\n"
-    .string "and faster, too.\p"
-    .string "You should just let me handle\n"
-    .string "everything.$"
-
-[rival]: Hé, j'ai entendu!\pn
-Papy, pourquoi tu préfères\n
-[player] à moi?\pn
-J'ai attrapé plus de PKM,\n
-et plus vite.\pn
-Tu devrais me laisser tout\n
-gérer.
+    .string "{RIVAL}: Hé, j'ai entendu!\p"
+    .string "Papy, pourquoi tu préfères\n"
+    .string "toujours {PLAYER} à moi?\p"
+    .string "J'ai capturé plus de POKéMON,\n"
+    .string "et plus vite en plus.\p"
+    .string "Tu devrais me laisser tout\n"
+    .string "gérer.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
-    .string "OAK: I know, I know.\n"
-    .string "Of course I need your help, too.\p"
-    .string "Now, I need to see both your\n"
-    .string "POKéDEXES.$"
-
-C.: Je sais, je sais.\n
-J'ai aussi besoin de toi.\pn
-Je dois voir vos deux\n
-POKéDEX.
+    .string "CHEN: Je sais, je sais.\n"
+    .string "J'ai aussi besoin de toi.\p"
+    .string "Je dois voir vos deux\n"
+    .string "POKéDEX.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
-    .string "PROF. OAK took both POKéDEX\n"
-    .string "units.$"
-
-PR. CHEN prend les POKéDEX\n
-.
+    .string "Le PR CHEN prend les deux\n"
+    .string "POKéDEX.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
-    .string "… … …  … … …\p"
-    .string "… … …  … … …\p"
-    .string "…And that's done!\p"
-    .string "Now these units can record data on\n"
-    .string "a lot more POKéMON.$"
-
-\. \. \. \. \. \.\pn
-\. \. \. \. \. \.\pn
-\.Et voilà!\pn
-Ils peuvent enreg. données\n
-de plus de PKM.
+    .string "… … …  … … …\p"
+    .string "… … …  … … …\p"
+    .string "…Et voilà, c'est fait!\p"
+    .string "Ils peuvent désormais enregistrer\n"
+    .string "bien plus de POKéMON.$"
 
 PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
-    .string "{PLAYER}'s POKéDEX was upgraded!$"
-
-POKéDEX de [player] amélioré!
+    .string "Le POKéDEX de {PLAYER} amélioré!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
-    .string "Now, {PLAYER} and {RIVAL}!\p"
-    .string "This time, you really must work\n"
-    .string "towards filling your POKéDEXES.\p"
-    .string "I urge you to make them the best\n"
-    .string "and the most complete of all time!\p"
-    .string "Truly, this is a monumentally great\n"
-    .string "undertaking in POKéMON history!$"
-
-Bon, [player] et [rival]!\pn
-Cette fois, vous devez\n
-remplir vos POKéDEX.\pn
-Je veux les meilleurs\n
-et les plus complets!\pn
-C'est une tâche monumentale\n
-de l'histoire PKM!
+    .string "Bon, {PLAYER} et {RIVAL}!\p"
+    .string "Cette fois, vous devez vraiment\n"
+    .string "remplir vos POKéDEX.\p"
+    .string "Faites-en les meilleurs et les\n"
+    .string "plus complets de tous les temps!\p"
+    .string "Vraiment, c'est une mission\n"
+    .string "monumentale de l'histoire POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
-    .string "{RIVAL}: Gramps, calm down.\n"
-    .string "Don't get so excited.\p"
-    .string "I'll get the POKéDEX completed,\n"
-    .string "don't you worry about a thing.\p"
-    .string "I think I'll try looking around\n"
-    .string "ONE ISLAND first…\p"
-    .string "Anyways, I'm outta here!$"
-
-[rival]: Papy, calme-toi.\n
-T'excite pas.\pn
-Je vais finir le POKéDEX,\n
-ne t'en fais pas.\pn
-Je vais aller voir sur\n
-l'ILE UNE\.\pn
-Bref, j'y vais!
+    .string "{RIVAL}: Papy, calme-toi.\n"
+    .string "Ne t'excite pas comme ça.\p"
+    .string "Je vais compléter le POKéDEX,\n"
+    .string "ne t'en fais pas.\p"
+    .string "Je crois que je vais d'abord\n"
+    .string "explorer l'ÎLE 1…\p"
+    .string "Bref, je m'en vais!$"

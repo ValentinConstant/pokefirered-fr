@@ -1,17 +1,19 @@
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
-    .string "Is it true?\p"
-    .string "CELADON DEPT. STORE is several\n"
-    .string "times bigger than this shop?$"
+    .string "C'est vrai?\p"
+    .string "Le CENTRE COMMERCIAL de CÉLADOPOLE\n"
+    .string "est plusieurs fois plus grand?$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
-    .string "I sometimes buy medicine here.\p"
-    .string "But a lot of people heal POKéMON\n"
-    .string "with BERRIES from BERRY FOREST.\p"
-    .string "After all, BERRIES are free and\n"
-    .string "they never run out.$"
+    .string "J'achète parfois des remèdes ici.\p"
+    .string "Mais beaucoup de gens soignent\n"
+    .string "leurs POKéMON avec des BAIES du\l"
+    .string "BOIS BAIES.\p"
+    .string "Après tout, les BAIES sont\n"
+    .string "gratuites et ne s'épuisent jamais.$"
 
 ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
-    .string "Those BIKERS were about to trash\n"
-    .string "this POKéMON MART.\p"
-    .string "Am I glad they decided to leave!$"
+    .string "Ces MOTARDS allaient saccager cette\n"
+    .string "BOUTIQUE POKéMON.\p"
+    .string "Quel soulagement qu'ils soient\n"
+    .string "partis!$"
 

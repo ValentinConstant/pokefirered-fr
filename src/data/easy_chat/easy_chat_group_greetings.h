@@ -1,51 +1,51 @@
 
-static const u8 sEasyChatWord_Thanks[] = _("THANKS");
-static const u8 sEasyChatWord_Yes[] = _("YES");
-static const u8 sEasyChatWord_HereGoes[] = _("HERE GOES");
-static const u8 sEasyChatWord_HereICome[] = _("HERE I COME");
-static const u8 sEasyChatWord_HereItIs[] = _("HERE IT IS");
-static const u8 sEasyChatWord_Yeah[] = _("YEAH");
-static const u8 sEasyChatWord_Welcome[] = _("WELCOME");
-static const u8 sEasyChatWord_Oi[] = _("OI");
-static const u8 sEasyChatWord_HowDo[] = _("HOW DO");
-static const u8 sEasyChatWord_Congrats[] = _("CONGRATS");
-static const u8 sEasyChatWord_GiveMe[] = _("GIVE ME");
-static const u8 sEasyChatWord_Sorry[] = _("SORRY");
-static const u8 sEasyChatWord_Apologize[] = _("APOLOGIZE");
-static const u8 sEasyChatWord_Forgive[] = _("FORGIVE");
-static const u8 sEasyChatWord_HeyThere[] = _("HEY, THERE");
-static const u8 sEasyChatWord_Hello[] = _("HELLO");
-static const u8 sEasyChatWord_GoodBye[] = _("GOOD-BYE");
-static const u8 sEasyChatWord_ThankYou[] = _("THANK YOU");
-static const u8 sEasyChatWord_IveArrived[] = _("I'VE ARRIVED");
+static const u8 sEasyChatWord_Thanks[] = _("MERCI");
+static const u8 sEasyChatWord_Yes[] = _("OUI");
+static const u8 sEasyChatWord_HereGoes[] = _("C'EST PARTI");
+static const u8 sEasyChatWord_HereICome[] = _("J'ARRIVE");
+static const u8 sEasyChatWord_HereItIs[] = _("LE VOICI");
+static const u8 sEasyChatWord_Yeah[] = _("OUAIS");
+static const u8 sEasyChatWord_Welcome[] = _("BIENVENUE");
+static const u8 sEasyChatWord_Oi[] = _("HÉ");
+static const u8 sEasyChatWord_HowDo[] = _("ENCHANTÉ");
+static const u8 sEasyChatWord_Congrats[] = _("BRAVO");
+static const u8 sEasyChatWord_GiveMe[] = _("DONNE-MOI");
+static const u8 sEasyChatWord_Sorry[] = _("DÉSOLÉ");
+static const u8 sEasyChatWord_Apologize[] = _("PARDONNE");
+static const u8 sEasyChatWord_Forgive[] = _("PARDONNER");
+static const u8 sEasyChatWord_HeyThere[] = _("HÉ, TOI");
+static const u8 sEasyChatWord_Hello[] = _("BONJOUR");
+static const u8 sEasyChatWord_GoodBye[] = _("AU REVOIR");
+static const u8 sEasyChatWord_ThankYou[] = _("MERCI BIEN");
+static const u8 sEasyChatWord_IveArrived[] = _("ME VOILÀ");
 static const u8 sEasyChatWord_Pardon[] = _("PARDON");
 static const u8 sEasyChatWord_Excuse[] = _("EXCUSE");
-static const u8 sEasyChatWord_SeeYa[] = _("SEE YA");
-static const u8 sEasyChatWord_ExcuseMe[] = _("EXCUSE ME");
-static const u8 sEasyChatWord_WellThen[] = _("WELL, THEN");
-static const u8 sEasyChatWord_GoAhead[] = _("GO AHEAD");
-static const u8 sEasyChatWord_Appreciate[] = _("APPRECIATE");
-static const u8 sEasyChatWord_HeyQues[] = _("HEY?");
-static const u8 sEasyChatWord_WhatsUpQues[] = _("WHAT'S UP?");
-static const u8 sEasyChatWord_HuhQues[] = _("HUH?");
-static const u8 sEasyChatWord_No[] = _("NO");
-static const u8 sEasyChatWord_Hi[] = _("HI");
-static const u8 sEasyChatWord_YeahYeah[] = _("YEAH, YEAH");
+static const u8 sEasyChatWord_SeeYa[] = _("À PLUS");
+static const u8 sEasyChatWord_ExcuseMe[] = _("EXCUSE-MOI");
+static const u8 sEasyChatWord_WellThen[] = _("BON, ALORS");
+static const u8 sEasyChatWord_GoAhead[] = _("VAS-Y DONC");
+static const u8 sEasyChatWord_Appreciate[] = _("APPRÉCIER");
+static const u8 sEasyChatWord_HeyQues[] = _("HEIN?");
+static const u8 sEasyChatWord_WhatsUpQues[] = _("ÇA VA?");
+static const u8 sEasyChatWord_HuhQues[] = _("HUM?");
+static const u8 sEasyChatWord_No[] = _("NON");
+static const u8 sEasyChatWord_Hi[] = _("SALUT");
+static const u8 sEasyChatWord_YeahYeah[] = _("OUAIS OUAIS");
 static const u8 sEasyChatWord_ByeBye[] = _("BYE-BYE");
-static const u8 sEasyChatWord_MeetYou[] = _("MEET YOU");
+static const u8 sEasyChatWord_MeetYou[] = _("TE VOIR");
 static const u8 sEasyChatWord_Hey[] = _("HEY");
-static const u8 sEasyChatWord_Smell[] = _("SMELL");
-static const u8 sEasyChatWord_Listening[] = _("LISTENING");
-static const u8 sEasyChatWord_HooHah[] = _("HOO-HAH");
-static const u8 sEasyChatWord_Yahoo[] = _("YAHOO");
+static const u8 sEasyChatWord_Smell[] = _("SENTIR");
+static const u8 sEasyChatWord_Listening[] = _("J'ÉCOUTE");
+static const u8 sEasyChatWord_HooHah[] = _("HOU-HA");
+static const u8 sEasyChatWord_Yahoo[] = _("YAHOU");
 static const u8 sEasyChatWord_Yo[] = _("YO");
-static const u8 sEasyChatWord_ComeOver[] = _("COME OVER");
-static const u8 sEasyChatWord_CountOn[] = _("COUNT ON");
+static const u8 sEasyChatWord_ComeOver[] = _("VIENS ICI");
+static const u8 sEasyChatWord_CountOn[] = _("COMPTE SUR");
 
 static const struct EasyChatWordInfo sEasyChatGroup_Greetings[] = {
     {
         .text = sEasyChatWord_Thanks,
-        .alphabeticalOrder = 12,
+        .alphabeticalOrder = 21,
         .enabled = TRUE
     },
     {
@@ -55,77 +55,77 @@ static const struct EasyChatWordInfo sEasyChatGroup_Greetings[] = {
     },
     {
         .text = sEasyChatWord_HereGoes,
-        .alphabeticalOrder = 32,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_HereICome,
-        .alphabeticalOrder = 40,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_HereItIs,
-        .alphabeticalOrder = 9,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Yeah,
-        .alphabeticalOrder = 41,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Welcome,
-        .alphabeticalOrder = 20,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Oi,
-        .alphabeticalOrder = 22,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_HowDo,
-        .alphabeticalOrder = 13,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Congrats,
-        .alphabeticalOrder = 10,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_GiveMe,
-        .alphabeticalOrder = 24,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Sorry,
         .alphabeticalOrder = 16,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_Apologize,
+        .text = sEasyChatWord_HereICome,
+        .alphabeticalOrder = 6,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_HereItIs,
+        .alphabeticalOrder = 23,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Yeah,
         .alphabeticalOrder = 15,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_Forgive,
+        .text = sEasyChatWord_Welcome,
+        .alphabeticalOrder = 9,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Oi,
+        .alphabeticalOrder = 32,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_HowDo,
         .alphabeticalOrder = 2,
         .enabled = TRUE
     },
     {
+        .text = sEasyChatWord_Congrats,
+        .alphabeticalOrder = 27,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_GiveMe,
+        .alphabeticalOrder = 41,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Sorry,
+        .alphabeticalOrder = 11,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Apologize,
+        .alphabeticalOrder = 10,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Forgive,
+        .alphabeticalOrder = 8,
+        .enabled = TRUE
+    },
+    {
         .text = sEasyChatWord_HeyThere,
-        .alphabeticalOrder = 3,
+        .alphabeticalOrder = 20,
         .enabled = TRUE
     },
     {
         .text = sEasyChatWord_Hello,
-        .alphabeticalOrder = 4,
+        .alphabeticalOrder = 22,
         .enabled = TRUE
     },
     {
         .text = sEasyChatWord_GoodBye,
-        .alphabeticalOrder = 34,
+        .alphabeticalOrder = 7,
         .enabled = TRUE
     },
     {
@@ -140,7 +140,7 @@ static const struct EasyChatWordInfo sEasyChatGroup_Greetings[] = {
     },
     {
         .text = sEasyChatWord_Pardon,
-        .alphabeticalOrder = 30,
+        .alphabeticalOrder = 34,
         .enabled = TRUE
     },
     {
@@ -150,102 +150,102 @@ static const struct EasyChatWordInfo sEasyChatGroup_Greetings[] = {
     },
     {
         .text = sEasyChatWord_SeeYa,
-        .alphabeticalOrder = 8,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_ExcuseMe,
         .alphabeticalOrder = 28,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_WellThen,
-        .alphabeticalOrder = 18,
+        .text = sEasyChatWord_ExcuseMe,
+        .alphabeticalOrder = 3,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_GoAhead,
+        .text = sEasyChatWord_WellThen,
         .alphabeticalOrder = 36,
         .enabled = TRUE
     },
     {
+        .text = sEasyChatWord_GoAhead,
+        .alphabeticalOrder = 4,
+        .enabled = TRUE
+    },
+    {
         .text = sEasyChatWord_Appreciate,
-        .alphabeticalOrder = 33,
+        .alphabeticalOrder = 18,
         .enabled = TRUE
     },
     {
         .text = sEasyChatWord_HeyQues,
-        .alphabeticalOrder = 29,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_WhatsUpQues,
-        .alphabeticalOrder = 7,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_HuhQues,
-        .alphabeticalOrder = 19,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_No,
-        .alphabeticalOrder = 21,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Hi,
-        .alphabeticalOrder = 35,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_YeahYeah,
-        .alphabeticalOrder = 11,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_ByeBye,
-        .alphabeticalOrder = 17,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_MeetYou,
         .alphabeticalOrder = 0,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_Hey,
-        .alphabeticalOrder = 6,
+        .text = sEasyChatWord_WhatsUpQues,
+        .alphabeticalOrder = 17,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_Smell,
-        .alphabeticalOrder = 23,
+        .text = sEasyChatWord_HuhQues,
+        .alphabeticalOrder = 29,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_Listening,
-        .alphabeticalOrder = 27,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_HooHah,
-        .alphabeticalOrder = 38,
-        .enabled = TRUE
-    },
-    {
-        .text = sEasyChatWord_Yahoo,
+        .text = sEasyChatWord_No,
         .alphabeticalOrder = 5,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_Yo,
+        .text = sEasyChatWord_Hi,
         .alphabeticalOrder = 31,
         .enabled = TRUE
     },
     {
-        .text = sEasyChatWord_ComeOver,
+        .text = sEasyChatWord_YeahYeah,
         .alphabeticalOrder = 1,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_ByeBye,
+        .alphabeticalOrder = 19,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_MeetYou,
+        .alphabeticalOrder = 12,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Hey,
+        .alphabeticalOrder = 13,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Smell,
+        .alphabeticalOrder = 30,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Listening,
+        .alphabeticalOrder = 35,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_HooHah,
+        .alphabeticalOrder = 33,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Yahoo,
+        .alphabeticalOrder = 24,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_Yo,
+        .alphabeticalOrder = 40,
+        .enabled = TRUE
+    },
+    {
+        .text = sEasyChatWord_ComeOver,
+        .alphabeticalOrder = 38,
         .enabled = TRUE
     },
     {

@@ -1,49 +1,49 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "I wonder if SILPH is finished…$"
+    .string "Je me demande si SYLPHE est finie…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-    .string "Thanks for saving us!$"
+    .string "Merci de nous avoir sauvés!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-    .string "That's as far as you'll go!$"
+    .string "Tu n'iras pas plus loin!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-    .string "Not enough grit!$"
+    .string "Pas assez de cran!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-    .string "If you don't turn back…\n"
-    .string "I'll call for backup!$"
+    .string "Si tu ne fais pas demi-tour…\n"
+    .string "J'appelle des renforts!$"
 
 SilphCo_8F_Text_ParkerIntro::
-    .string "You're causing us problems!$"
+    .string "Tu nous causes des problèmes!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-    .string "Huh?\n"
-    .string "I lost?$"
+    .string "Hein?\n"
+    .string "J'ai perdu?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-    .string "So, what do you think of SILPH\n"
-    .string "BUILDING's maze?$"
+    .string "Alors, que penses-tu du labyrinthe\n"
+    .string "de l'IMMEUBLE SYLPHE?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "Je suis l'un des quatre FRÈRES\n"
+    .string "ROCKET!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
-    .string "Whoo!\n"
-    .string "Oh, Brothers!$"
+    .string "Ouh!\n"
+    .string "Oh, mes frères!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-    .string "I'll leave you up to my brothers.$"
+    .string "Je te laisse à mes frères.$"
 
 SilphCo_8F_Text_FloorSign::
     .string "SILPH CO. HEAD OFFICE\n"
     .string "8F$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-    .string "TEAM ROCKET's BOSS is terribly\n"
-    .string "cruel!\p"
-    .string "To him, POKéMON are just tools to\n"
-    .string "be used.\p"
-    .string "What will happen if that tyrant\n"
-    .string "takes over our company…$"
+    .string "Le BOSS de la TEAM ROCKET est\n"
+    .string "terriblement cruel!\p"
+    .string "Pour lui, les POKéMON ne sont que\n"
+    .string "des outils.\p"
+    .string "Que se passera-t-il si ce tyran\n"
+    .string "prend notre entreprise…$"

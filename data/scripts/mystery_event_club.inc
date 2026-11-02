@@ -109,69 +109,69 @@ EventScript_GiveProfile:
 	end
 
 Text_IdLoveToHearYourProfile:
-	.string "Hi, glad to meet you!\p"
-	.string "…That's unfriendly of you.\n"
-	.string "How about saying hi back?\p"
-	.string "So, come on, tell me about\n"
-	.string "yourself.\p"
-	.string "I'd love to hear your profile!$"
+    .string "Salut, ravie de te rencontrer!\p"
+    .string "…Ce n'est pas très poli, ça.\n"
+    .string "Tu pourrais me dire bonjour!\p"
+    .string "Allez, parle-moi un peu\n"
+    .string "de toi.\p"
+    .string "J'aimerais connaître ton profil!$"
 
 Text_TellMeWhatsYourProfile:
-	.string "Tell me something good about\n"
-	.string "yourself. What's your profile?$"
+    .string "Dis-moi quelque chose de bien\n"
+    .string "sur toi. Quel est ton profil?$"
 
 Text_ExplainProfile:
-	.string "A profile is written using four\n"
-	.string "words or phrases.\p"
-	.string "There're plenty of words to choose\n"
-	.string "from for your profile.\p"
-	.string "The words and phrases are placed\n"
-	.string "in several convenient groups.\p"
-	.string "First, choose a group, then choose\n"
-	.string "a word or phrase.\p"
-	.string "…It's easier than it sounds.\n"
-	.string "Why don't you try it?$"
+    .string "Un profil s'écrit avec quatre\n"
+    .string "mots ou expressions.\p"
+    .string "Il y a plein de mots parmi\n"
+    .string "lesquels choisir.\p"
+    .string "Les mots et expressions sont\n"
+    .string "rangés en plusieurs groupes.\p"
+    .string "Choisis d'abord un groupe,\n"
+    .string "puis un mot ou une expression.\p"
+    .string "…C'est plus simple qu'il n'y\n"
+    .string "paraît. Pourquoi ne pas essayer?$"
 
 Text_WhatsYourProfile:
-	.string "What's your profile?$"
+    .string "Quel est ton profil?$"
 
 Text_DontBeLikeThat:
-	.string "Aww… Don't be like that.\n"
-	.string "You can tell me your profile.$"
+    .string "Ooh… Ne sois pas comme ça.\n"
+    .string "Tu peux me dire ton profil.$"
 
 Text_DecidedNotTo:
-	.string "Oh, you've decided not to?\n"
-	.string "You're fickle, aren't you?$"
+    .string "Oh, tu as changé d'avis?\n"
+    .string "Tu es bien versatile!$"
 
 Text_HiWeMeetAgain:
-	.string "Hi!\n"
-	.string "We meet again!$"
+    .string "Salut!\n"
+    .string "On se retrouve!$"
 
 Text_ChangeYourProfile:
-	.string "Would you like to change your\n"
-	.string "profile?$"
+    .string "Veux-tu changer ton\n"
+    .string "profil?$"
 
 Text_WhatAreYouLikeNow:
-	.string "What are you like now?\n"
-	.string "I'd really like to know.$"
+    .string "Comment es-tu maintenant?\n"
+    .string "J'aimerais vraiment savoir.$"
 
 Text_LikeProfileWayItIs:
-	.string "Okay, you like your profile the\n"
-	.string "way it is.\p"
-	.string "I think so, too.$"
+    .string "D'accord, ton profil te plaît\n"
+    .string "tel qu'il est.\p"
+    .string "Moi aussi.$"
 
 Text_ProfileSaysSomethingAboutYou:
-	.string "Hmhm…\p"
-	.string "Your profile really says something\n"
-	.string "about who you are.\p"
-	.string "Now that I know you better, it \n"
-	.string "makes us better friends than ever!$"
+    .string "Hmhm…\p"
+    .string "Ton profil en dit long sur\n"
+    .string "qui tu es.\p"
+    .string "Maintenant que je te connais\n"
+    .string "mieux, on est encore plus amis!$"
 
 Text_HeardThatBefore:
-	.string "Oh, I've heard that before…\p"
-	.string "My cousin, who lives far away,\n"
-	.string "always used to say that, I think.$"
+    .string "Oh, j'ai déjà entendu ça…\p"
+    .string "Mon cousin, qui vit loin d'ici,\n"
+    .string "disait toujours ça, je crois.$"
 
 Text_TellMoreNextTime:
-	.string "Please tell me more about\n"
-	.string "yourself next time!$"
+    .string "Parle-moi encore de toi\n"
+    .string "la prochaine fois!$"

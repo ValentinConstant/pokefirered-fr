@@ -1,3 +1,7 @@
 # Sauvegardes automatiques de l'editeur de textes (ne pas versionner)
 backups/
 __pycache__/
+
+# Build de l'exe (PyInstaller) - regenerable via build_exe.bat, pas versionne
+build/
+Editeur_textes.exe

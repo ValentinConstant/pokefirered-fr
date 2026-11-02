@@ -1,29 +1,29 @@
 Text_MayIHelpYou::
-	.string "Hi, there!\n"
-	.string "May I help you?$"
+    .string "Bonjour!\n"
+    .string "Puis-je vous aider?$"
 
 Text_FillOutQuestionnaire::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+    .string "Il y a un questionnaire.\n"
+    .string "Veux-tu le remplir?$"
 
 Text_QuestionnaireThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+    .string "Merci d'avoir pris le temps de\n"
+    .string "remplir notre questionnaire.\p"
+    .string "Vos avis nous serviront à\n"
+    .string "l'avenir.$"
 
 Text_YouKnowThoseWords::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+    .string "Oh, bonjour!\n"
+    .string "Tu connais ces mots?\p"
+    .string "Alors tu dois connaître le\n"
+    .string "CADEAU MYSTÈRE.\p"
+    .string "Désormais, tu devrais recevoir\n"
+    .string "des CADEAUX MYSTÈRE!$"
 
 Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+    .string "Une fois ta partie sauvegardée, tu\n"
+    .string "pourras accéder au CADEAU MYSTÈRE.$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+    .string "Merci d'avoir utilisé le système\n"
+    .string "CADEAU MYSTÈRE.$"

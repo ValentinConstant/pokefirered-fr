@@ -1,79 +1,83 @@
 Route4_Text_TrippedOverGeodude::
-    .string "Ouch! I tripped over a rocky\n"
-    .string "POKéMON, GEODUDE!$"
+    .string "Aïe! J'ai trébuché sur un POKéMON\n"
+    .string "rocheux, un RACAILLOU!$"
 
 Route4_Text_CrissyIntro::
-    .string "I came to MT. MOON in search of\n"
-    .string "mushroom POKéMON.$"
+    .string "Je suis venue au MONT SÉLÉNITE pour\n"
+    .string "chercher des POKéMON champignons.$"
 
 Route4_Text_CrissyDefeat::
-    .string "After all I did to catch them!$"
+    .string "Après tout le mal pour les\n"
+    .string "attraper!$"
 
 Route4_Text_CrissyPostBattle::
-    .string "There might not be any more\n"
-    .string "mushrooms here.\p"
-    .string "I think I got them all.$"
+    .string "Il n'y a peut-être plus de\n"
+    .string "champignons ici.\p"
+    .string "Je crois que je les ai tous pris.$"
 
 Route4_Text_MtMoonEntrance::
-    .string "MT. MOON\n"
-    .string "Tunnel Entrance$"
+    .string "MONT SÉLÉNITE\n"
+    .string "Entrée du tunnel$"
 
 Route4_Text_RouteSign::
     .string "ROUTE 4\n"
     .string "MT. MOON - CERULEAN CITY$"
 
 Text_MegaPunchTeach::
-    .string "A punch of roaring ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When the chips are down,\n"
-    .string "MEGA PUNCH is the ultimate attack!\l"
-    .string "You agree, yes?\p"
-    .string "Now!\n"
-    .string "Let me teach it to your POKéMON!$"
+    .string "Un poing d'une férocité rugissante!\p"
+    .string "Plein de puissance destructrice!\p"
+    .string "Dans les moments critiques,\n"
+    .string "ULTIMAPOING est l'attaque ultime!\l"
+    .string "Tu es d'accord, oui?\p"
+    .string "Allez!\n"
+    .string "Je l'apprends à ton POKéMON!$"
 
 Text_MegaPunchDeclined::
-    .string "You'll be back when you understand\n"
-    .string "the worth of MEGA PUNCH.$"
+    .string "Tu reviendras quand tu comprendras\n"
+    .string "la valeur d'ULTIMAPOING.$"
 
 Text_MegaPunchWhichMon::
-    .string "Fine!\n"
-    .string "Which POKéMON will learn it?$"
+    .string "Très bien!\n"
+    .string "Quel POKéMON va l'apprendre?$"
 
 Text_MegaPunchTaught::
-    .string "Now, we are comrades in the way of\n"
-    .string "punching!\p"
-    .string "You should go before you're seen\n"
-    .string "by the misguided fool who trains\l"
-    .string "only his silly kicking over there.$"
+    .string "Nous voilà camarades sur la voie\n"
+    .string "du poing!\p"
+    .string "File avant que l'idiot égaré qui\n"
+    .string "n'entraîne que ses coups de pied\l"
+    .string "ne te voie, là-bas.$"
 
 Text_MegaKickTeach::
-    .string "A kick of brutal ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When you get right down to it,\n"
-    .string "MEGA KICK is the ultimate attack!\l"
-    .string "Don't you agree?\p"
-    .string "Okay!\n"
-    .string "I'll teach it to your POKéMON!$"
+    .string "Un coup de pied d'une férocité\n"
+    .string "brutale!\p"
+    .string "Plein de puissance destructrice!\p"
+    .string "Au fond, ULTIMAWASHI est\n"
+    .string "l'attaque ultime!\l"
+    .string "Tu n'es pas d'accord?\p"
+    .string "D'accord!\n"
+    .string "Je l'apprends à ton POKéMON!$"
 
 Text_MegaKickDeclined::
-    .string "You'll come crawling back when you\n"
-    .string "realize the value of MEGA KICK.$"
+    .string "Tu reviendras en rampant quand tu\n"
+    .string "comprendras la valeur\l"
+    .string "d'ULTIMAWASHI.$"
 
 Text_MegaKickWhichMon::
-    .string "All right!\n"
-    .string "Which POKéMON wants to learn it?$"
+    .string "Très bien!\n"
+    .string "Quel POKéMON veut l'apprendre?$"
 
 Text_MegaKickTaught::
-    .string "Now, we are soul mates in the way\n"
-    .string "of kicking!\p"
-    .string "You should run before you're seen\n"
-    .string "by the deluded nitwit who trains\l"
-    .string "only simple punching over there.$"
+    .string "Nous voilà âmes soeurs sur la voie\n"
+    .string "du coup de pied!\p"
+    .string "Cours avant que l'abruti qui\n"
+    .string "n'entraîne que ses coups de poing\l"
+    .string "ne te voie, là-bas.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-    .string "Oh, wow, that's the BOULDERBADGE!\n"
-    .string "You got it from BROCK, didn't you?\p"
-    .string "BROCK is cool. He's not just tough.\n"
-    .string "People like and respect him.\p"
-    .string "I want to become a GYM LEADER\n"
-    .string "like him.$"
+    .string "Oh, ouah, c'est le BADGE ROCHE!\n"
+    .string "Tu l'as eu grâce à PIERRE, non?\p"
+    .string "PIERRE est cool. Il n'est pas juste\n"
+    .string "fort. Les gens l'aiment et le\l"
+    .string "respectent.\p"
+    .string "Je veux devenir CHAMPION d'ARÈNE\n"
+    .string "comme lui.$"

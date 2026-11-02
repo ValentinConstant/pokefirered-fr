@@ -1,37 +1,37 @@
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-    .string "Hi!\p"
-    .string "Sorry, but we're taking a break\n"
-    .string "right now.$"
+    .string "Salut!\p"
+    .string "Désolé, mais nous sommes en pause\n"
+    .string "en ce moment.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "My POKéMON are weak, so I often\n"
-    .string "have to go to the DRUGSTORE.$"
+    .string "Mes POKéMON sont faibles, alors je\n"
+    .string "vais souvent à la PHARMACIE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-    .string "Psst! There's a basement under the\n"
-    .string "GAME CORNER, I hear.$"
+    .string "Psst! Il paraît qu'il y a un\n"
+    .string "sous-sol sous le CASINO.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
-    .string "Munch…\p"
-    .string "The man at that table lost it all\n"
-    .string "at the slots.$"
+    .string "Miam…\p"
+    .string "L'homme à cette table a tout\n"
+    .string "perdu aux machines à sous.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-    .string "Go ahead! Laugh!\n"
-    .string "I'm flat-out busted!\p"
-    .string "No more slots for me!\n"
-    .string "I'm going straight!\p"
-    .string "Here!\n"
-    .string "I won't be needing this anymore!$"
+    .string "Vas-y! Rigole!\n"
+    .string "Je suis complètement ruiné!\p"
+    .string "Fini les machines à sous pour moi!\n"
+    .string "Je me range!\p"
+    .string "Tiens!\n"
+    .string "Je n'en aurai plus besoin!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-    .string "{PLAYER} received a COIN CASE\n"
-    .string "from the man.$"
+    .string "{PLAYER} reçoit une BOÎTE\n"
+    .string "JETONS de l'homme.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-    .string "Make room for this!$"
+    .string "Fais de la place pour ça!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-    .string "I always thought I was going to\n"
-    .string "win it back…$"
+    .string "J'ai toujours cru que j'allais\n"
+    .string "tout regagner…$"
 

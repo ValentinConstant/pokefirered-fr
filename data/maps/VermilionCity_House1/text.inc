@@ -1,34 +1,34 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-    .string "I'm the FISHING GURU!\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "Je suis le MAÎTRE PÊCHEUR!\p"
+    .string "J'adooore la pêche!\n"
+    .string "Je ne peux pas m'en passer.\p"
+    .string "Dis-moi, tu aimes pêcher?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "Formidable! Tu me plais.\n"
+    .string "On va être amis, je crois.\p"
+    .string "Prends ceci et va pêcher, mon ami!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER} received an OLD ROD from\n"
-    .string "the FISHING GURU.$"
+    .string "{PLAYER} reçoit une CANNE du\n"
+    .string "MAÎTRE PÊCHEUR.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "From the seas to rivers, go out\n"
-    .string "and land the big one, my friend.$"
+    .string "La pêche, c'est un art de vivre!\n"
+    .string "C'est comme la plus belle poésie.\p"
+    .string "Des mers aux rivières, va pêcher\n"
+    .string "le plus gros, mon ami.$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
     .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "Quelle déception…$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
-    .string "How are the fish biting?$"
+    .string "Bonjour, {PLAYER}!\p"
+    .string "Ça mord bien?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
-    .string "Oh, no!\p"
-    .string "I had a nice gift for you, but you\n"
-    .string "have no room for it!$"
+    .string "Oh, non!\p"
+    .string "J'avais un beau cadeau pour toi,\n"
+    .string "mais tu n'as pas de place!$"
 

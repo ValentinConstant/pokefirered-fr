@@ -1,10 +1,10 @@
-const u8 gTeachyTvString_TeachBattle[] = _("Teach me how to battle.");
-const u8 gTeachyTvString_StatusProblems[] = _("What are status problems?");
-const u8 gTeachyTvString_TypeMatchups[] = _("What are type matchups?");
-const u8 gTeachyTvString_CatchPkmn[] = _("I want to catch POKéMON.");
-const u8 gTeachyTvString_AboutTMs[] = _("Teach me about TMs.");
-const u8 gTeachyTvString_RegisterItem[] = _("How do I register an item?");
-const u8 gTeachyTvString_Cancel[] = _("CANCEL");
+const u8 gTeachyTvString_TeachBattle[] = _("Apprends-moi à combattre.");
+const u8 gTeachyTvString_StatusProblems[] = _("C'est quoi, les statuts?");
+const u8 gTeachyTvString_TypeMatchups[] = _("C'est quoi, les types?");
+const u8 gTeachyTvString_CatchPkmn[] = _("Je veux attraper des POKéMON.");
+const u8 gTeachyTvString_AboutTMs[] = _("Explique-moi les CT.");
+const u8 gTeachyTvString_RegisterItem[] = _("Comment enregistrer un objet?");
+const u8 gTeachyTvString_Cancel[] = _("RETOUR");
 const u8 gTeachyTvText_PokedudeSaysHello[] = _(
     "Hey, all you TRAINERS out there!\n"
     "HELLO, TRAINERS!\p"

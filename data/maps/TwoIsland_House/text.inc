@@ -1,47 +1,48 @@
 TwoIsland_House_Text_TeachMonMoveForMushroom::
-    .string "I'm the POKéMON MOVE MANIAC.\p"
-    .string "I know every single move that\n"
-    .string "POKéMON learn growing up.\p"
-    .string "I'm also a mushroom maniac.\p"
-    .string "Bring me two TINYMUSHROOMS,\n"
-    .string "or one BIG MUSHROOM.\p"
-    .string "If you do that for me, I'll teach\n"
-    .string "a move to one POKéMON.$"
+    .string "Je suis le MANIAC DES CAPACITÉS.\p"
+    .string "Je connais toutes les capacités\n"
+    .string "que les POKéMON apprennent.\p"
+    .string "Je suis aussi fou de champignons.\p"
+    .string "Apporte-moi deux PETIT CHAMPI,\n"
+    .string "ou un GROS CHAMPI.\p"
+    .string "Si tu fais ça, j'apprendrai une\n"
+    .string "capacité à un de tes POKéMON.$"
 
 TwoIsland_House_Text_WantMeToTeachMove::
-    .string "Sniff, sniff…\n"
-    .string "Hm! You smell of MUSHROOMS!\p"
-    .string "Do you want me to teach a move\n"
-    .string "to a POKéMON of yours?$"
+    .string "Snif, snif…\n"
+    .string "Hm! Tu sens les CHAMPIGNONS!\p"
+    .string "Veux-tu que j'apprenne une\n"
+    .string "capacité à un de tes POKéMON?$"
 
 TwoIsland_House_Text_TutorWhichMon::
-    .string "Which POKéMON needs tutoring?$"
+    .string "Quel POKéMON a besoin de cours?$"
 
 TwoIsland_House_Text_TeachWhichMove::
-    .string "Which move should I teach?$"
+    .string "Quelle capacité dois-je apprendre?$"
 
 TwoIsland_House_Text_NoMoveICanTeachThatMon::
-    .string "Sorry…\p"
-    .string "It doesn't appear as if I have a\n"
-    .string "move I can teach that POKéMON.$"
+    .string "Désolé…\p"
+    .string "Je ne semble avoir aucune capacité\n"
+    .string "à apprendre à ce POKéMON.$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
-    .string "Then, I'll need a MUSHROOM or two.\n"
-    .string "What are you going to give me?$"
+    .string "Alors, il me faut un CHAMPIGNON ou\n"
+    .string "deux. Que vas-tu me donner?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
-    .string "{PLAYER} handed over two\n"
-    .string "TINYMUSHROOMS in exchange.$"
+    .string "{PLAYER} donne deux\n"
+    .string "PETIT CHAMPI en échange.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-    .string "{PLAYER} handed over one\n"
-    .string "BIG MUSHROOM in exchange.$"
+    .string "{PLAYER} donne un\n"
+    .string "GROS CHAMPI en échange.$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
-    .string "If your POKéMON need to learn a\n"
-    .string "move, I need a MUSHROOM or two.$"
+    .string "Si tes POKéMON doivent apprendre\n"
+    .string "une capacité, il me faut un ou deux\l"
+    .string "CHAMPIGNONS.$"
 
 TwoIsland_House_Text_CantTeachAnEgg::
-    .string "Hunh? There isn't a single move\n"
-    .string "that I can teach an EGG.$"
+    .string "Hein? Je ne peux apprendre aucune\n"
+    .string "capacité à un OEUF.$"
 

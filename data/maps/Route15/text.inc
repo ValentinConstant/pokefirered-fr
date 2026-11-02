@@ -1,154 +1,157 @@
 Route15_Text_KindraIntro::
-    .string "I just got some POKéMON in trades.\n"
-    .string "Can I try them out on you?$"
+    .string "Je viens d'obtenir des POKéMON par\n"
+    .string "échange. Je peux les tester sur\l"
+    .string "toi?$"
 
 Route15_Text_KindraDefeat::
-    .string "Not good enough!$"
+    .string "Pas assez bon!$"
 
 Route15_Text_KindraPostBattle::
-    .string "You can't change the nickname of\n"
-    .string "any POKéMON you get in a trade.\p"
-    .string "Only the Original TRAINER can get\n"
-    .string "the nickname changed.$"
+    .string "On ne peut pas changer le surnom\n"
+    .string "d'un POKéMON reçu par échange.\p"
+    .string "Seul le DRESSEUR d'Origine peut\n"
+    .string "changer son surnom.$"
 
 Route15_Text_BeckyIntro::
-    .string "You look gentle, so I think I can\n"
-    .string "beat you.\p"
-    .string "I'll give it a go!$"
+    .string "Tu as l'air gentil, alors je pense\n"
+    .string "pouvoir te battre.\p"
+    .string "Je vais essayer!$"
 
 Route15_Text_BeckyDefeat::
-    .string "No, wrong!$"
+    .string "Non, c'est faux!$"
 
 Route15_Text_BeckyPostBattle::
-    .string "I'm afraid of BIKERS. They look so\n"
-    .string "ugly and mean!$"
+    .string "J'ai peur des MOTARDS. Ils ont\n"
+    .string "l'air si moches et méchants!$"
 
 Route15_Text_EdwinIntro::
-    .string "When I whistle, I can summon bird\n"
-    .string "POKéMON.$"
+    .string "Quand je siffle, j'appelle des\n"
+    .string "POKéMON oiseaux.$"
 
 Route15_Text_EdwinDefeat::
-    .string "Ow!\n"
-    .string "That's tragic!$"
+    .string "Aïe!\n"
+    .string "C'est tragique!$"
 
 Route15_Text_EdwinPostBattle::
-    .string "Maybe I'm not cut out for battles.\n"
-    .string "I'm not the right type, I guess.$"
+    .string "Je ne suis pas fait pour les\n"
+    .string "combats. Pas le bon type, faut\l"
+    .string "croire.$"
 
 Route15_Text_ChesterIntro::
-    .string "Hmm? My birds are shivering!\n"
-    .string "You're good, aren't you?$"
+    .string "Hmm? Mes oiseaux tremblent!\n"
+    .string "Tu es fort, non?$"
 
 Route15_Text_ChesterDefeat::
-    .string "Just as I thought!$"
+    .string "Comme je le pensais!$"
 
 Route15_Text_ChesterPostBattle::
-    .string "This is so obvious, you should know\n"
-    .string "this, but…\p"
-    .string "Moves like EARTHQUAKE and FISSURE\n"
-    .string "have no effect on bird POKéMON.$"
+    .string "C'est évident, tu devrais le\n"
+    .string "savoir, mais…\p"
+    .string "SÉISME et ABÎME n'ont aucun effet\n"
+    .string "sur les POKéMON oiseaux.$"
 
 Route15_Text_GraceIntro::
-    .string "Oh, you're a little cutie!\n"
-    .string "So like a darling POKéMON!$"
+    .string "Oh, tu es trop mignon!\n"
+    .string "Comme un adorable POKéMON!$"
 
 Route15_Text_GraceDefeat::
-    .string "You looked so cute, too!$"
+    .string "Tu avais l'air si mignon, en plus!$"
 
 Route15_Text_GracePostBattle::
-    .string "I forgive you.\n"
-    .string "I can take it.\l"
-    .string "I'm a big girl now.$"
+    .string "Je te pardonne.\n"
+    .string "Je peux encaisser.\l"
+    .string "Je suis une grande fille.$"
 
 Route15_Text_OliviaIntro::
-    .string "I raise POKéMON for protection\n"
-    .string "because I live alone.$"
+    .string "J'élève des POKéMON pour me\n"
+    .string "protéger car je vis seule.$"
 
 Route15_Text_OliviaDefeat::
-    .string "POKéMON isn't about winning or\n"
-    .string "losing for me.$"
+    .string "Pour moi, les POKéMON, ce n'est pas\n"
+    .string "une question de victoire.$"
 
 Route15_Text_OliviaPostBattle::
-    .string "I love having my POKéMON greet me\n"
-    .string "when I get home.\p"
-    .string "It's so reassuring.$"
+    .string "J'adore que mes POKéMON\n"
+    .string "m'accueillent quand je rentre.\p"
+    .string "C'est si rassurant.$"
 
 Route15_Text_ErnestIntro::
-    .string "Hey, kid! C'mon!\n"
-    .string "I just got these off some loser!$"
+    .string "Hé, petit! Allez!\n"
+    .string "Je viens de les piquer à un nul!$"
 
 Route15_Text_ErnestDefeat::
-    .string "Why not?$"
+    .string "Pourquoi pas?$"
 
 Route15_Text_ErnestPostBattle::
-    .string "Life's too short.\n"
-    .string "It's cool to live as an outlaw.\l"
-    .string "TEAM ROCKET RULES!$"
+    .string "La vie est trop courte.\n"
+    .string "C'est cool de vivre hors-la-loi.\l"
+    .string "VIVE LA TEAM ROCKET!$"
 
 Route15_Text_AlexIntro::
-    .string "Fork over all your cash when you\n"
-    .string "lose to me, kid!$"
+    .string "Aboule tout ton fric quand tu\n"
+    .string "auras perdu, petit!$"
 
 Route15_Text_AlexDefeat::
-    .string "That can't be true!$"
+    .string "C'est pas vrai!$"
 
 Route15_Text_AlexPostBattle::
-    .string "I was just joking about the money.\n"
-    .string "Don't take me all serious.$"
+    .string "Je plaisantais, pour l'argent.\n"
+    .string "Ne me prends pas au sérieux.$"
 
 Route15_Text_CeliaIntro::
-    .string "What's cool and happening?\n"
-    .string "Trading POKéMON!$"
+    .string "Qu'est-ce qui est cool et branché?\n"
+    .string "Échanger des POKéMON!$"
 
 Route15_Text_CeliaDefeat::
-    .string "I said trade!$"
+    .string "J'ai dit échange!$"
 
 Route15_Text_CeliaPostBattle::
-    .string "I trade POKéMON with my friends\n"
-    .string "all the time.$"
+    .string "J'échange tout le temps des\n"
+    .string "POKéMON avec mes amis.$"
 
 Route15_Text_YazminIntro::
-    .string "Want to play with my POKéMON?$"
+    .string "Tu veux jouer avec mes POKéMON?$"
 
 Route15_Text_YazminDefeat::
-    .string "I was too impatient!$"
+    .string "J'étais trop impatiente!$"
 
 Route15_Text_YazminPostBattle::
-    .string "I'll go train with weaker people.$"
+    .string "Je vais m'entraîner avec des gens\n"
+    .string "plus faibles.$"
 
 Route15_Text_RouteSign::
     .string "ROUTE 15\n"
-    .string "West to FUCHSIA CITY$"
+    .string "Ouest: PARMANIE$"
 
 Route15_Text_MyaIntro::
-    .string "MYA: You're perfect.\n"
-    .string "Help me train my little brother?$"
+    .string "MYA: Tu tombes bien. Tu aides mon\n"
+    .string "petit frère à s'entraîner?$"
 
 Route15_Text_MyaDefeat::
-    .string "MYA: RON, you have to focus!\n"
-    .string "Concentrate on what you're doing!$"
+    .string "MYA: RON, concentre-toi!\n"
+    .string "Concentre-toi sur ce que tu fais!$"
 
 Route15_Text_MyaPostBattle::
-    .string "MYA: Okay, we'll turn it up.\n"
-    .string "I'll add to our training menu!$"
+    .string "MYA: Bon, on va passer la vitesse\n"
+    .string "supérieure à l'entraînement!$"
 
 Route15_Text_MyaNotEnoughMons::
-    .string "MYA: Do you want to challenge us?\n"
-    .string "You'll need two POKéMON, though.$"
+    .string "MYA: Tu veux nous défier? Il te\n"
+    .string "faut deux POKéMON, par contre.$"
 
 Route15_Text_RonIntro::
-    .string "RON: My sister gets scary when we\n"
-    .string "lose.$"
+    .string "RON: Ma soeur fait peur quand on\n"
+    .string "perd.$"
 
 Route15_Text_RonDefeat::
-    .string "RON: Oh, no, no…\n"
-    .string "Sis, I'm sorry!$"
+    .string "RON: Oh, non, non…\n"
+    .string "Pardon, grande soeur!$"
 
 Route15_Text_RonPostBattle::
-    .string "RON: Oh, bleah…\n"
-    .string "I wish I had a nice sister…$"
+    .string "RON: Oh, beurk… J'aimerais avoir\n"
+    .string "une gentille soeur…$"
 
 Route15_Text_RonNotEnoughMons::
-    .string "RON: Did you want to battle with\n"
-    .string "my sister and me?\p"
-    .string "You need two POKéMON, then.$"
+    .string "RON: Tu voulais te battre contre\n"
+    .string "ma soeur et moi?\p"
+    .string "Alors il te faut deux POKéMON.$"

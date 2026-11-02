@@ -1,45 +1,46 @@
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-    .string "You look tired.\n"
-    .string "You should take a quick nap.$"
+    .string "Tu as l'air fatigué.\n"
+    .string "Tu devrais faire une petite sieste.$"
 
 SilphCo_9F_Text_DontGiveUp::
-    .string "Don't give up!$"
+    .string "N'abandonne pas!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-    .string "Thank you so much.$"
+    .string "Merci infiniment.$"
 
 SilphCo_9F_Text_Grunt1Intro::
-    .string "Your POKéMON seem to adore you,\n"
-    .string "kid!$"
+    .string "Tes POKéMON ont l'air de t'adorer,\n"
+    .string "petit!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
     .string "Ghaaah!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
-    .string "If I had started as a TRAINER at\n"
-    .string "your age…$"
+    .string "Si j'avais commencé comme DRESSEUR\n"
+    .string "à ton âge…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "Your POKéMON have weak points!\n"
-    .string "I can nail them!$"
+    .string "Tes POKéMON ont des points faibles!\n"
+    .string "Je vais les exploiter!$"
 
 SilphCo_9F_Text_EdDefeat::
-    .string "You hammered me!$"
+    .string "Tu m'as écrasé!$"
 
 SilphCo_9F_Text_EdPostBattle::
-    .string "Exploiting weak spots does work.\n"
-    .string "Think about type advantages.$"
+    .string "Exploiter les faiblesses, ça\n"
+    .string "marche. Pense aux avantages de\l"
+    .string "type.$"
 
 SilphCo_9F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "Je suis l'un des quatre FRÈRES\n"
+    .string "ROCKET!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
     .string "Warg!\n"
-    .string "Brothers, I lost!$"
+    .string "Mes frères, j'ai perdu!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-    .string "My brothers will avenge me!$"
+    .string "Mes frères me vengeront!$"
 
 SilphCo_9F_Text_FloorSign::
     .string "SILPH CO. HEAD OFFICE\n"

@@ -1,125 +1,127 @@
 ViridianCity_Text_CanCarryMonsAnywhere::
-    .string "Those POKé BALLS at your waist!\n"
-    .string "You have POKéMON, don't you?\p"
-    .string "It's great that you can carry and\n"
-    .string "use POKéMON anytime, anywhere.$"
+    .string "Ces POKé BALLS à ta ceinture!\n"
+    .string "Tu as des POKéMON, non?\p"
+    .string "C'est génial de pouvoir emmener des\n"
+    .string "POKéMON partout, tout le temps.$"
 
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
-    .string "This POKéMON GYM is always closed.\p"
-    .string "I wonder who the LEADER is?$"
+    .string "Cette ARÈNE POKéMON est toujours\n"
+    .string "fermée.\p"
+    .string "Qui peut bien être le CHAMPION?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-    .string "VIRIDIAN GYM's LEADER returned!$"
+    .string "Le CHAMPION de JADIELLE est revenu!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
-    .string "You want to know about the two\n"
-    .string "kinds of caterpillar POKéMON?$"
+    .string "Tu veux connaître les deux sortes\n"
+    .string "de POKéMON chenilles?$"
 
 ViridianCity_Text_OhOkayThen::
-    .string "Oh, okay then!$"
+    .string "Oh, d'accord, alors!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-    .string "CATERPIE has no poison,\n"
-    .string "but WEEDLE does.\p"
-    .string "Watch that your POKéMON aren't\n"
-    .string "stabbed by WEEDLE's POISON STING.$"
+    .string "CHENIPAN n'est pas venimeux,\n"
+    .string "mais ASPICOT, si.\p"
+    .string "Attention à ce que tes POKéMON ne\n"
+    .string "soient pas piqués par DARD-VENIN.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
-    .string "Oh, Grandpa!\n"
-    .string "Don't be so mean!\p"
-    .string "I'm so sorry.\n"
-    .string "He hasn't had his coffee yet.$"
+    .string "Oh, grand-père!\n"
+    .string "Ne sois pas si méchant!\p"
+    .string "Je suis désolée.\n"
+    .string "Il n'a pas encore bu son café.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
-    .string "I go shopping in PEWTER CITY\n"
-    .string "occasionally.\p"
-    .string "I have to take the winding trail in\n"
-    .string "VIRIDIAN FOREST when I go.$"
+    .string "Je vais parfois faire mes courses\n"
+    .string "à ARGENTA.\p"
+    .string "Il faut prendre le chemin sinueux\n"
+    .string "de la FORÊT DE JADE pour y aller.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
-    .string "I absolutely forbid you from\n"
-    .string "going through here!\p"
-    .string "This is private property!$"
+    .string "Je t'interdis formellement de\n"
+    .string "passer par ici!\p"
+    .string "C'est une propriété privée!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons::
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "Hm?\n"
-    .string "What is that red box you have?\p"
-    .string "Ah, so you're working on your\n"
-    .string "POKéDEX.\p"
-    .string "Then let me give you a word of\n"
-    .string "advice.\p"
-    .string "Whenever you catch a POKéMON,\n"
-    .string "the POKéDEX automatically updates\l"
-    .string "its data.\p"
-    .string "…You don't know how to catch\n"
-    .string "a POKéMON?\p"
-    .string "I suppose I had better show you\n"
-    .string "then!$"
+    .string "Bon, j'ai bu mon café, et c'est ce\n"
+    .string "qu'il me fallait pour démarrer!\p"
+    .string "Hm? Qu'est-ce que c'est, ce boîtier\n"
+    .string "rouge?\p"
+    .string "Ah, tu complètes ton POKéDEX.\p"
+    .string "Alors laisse-moi te donner un\n"
+    .string "conseil.\p"
+    .string "Quand tu attrapes un POKéMON, le\n"
+    .string "POKéDEX met à jour ses données\l"
+    .string "automatiquement.\p"
+    .string "…Tu ne sais pas comment attraper\n"
+    .string "un POKéMON?\p"
+    .string "Alors je ferais mieux de te\n"
+    .string "montrer!$"
 
 ViridianCity_Text_ThatWasEducationalTakeThis::
-    .string "There! Now tell me, that was\n"
-    .string "educational, was it not?\p"
-    .string "And here, take this, too.$"
+    .string "Voilà! Alors, dis-moi, c'était\n"
+    .string "instructif, non?\p"
+    .string "Et tiens, prends ça aussi.$"
 
 ViridianCity_Text_WatchThatToLearnBasics::
-    .string "If there's something you don't\n"
-    .string "understand, watch that.\p"
-    .string "It will teach you about the basics\n"
-    .string "of being a POKéMON TRAINER.$"
+    .string "Si tu ne comprends pas quelque\n"
+    .string "chose, regarde ça.\p"
+    .string "Ça t'apprendra les bases pour être\n"
+    .string "DRESSEUR de POKéMON.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "But I made it too strong.\n"
-    .string "It gave me a headache…\p"
-    .string "Incidentally, are you filling your\n"
-    .string "POKéDEX?\p"
-    .string "At first, focus on weakening the\n"
-    .string "POKéMON before trying to catch it.$"
+    .string "Bon, j'ai bu mon café, et c'est ce\n"
+    .string "qu'il me fallait pour démarrer!\p"
+    .string "Mais je l'ai fait trop fort.\n"
+    .string "J'ai mal à la tête…\p"
+    .string "Au fait, tu remplis ton POKéDEX?\p"
+    .string "Au début, affaiblis bien le POKéMON\n"
+    .string "avant d'essayer de l'attraper.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "But I made it too strong.\n"
-    .string "It gave me a headache…\p"
-    .string "Incidentally, is my old TEACHY TV\n"
-    .string "helping you?$"
+    .string "Bon, j'ai bu mon café, et c'est ce\n"
+    .string "qu'il me fallait pour démarrer!\p"
+    .string "Mais je l'ai fait trop fort.\n"
+    .string "J'ai mal à la tête…\p"
+    .string "Au fait, ma vieille APPRENTITÉLÉ\n"
+    .string "t'aide-t-elle?$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
-    .string "Wahaha!\n"
-    .string "It's my grandson on the show!\p"
-    .string "Since he's the one doing the\n"
-    .string "teaching, you're bound to learn.$"
+    .string "Wahaha! C'est mon petit-fils dans\n"
+    .string "l'émission!\p"
+    .string "Comme c'est lui qui enseigne, tu\n"
+    .string "vas forcément apprendre.$"
 
 ViridianCity_Text_TooBusyForTeachyTV::
-    .string "Hm… You're too busy to not even\n"
-    .string "have the time for TEACHY TV…\p"
-    .string "Time is money, and neither should\n"
-    .string "be ill spent…$"
+    .string "Hm… Tu es trop occupé pour avoir le\n"
+    .string "temps de regarder l'APPRENTITÉLÉ…\p"
+    .string "Le temps, c'est de l'argent, et il\n"
+    .string "ne faut gaspiller ni l'un ni\l"
+    .string "l'autre…$"
 
 ViridianCity_Text_CitySign::
-    .string "VIRIDIAN CITY \n"
-    .string "The Eternally Green Paradise$"
+    .string "JADIELLE \n"
+    .string "Le paradis éternellement vert$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-    .string "TRAINER TIPS\p"
-    .string "Catch POKéMON and expand your\n"
-    .string "collection.\p"
-    .string "The more you have, the easier it\n"
-    .string "is to battle.$"
+    .string "CONSEILS AUX DRESSEURS\p"
+    .string "Attrape des POKéMON pour agrandir\n"
+    .string "ta collection.\p"
+    .string "Plus tu en as, plus les combats\n"
+    .string "sont faciles.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-    .string "TRAINER TIPS\p"
-    .string "The battle moves of POKéMON are\n"
-    .string "limited by their POWER POINTS, PP.\p"
-    .string "To replenish PP, rest your tired\n"
-    .string "POKéMON at a POKéMON CENTER.$"
+    .string "CONSEILS AUX DRESSEURS\p"
+    .string "Les capacités des POKéMON sont\n"
+    .string "limitées par leurs Points de\l"
+    .string "Pouvoir, les PP.\p"
+    .string "Pour restaurer les PP, repose tes\n"
+    .string "POKéMON au CENTRE POKéMON.$"
 
 ViridianCity_Text_GymSign::
     .string "VIRIDIAN CITY POKéMON GYM$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-    .string "VIRIDIAN GYM's doors are locked…$"
+    .string "Les portes de l'ARÈNE de JADIELLE\n"
+    .string "sont fermées à clé…$"
 

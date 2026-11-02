@@ -9,27 +9,29 @@ PokemonMansion_Text_GaveUpOnPressingSwitch::
     .string "おすのは　あきらめた$"
 
 PokemonMansion_1F_Text_SimonIntro::
-    .string "This place is, like, huge!$"
+    .string "Cet endroit est genre immense!$"
 
 PokemonMansion_1F_Text_SimonDefeat::
     .string "Ayah!$"
 
 PokemonMansion_1F_Text_SimonPostBattle::
-    .string "I wonder where my partner went.$"
+    .string "Je me demande où est passé mon\n"
+    .string "partenaire.$"
 
 PokemonMansion_1F_Text_BraydonIntro::
-    .string "My mentor once lived here.$"
+    .string "Mon mentor vivait ici autrefois.$"
 
 PokemonMansion_1F_Text_BraydonDefeat::
-    .string "Whew!\n"
-    .string "Overwhelming!$"
+    .string "Ouf!\n"
+    .string "Écrasant!$"
 
 PokemonMansion_1F_Text_BraydonPostBattle::
-    .string "So, you're stuck?\n"
-    .string "Try jumping off over there!$"
+    .string "Alors, tu es coincé?\n"
+    .string "Essaie de sauter par là-bas!$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
-    .string "Diary: Feb. 6\n"
-    .string "MEW gave birth.\p"
-    .string "We named the newborn MEWTWO.$"
+    .string "Journal: 6 février\n"
+    .string "MEW a donné naissance.\p"
+    .string "Nous avons appelé le nouveau-né\n"
+    .string "MEWTWO.$"
 

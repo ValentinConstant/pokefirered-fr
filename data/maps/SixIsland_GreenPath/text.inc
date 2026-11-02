@@ -1,21 +1,21 @@
 SixIsland_GreenPath_Text_JaclynIntro::
-    .string "…Huh?\p"
-    .string "I was envisioning my house, but\n"
-    .string "this is where I TELEPORT?$"
+    .string "…Hein?\p"
+    .string "Je pensais à ma maison, mais c'est\n"
+    .string "ici que je me TÉLÉPORTE?$"
 
 SixIsland_GreenPath_Text_JaclynDefeat::
-    .string "Big boo-boo!$"
+    .string "Grosse bourde!$"
 
 SixIsland_GreenPath_Text_JaclynPostBattle::
-    .string "I am so scatterbrained!\p"
-    .string "I need to focus so I can TELEPORT\n"
-    .string "properly to my house!$"
+    .string "Je suis si étourdie!\p"
+    .string "Je dois me concentrer pour bien me\n"
+    .string "TÉLÉPORTER chez moi!$"
 
 SixIsland_GreenPath_Text_LeftRouteSign::
     .string "GREEN PATH\n"
     .string "PATTERN BUSH AHEAD$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
-    .string "GREEN PATH\n"
-    .string "Think Green, Keep Nature Clean!$"
+    .string "CHEMIN VERT Pensez vert, gardez la\n"
+    .string "nature propre!$"
 

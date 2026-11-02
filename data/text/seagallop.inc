@@ -3,5 +3,5 @@ Text_WhereDoYouWantToGo::
 	.string "どこに　いきたいんだ？$"
 
 Text_AllAboardSeagallopNum::
-	.string "All right!\n"
-	.string "All aboard SEAGALLOP HI-SPEED {STR_VAR_1}!$"
+    .string "C'est parti! Tous à bord de\n"
+    .string "l'OCÉAGALOP {STR_VAR_1}!$"

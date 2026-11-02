@@ -1,11 +1,12 @@
 SSAnne_1F_Room7_Text_ThomasIntro::
-    .string "I am but a solitary traveler…\p"
-    .string "My sole companions and friends are\n"
-    .string "POKéMON I caught on my journeys…$"
+    .string "Je ne suis qu'un voyageur\n"
+    .string "solitaire…\p"
+    .string "Mes seuls compagnons sont les\n"
+    .string "POKéMON attrapés en chemin…$"
 
 SSAnne_1F_Room7_Text_ThomasDefeat::
-    .string "My, my friends…$"
+    .string "Mes, mes amis…$"
 
 SSAnne_1F_Room7_Text_ThomasPostBattle::
-    .string "You should be nice to friends!$"
+    .string "Sois gentil avec tes amis!$"
 

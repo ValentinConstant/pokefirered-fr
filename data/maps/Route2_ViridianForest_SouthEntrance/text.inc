@@ -1,10 +1,10 @@
 Route2_ViridianForest_SouthEntrance_Text_ForestIsMaze::
-    .string "Are you going to VIRIDIAN FOREST?\n"
-    .string "It's a natural maze in there.\l"
-    .string "Be careful you don't get lost.$"
+    .string "Tu vas dans la FORÊT DE JADE?\n"
+    .string "C'est un vrai labyrinthe naturel.\l"
+    .string "Fais attention à ne pas te perdre.$"
 
 Route2_ViridianForest_SouthEntrance_Text_RattataHasWickedBite::
-    .string "RATTATA may be small, but don't\n"
-    .string "underestimate its wicked bite.\p"
-    .string "Have you caught one already?$"
+    .string "RATTATA est petit, mais ne\n"
+    .string "sous-estime pas sa morsure.\p"
+    .string "Tu en as déjà attrapé un?$"
 

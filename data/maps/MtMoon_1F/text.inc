@@ -1,92 +1,93 @@
 MtMoon_1F_Text_MarcosIntro::
-    .string "WHOA!\n"
-    .string "You shocked me!\l"
-    .string "…Oh, you're just a kid!$"
+    .string "OUAH!\n"
+    .string "Tu m'as fait peur!\l"
+    .string "…Oh, ce n'est qu'un gamin!$"
 
 MtMoon_1F_Text_MarcosDefeat::
-    .string "Wow!\n"
-    .string "Shocked again!$"
+    .string "Ouah!\n"
+    .string "Encore surpris!$"
 
 MtMoon_1F_Text_MarcosPostBattle::
-    .string "Kids like you shouldn't be\n"
-    .string "wandering around here in the dark.$"
+    .string "Les gamins comme toi ne devraient\n"
+    .string "pas traîner ici dans le noir.$"
 
 MtMoon_1F_Text_JoshIntro::
-    .string "Did you come to explore the cave,\n"
-    .string "too?$"
+    .string "Toi aussi, tu viens explorer la\n"
+    .string "grotte?$"
 
 MtMoon_1F_Text_JoshDefeat::
-    .string "Losing stinks!\n"
-    .string "It's so uncool.$"
+    .string "Perdre, c'est nul!\n"
+    .string "Pas cool du tout.$"
 
 MtMoon_1F_Text_JoshPostBattle::
-    .string "I came all the way down here to\n"
-    .string "show off to girls.$"
+    .string "Je suis venu jusqu'ici pour\n"
+    .string "frimer devant les filles.$"
 
 MtMoon_1F_Text_MiriamIntro::
-    .string "Wow! It's way bigger in here than\n"
-    .string "I thought!$"
+    .string "Ouah! C'est bien plus grand que\n"
+    .string "je le pensais!$"
 
 MtMoon_1F_Text_MiriamDefeat::
     .string "Oh!\n"
-    .string "I lost it!$"
+    .string "J'ai perdu!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-    .string "How do you get out of here?\n"
-    .string "It's so big, I may get lost.$"
+    .string "Comment on sort d'ici?\n"
+    .string "C'est si grand, je vais me perdre.$"
 
 MtMoon_1F_Text_JovanIntro::
-    .string "What!\n"
-    .string "Don't sneak up on me!$"
+    .string "Quoi!\n"
+    .string "Ne me surprends pas comme ça!$"
 
 MtMoon_1F_Text_JovanDefeat::
-    .string "My POKéMON won't do!$"
+    .string "Mes POKéMON ne suffisent pas!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-    .string "I have to find stronger POKéMON.\n"
-    .string "Where might they be?$"
+    .string "Je dois trouver des POKéMON plus\n"
+    .string "forts. Où peuvent-ils être?$"
 
 MtMoon_1F_Text_IrisIntro::
-    .string "What?\n"
-    .string "I'm waiting for my friends to find\l"
-    .string "me here.$"
+    .string "Quoi?\n"
+    .string "J'attends que mes amis me\l"
+    .string "retrouvent ici.$"
 
 MtMoon_1F_Text_IrisDefeat::
-    .string "I lost?$"
+    .string "J'ai perdu?$"
 
 MtMoon_1F_Text_IrisPostBattle::
-    .string "I came because I heard there are\n"
-    .string "some very rare fossils here.$"
+    .string "Je suis venue car on dit qu'il y a\n"
+    .string "des fossiles très rares ici.$"
 
 MtMoon_1F_Text_KentIntro::
-    .string "Suspicious men are in the cave.\n"
-    .string "What about you?$"
+    .string "Des hommes louches sont dans la\n"
+    .string "grotte. Et toi, alors?$"
 
 MtMoon_1F_Text_KentDefeat::
-    .string "You got me!$"
+    .string "Tu m'as eu!$"
 
 MtMoon_1F_Text_KentPostBattle::
-    .string "I saw them!\n"
-    .string "I'm sure they're from TEAM ROCKET!$"
+    .string "Je les ai vus!\n"
+    .string "Je suis sûr qu'ils sont de la TEAM\l"
+    .string "ROCKET!$"
 
 MtMoon_1F_Text_RobbyIntro::
-    .string "You need to go through this cave\n"
-    .string "to get to CERULEAN CITY.$"
+    .string "Tu dois traverser cette grotte\n"
+    .string "pour aller à AZURIA.$"
 
 MtMoon_1F_Text_RobbyDefeat::
-    .string "I lost.$"
+    .string "J'ai perdu.$"
 
 MtMoon_1F_Text_RobbyPostBattle::
-    .string "ZUBAT is tough!\n"
-    .string "But if you can catch one, you'll\l"
-    .string "be able to count on it.$"
+    .string "NOSFERAPTI est coriace!\n"
+    .string "Mais si tu en attrapes un, tu\l"
+    .string "pourras compter sur lui.$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-    .string "Beware!\n"
-    .string "ZUBAT is a bloodsucker!$"
+    .string "Attention!\n"
+    .string "NOSFERAPTI suce le sang!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
-    .string "Hi, I'm excavating for fossils here\n"
-    .string "under MT. MOON.\p"
-    .string "Sometimes, BROCK of PEWTER GYM\n"
-    .string "lends me a hand.$"
+    .string "Salut, je fouille pour trouver des\n"
+    .string "fossiles sous le MONT SÉLÉNITE.\p"
+    .string "Parfois, PIERRE de l'ARÈNE\n"
+    .string "d'ARGENTA me donne un coup de main.$"

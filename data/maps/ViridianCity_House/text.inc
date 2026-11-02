@@ -1,16 +1,18 @@
 ViridianCity_House_Text_NicknamingIsFun::
-    .string "Coming up with nicknames is fun,\n"
-    .string "but it's not so easy to do.\p"
-    .string "Clever names are nice, but simple\n"
-    .string "names are easier to remember.$"
+    .string "Trouver des surnoms, c'est amusant,\n"
+    .string "mais ce n'est pas si facile.\p"
+    .string "Les noms astucieux sont sympas,\n"
+    .string "mais les simples se retiennent\l"
+    .string "mieux.$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-    .string "My daddy loves POKéMON, too.$"
+    .string "Mon papa aime les POKéMON, lui\n"
+    .string "aussi.$"
 
 ViridianCity_House_Text_Speary::
-    .string "SPEARY: Tetweet!$"
+    .string "PIAFINOU: Tetwiit!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
-    .string "SPEAROW\n"
-    .string "Name: SPEARY$"
+    .string "PIAFABEC\n"
+    .string "Nom: PIAFINOU$"
 

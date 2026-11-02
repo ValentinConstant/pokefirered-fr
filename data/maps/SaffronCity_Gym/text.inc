@@ -1,150 +1,153 @@
 SaffronCity_Gym_Text_SabrinaIntro::
-    .string "I had a vision of your arrival.\p"
-    .string "I have had psychic powers since\n"
-    .string "I was a child.\p"
-    .string "It started when a spoon I\n"
-    .string "carelessly tossed, bent.\p"
-    .string "I dislike battling, but if you wish,\n"
-    .string "I will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "J'ai eu la vision de ton arrivée.\p"
+    .string "J'ai des pouvoirs psychiques depuis\n"
+    .string "mon enfance.\p"
+    .string "Tout a commencé quand une cuillère\n"
+    .string "que j'avais lancée s'est tordue.\p"
+    .string "Je n'aime pas combattre, mais si tu\n"
+    .string "le veux, je te montrerai mes pouvoirs!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
-    .string "This loss shocks me!\n"
-    .string "But, a loss is a loss.\p"
-    .string "I admit, I didn't work hard enough\n"
-    .string "to win.\p"
-    .string "Your victory has earned you the\n"
-    .string "MARSHBADGE.$"
+    .string "Cette défaite me choque!\n"
+    .string "Mais une défaite est une défaite.\p"
+    .string "J'avoue ne pas m'être assez\n"
+    .string "investie pour gagner.\p"
+    .string "Ta victoire te vaut le\n"
+    .string "BADGE MARAIS.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
-    .string "Psychic power isn't something that\n"
-    .string "only a few people have.\p"
-    .string "Everyone has psychic power.\n"
-    .string "People just don't realize it.$"
+    .string "Le pouvoir psychique n'est pas\n"
+    .string "réservé à quelques-uns.\p"
+    .string "Tout le monde en possède. Les gens\n"
+    .string "ne s'en rendent pas compte.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "The MARSHBADGE makes POKéMON up\n"
-    .string "to Lv. 70 obey you.\p"
-    .string "Stronger POKéMON will become wild,\n"
-    .string "ignoring your orders in battle.\p"
-    .string "Just don't raise your POKéMON too\n"
-    .string "much to avoid that problem.\p"
-    .string "Wait, please take this TM with you.$"
+    .string "Avec le BADGE MARAIS, les POKéMON\n"
+    .string "jusqu'au N.70 t'obéiront.\p"
+    .string "Les plus forts deviendront\n"
+    .string "indociles en combat.\p"
+    .string "N'élève pas trop tes POKéMON pour\n"
+    .string "éviter ce problème.\p"
+    .string "Attends, prends cette CT avec toi.$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
-    .string "{PLAYER} received TM04 from\n"
-    .string "SABRINA.$"
+    .string "{PLAYER} reçoit la CT04 de\n"
+    .string "MORGANE.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-    .string "TM04 is CALM MIND.\p"
-    .string "It makes the POKéMON concentrate\n"
-    .string "to raise both SP. ATK and SP. DEF.$"
+    .string "La CT04 contient PLÉNITUDE.\p"
+    .string "Le POKéMON se concentre pour\n"
+    .string "augmenter son ATQ. SPÉ. et sa\l"
+    .string "DÉF. SPÉ.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
-    .string "Your BAG is full of other items.$"
+    .string "Ton SAC est plein d'autres objets.$"
 
 SaffronCity_Gym_Text_AmandaIntro::
-    .string "SABRINA is far younger than I,\n"
-    .string "but she has earned my respect.$"
+    .string "MORGANE est bien plus jeune que\n"
+    .string "moi, mais elle a gagné mon respect.$"
 
 SaffronCity_Gym_Text_AmandaDefeat::
-    .string "Not good enough!$"
+    .string "Pas assez bon!$"
 
 SaffronCity_Gym_Text_AmandaPostBattle::
-    .string "In a battle of equals, the one\n"
-    .string "with the stronger will wins.\p"
-    .string "If you wish to beat SABRINA, focus\n"
-    .string "and will yourself to victory.$"
+    .string "Dans un combat d'égal à égal, la\n"
+    .string "volonté la plus forte l'emporte.\p"
+    .string "Pour battre MORGANE, concentre-toi\n"
+    .string "et veux ta victoire.$"
 
 SaffronCity_Gym_Text_JohanIntro::
-    .string "Does our unseen power scare you?$"
+    .string "Notre pouvoir invisible te fait\n"
+    .string "peur?$"
 
 SaffronCity_Gym_Text_JohanDefeat::
-    .string "I never foresaw this!$"
+    .string "Je n'avais pas prévu ça!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-    .string "PSYCHIC POKéMON fear only ghosts\n"
-    .string "and bugs!$"
+    .string "Les POKéMON PSY ne craignent que\n"
+    .string "les spectres et les insectes!$"
 
 SaffronCity_Gym_Text_StacyIntro::
-    .string "POKéMON take on the appearance of\n"
-    .string "their TRAINERS.\p"
-    .string "Your POKéMON must be tough, then!$"
+    .string "Les POKéMON ressemblent à leurs\n"
+    .string "DRESSEURS.\p"
+    .string "Tes POKéMON doivent être coriaces,\n"
+    .string "alors!$"
 
 SaffronCity_Gym_Text_StacyDefeat::
-    .string "I knew it!$"
+    .string "Je le savais!$"
 
 SaffronCity_Gym_Text_StacyPostBattle::
-    .string "I have much to learn still…\p"
-    .string "I must master PSYCHIC and teach it\n"
-    .string "to my POKéMON…$"
+    .string "J'ai encore beaucoup à apprendre…\p"
+    .string "Je dois maîtriser PSYKO et\n"
+    .string "l'apprendre à mes POKéMON…$"
 
 SaffronCity_Gym_Text_TyronIntro::
-    .string "You understand, don't you?\p"
-    .string "That power alone isn't enough to\n"
-    .string "win in the world of POKéMON?$"
+    .string "Tu comprends, n'est-ce pas?\p"
+    .string "Que la puissance seule ne suffit\n"
+    .string "pas dans le monde des POKéMON?$"
 
 SaffronCity_Gym_Text_TyronDefeat::
-    .string "I don't believe this!$"
+    .string "Je n'y crois pas!$"
 
 SaffronCity_Gym_Text_TyronPostBattle::
-    .string "SABRINA just wiped out the KARATE\n"
-    .string "MASTER next door.$"
+    .string "MORGANE vient d'écraser le MAÎTRE\n"
+    .string "KARATÉ d'à côté.$"
 
 SaffronCity_Gym_Text_TashaIntro::
-    .string "You and I, our POKéMON shall\n"
-    .string "battle!$"
+    .string "Toi et moi, nos POKéMON vont\n"
+    .string "s'affronter!$"
 
 SaffronCity_Gym_Text_TashaDefeat::
-    .string "I lost after all!$"
+    .string "J'ai perdu, finalement!$"
 
 SaffronCity_Gym_Text_TashaPostBattle::
-    .string "I knew that this was going to take\n"
-    .string "place.$"
+    .string "Je savais que ça allait se\n"
+    .string "produire.$"
 
 SaffronCity_Gym_Text_CameronIntro::
-    .string "SABRINA is young, but she's also\n"
-    .string "our highly skilled LEADER.\p"
-    .string "You won't reach her easily!$"
+    .string "MORGANE est jeune, mais c'est une\n"
+    .string "CHAMPIONNE très douée.\p"
+    .string "Tu ne l'atteindras pas facilement!$"
 
 SaffronCity_Gym_Text_CameronDefeat::
-    .string "Ow!\n"
-    .string "Down and out!$"
+    .string "Aïe!\n"
+    .string "K.O.!$"
 
 SaffronCity_Gym_Text_CameronPostBattle::
-    .string "There used to be two POKéMON GYMS\n"
-    .string "in SAFFRON.\p"
-    .string "The FIGHTING DOJO next door lost\n"
-    .string "its GYM status, though.\p"
-    .string "We simply creamed them when we\n"
-    .string "decided to have just one GYM.$"
+    .string "Il y avait autrefois deux ARÈNES\n"
+    .string "à SAFRANIA.\p"
+    .string "Mais le DOJO d'à côté a perdu son\n"
+    .string "statut d'ARÈNE.\p"
+    .string "On les a écrasés quand on a décidé\n"
+    .string "de ne garder qu'une seule ARÈNE.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-    .string "SAFFRON POKéMON GYM is famous for\n"
-    .string "training psychics.\p"
-    .string "You want to see SABRINA, don't\n"
-    .string "you? I can tell!$"
+    .string "L'ARÈNE de SAFRANIA est célèbre\n"
+    .string "pour former des médiums.\p"
+    .string "Tu veux voir MORGANE, hein?\n"
+    .string "Je le sens!$"
 
 SaffronCity_Gym_Text_PrestonDefeat::
     .string "Arrrgh!$"
 
 SaffronCity_Gym_Text_PrestonPostBattle::
-    .string "That's right! I used telepathy to\n"
-    .string "read your mind!$"
+    .string "C'est ça! J'ai lu dans tes pensées\n"
+    .string "par télépathie!$"
 
 SaffronCity_Gym_Text_GymGuyAdvice::
     .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "SABRINA's POKéMON use psychic\n"
-    .string "power instead of force.\p"
-    .string "FIGHTING POKéMON are especially\n"
-    .string "weak against PSYCHIC POKéMON.\p"
-    .string "They'll get destroyed before they\n"
-    .string "can even aim a punch!$"
+    .string "Futur champion!\p"
+    .string "Les POKéMON de MORGANE utilisent\n"
+    .string "leurs pouvoirs psychiques.\p"
+    .string "Les POKéMON COMBAT sont très\n"
+    .string "faibles contre les POKéMON PSY.\p"
+    .string "Ils seront détruits avant même\n"
+    .string "de viser!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-    .string "Psychic power, huh?\p"
-    .string "If I had that, I'd make a bundle\n"
-    .string "at the slots!$"
+    .string "Le pouvoir psychique, hein?\p"
+    .string "Si je l'avais, je me ferais un\n"
+    .string "paquet aux machines à sous!$"
 
 SaffronCity_Gym_Text_GymStatue::
     .string "SAFFRON POKéMON GYM\n"

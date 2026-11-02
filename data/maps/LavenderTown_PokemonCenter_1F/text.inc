@@ -1,16 +1,16 @@
 LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
-    .string "TEAM ROCKET will do anything for\n"
-    .string "the sake of money!\p"
-    .string "There is no job too dirty, no deed\n"
-    .string "too heinous, no crime too wicked!$"
+    .string "La TEAM ROCKET ferait n'importe\n"
+    .string "quoi pour de l'argent!\p"
+    .string "Aucun travail trop sale, aucun acte\n"
+    .string "trop odieux, aucun crime trop vil!$"
 
 LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
-    .string "I saw CUBONE's mother trying to\n"
-    .string "escape from TEAM ROCKET.\p"
-    .string "She was killed trying to get away…$"
+    .string "J'ai vu la mère d'OSSELAIT tenter\n"
+    .string "de fuir la TEAM ROCKET.\p"
+    .string "Elle a été tuée en s'enfuyant…$"
 
 LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::
-    .string "You know how the CUBONE species\n"
-    .string "wears skulls, right?\p"
-    .string "People will pay a lot for one.$"
+    .string "Tu sais que les OSSELAIT portent\n"
+    .string "des crânes, non?\p"
+    .string "Des gens paient cher pour en avoir.$"
 

@@ -1,28 +1,28 @@
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Only truly skilled TRAINERS are\n"
-	.string "allowed through.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet!$"
+    .string "Seuls les DRESSEURS vraiment doués\n"
+    .string "ont le droit de passer.\p"
+    .string "Tu n'as pas encore le\n"
+    .string "{STR_VAR_1}!$"
 
 Text_CantLetYouPass::
-	.string "Rules are rules.\n"
-	.string "I can't let you pass.$"
+    .string "Le règlement, c'est le règlement.\n"
+    .string "Je ne peux pas te laisser passer.$"
 
 Text_OhThatsBadgeGoRightAhead::
-	.string "Oh! That is the {STR_VAR_1}!\n"
-	.string "Go right ahead.$"
+    .string "Oh! C'est le {STR_VAR_1}!\n"
+    .string "Vas-y, passe.$"
 
 Text_OnlyPassWithBadgeDontHaveYet::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet.\p"
-	.string "You have to have it to get to\n"
-	.string "the POKéMON LEAGUE.$"
+    .string "Tu ne peux passer ici qu'avec le\n"
+    .string "{STR_VAR_1}.\p"
+    .string "Tu n'as pas encore le\n"
+    .string "{STR_VAR_1}.\p"
+    .string "Il te le faut pour aller à la\n"
+    .string "LIGUE POKéMON.$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "Oh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
-	.string "Okay, then.\n"
-	.string "Please, go right ahead.$"
+    .string "Tu ne peux passer ici qu'avec le\n"
+    .string "{STR_VAR_1}.\p"
+    .string "Oh! C'est le {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
+    .string "Bien, alors.\n"
+    .string "Vas-y, passe.$"

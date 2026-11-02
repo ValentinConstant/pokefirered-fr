@@ -1,22 +1,23 @@
 SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
-    .string "The SAFARI ZONE's huge, wouldn't\n"
-    .string "you say?\p"
-    .string "FUCHSIA's GYM LEADER, KOGA, \n"
-    .string "patrols the grounds every so often.\p"
-    .string "Thanks to him, we can play here\n"
-    .string "knowing that we're safe.$"
+    .string "Le PARC SAFARI est immense, tu ne\n"
+    .string "trouves pas?\p"
+    .string "Le CHAMPION de PARMANIE, KOGA,\n"
+    .string "patrouille le parc de temps en\l"
+    .string "temps.\p"
+    .string "Grâce à lui, on peut jouer ici en\n"
+    .string "toute sécurité.$"
 
 SafariZone_West_Text_RocksMakeMonRunButEasierCatch::
-    .string "Tossing ROCKS at POKéMON might\n"
-    .string "make them run, but they'll be\l"
-    .string "easier to catch.$"
+    .string "Lancer des CAILLOUX sur un POKéMON\n"
+    .string "peut le faire fuir, mais il sera\l"
+    .string "plus facile à attraper.$"
 
 SafariZone_West_Text_BaitMakesMonStickAround::
-    .string "Using BAIT will make POKéMON more\n"
-    .string "likely to stick around if they get\l"
-    .string "busy eating.$"
+    .string "Avec un APPÂT, le POKéMON a plus\n"
+    .string "de chances de rester, occupé\l"
+    .string "à manger.$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
-    .string "I hiked a lot, but I didn't see any\n"
-    .string "POKéMON I wanted.$"
+    .string "J'ai beaucoup marché, mais je n'ai\n"
+    .string "vu aucun POKéMON que je voulais.$"
 

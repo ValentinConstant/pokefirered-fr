@@ -1,18 +1,18 @@
 OneIsland_TreasureBeach_Text_AmaraIntro::
-    .string "Lying back, rocked by the waves…\n"
-    .string "It's exquisite.$"
+    .string "Allongée, bercée par les vagues…\n"
+    .string "C'est exquis.$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-    .string "I lost…\n"
-    .string "It feels awful.$"
+    .string "J'ai perdu…\n"
+    .string "C'est affreux.$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-    .string "The sea is pleasantly warm in these\n"
-    .string "parts.$"
+    .string "La mer est agréablement chaude\n"
+    .string "par ici.$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-    .string "Good things get washed up by the\n"
-    .string "ocean current onto this beach.\p"
-    .string "That's why I often come here for\n"
-    .string "some beachcombing.$"
+    .string "Les courants rejettent de bonnes\n"
+    .string "choses sur cette plage.\p"
+    .string "C'est pour ça que je viens souvent\n"
+    .string "fouiller la plage.$"
 

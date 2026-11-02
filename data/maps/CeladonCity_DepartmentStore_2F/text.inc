@@ -1,19 +1,21 @@
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-    .string "SUPER REPEL keeps weak POKéMON at\n"
-    .string "bay…\p"
-    .string "Hmm, it's a more powerful REPEL.$"
+    .string "Le SUPER REPOUSS éloigne les\n"
+    .string "POKéMON faibles…\p"
+    .string "Hmm, c'est un REPOUSSE plus\n"
+    .string "puissant.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
-    .string "For long outings, you should buy\n"
-    .string "REVIVE.$"
+    .string "Pour les longues sorties, tu\n"
+    .string "devrais acheter des RAPPELS.$"
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
-    .string "Top-Grade Items for TRAINERS!\p"
-    .string "2F: TRAINER'S MARKET$"
+    .string "Objets haut de gamme pour\n"
+    .string "DRESSEURS!\p"
+    .string "1er: MARCHÉ DES DRESSEURS$"
 
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
-    .string "We have a customer, LANCE, who\n"
-    .string "occasionally comes.\p"
-    .string "He always buys capes.\p"
-    .string "I wonder… Does he have many\n"
-    .string "identical capes at home?$"
+    .string "Nous avons un client, PETER,\n"
+    .string "qui vient de temps en temps.\p"
+    .string "Il achète toujours des capes.\p"
+    .string "Je me demande… A-t-il plein de\n"
+    .string "capes identiques chez lui?$"
